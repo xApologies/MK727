@@ -95,8 +95,12 @@ Both PDFs parse strictly with pypdf, are unencrypted, and yield nonempty text on
 
 ## Commit and publication receipt
 
-Milestone content commit: pending initial commit. This field will be replaced with the actual SHA in a report-only follow-up commit.
+Milestone content commit: `abc2354753637b843f77bc6513faba99b75b1acd`.
 
-Publication target: `origin/main`. No successful push is claimed by this pre-publication report.
+Commit message: `MK727: milestone 02 story and Black Card live model`.
 
-The commit containing this report cannot embed its own SHA. After the receipt is finalized, its publication commit can be resolved with `git log -1 --format=%H -- MILESTONE_02_DEPLOYMENT_REPORT.md`; the final deployment response records the exact remotely verified branch tip.
+The content commit contains the complete milestone and validation report. This report-only follow-up records its actual SHA without changing the live model, catalogue or source archives.
+
+Publication target: `origin/main`. Publication follows the report-only commit; the final deployment response records the remotely verified result. To verify the current published tip, compare `git rev-parse HEAD` with `git ls-remote origin refs/heads/main`.
+
+The commit containing this report cannot embed its own SHA. Its publication commit can be resolved with `git log -1 --format=%H -- MILESTONE_02_DEPLOYMENT_REPORT.md`.
