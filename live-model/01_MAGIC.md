@@ -1,0 +1,12 @@
+# Genesis Cards — ESTABLISHED MK727 L1 implementation
+A maege-glass Genesis Card embeds a manifold and executes AERA's six-stage Transduction lifecycle. Personal Genesis energy activates and consciously couples to it; idle maintenance is a tiny trickle. Practitioner directs the expression and experiences basin-specific fatigue; card handles underlying material/field math. Burst effects incur discrete draws; sustained summons/fields incur continuous draw. Higher energy basins generally fatigue faster, depending on individual competency.
+
+**One active conduit per basin per practitioner** (R,O,Y,G,B,V). Two active cards cannot share any required basin. A multibasin card ceases functioning if any required basin exhausts. Six simultaneous cards is the upper bound only for six disjoint single-basin cards. Inactive cards may be carried and swapped by deactivating/activating. This is book-specific L1, not universal AERA.
+
+Cards can remain suspended in Genesis Field, anchored to user's field to follow, consciously moved/orbited, or physically placed. Distance from a stationary card degrades conscious connection and may deactivate it. Cards are destructible; optional Sleeve protective cards occupy their own basins. Exact distances, damage rules, sleeve properties OPEN.
+
+Personal Shaping is equipment-centered: Genesis Cards, enchanted weapons, armor. Binding Circles still exist as specialized sigils that resolve identity into objects/people but are not the default personal casting interface. Architects directly manipulate Genesis topology independently.
+
+**Industrial manufacturing:** repeatable sigil array flashes blank maege-glass cards, efficient mass production. **Cardsmithing:** licensed specialist Architect uses sigil workstation, Genesis crystals/dust, vaen and other materials to construct/restructure manifold; controlled collapse consumes ingredients and embeds structural identity. Crafted cards can compress required basin sets (3→2, 3→1, 6→4 etc.) possibly at greater remaining conduit draw. Existing industrial cards may be modified. Crafting variants and White secondary enhancements DEFERRED. Crown licensing, registration and black-market production WORKING; exact laws OPEN.
+
+Same card does not confer same competency: apprentice/master blacksmith can direct heat and metal with dramatically different precision. Fire is material-science Transduction, not a fundamental Fire basin. Hypothetical overlapping Fire/Metal card requirements are ILLUSTRATIVE, not source-verified IDs.

@@ -1,0 +1,6 @@
+.inbox/
+**/.inbox/
+_inbox/
+**/_inbox/
+__pycache__/
+*.tmp

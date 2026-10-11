@@ -1,0 +1,51 @@
+{
+  "status": "MK727 author-approved direction: nine Prime Elementals, three basin connections each",
+  "assignments": {
+    "PE-001": [
+      "Red",
+      "Yellow",
+      "Violet"
+    ],
+    "PE-002": [
+      "Red",
+      "Green",
+      "Blue"
+    ],
+    "PE-003": [
+      "Orange",
+      "Green",
+      "Violet"
+    ],
+    "PE-004": [
+      "Yellow",
+      "Blue",
+      "Violet"
+    ],
+    "PE-005": [
+      "Red",
+      "Blue",
+      "Violet"
+    ],
+    "PE-006": [
+      "Red",
+      "Orange",
+      "Green"
+    ],
+    "PE-007": [
+      "Orange",
+      "Yellow",
+      "Blue"
+    ],
+    "PE-008": [
+      "Red",
+      "Yellow",
+      "Green"
+    ],
+    "PE-009": [
+      "Orange",
+      "Blue",
+      "Violet"
+    ]
+  },
+  "note": "These are MK727-specific assignments. Original MK157 snapshots remain unchanged. Exact sustain draw values remain open."
+}
