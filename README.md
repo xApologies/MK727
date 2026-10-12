@@ -31,3 +31,11 @@ The [M04 execution instructions](provenance/milestone-04/EXECUTABLE.md) are inte
 Arc IV is education; first original Armor construction is in early-to-middle Arc V. The tournament team is locked to Yellow/fourth place, with a high-end ring and cash awarded afterward. Older WORKING placement and OPEN tournament-result wording are retained as explicitly superseded history. Card designs remain proposals outside the unchanged 1,245-record catalogue.
 
 The [decision ledger](provenance/MILESTONE_04_DECISION_LEDGER.md) and [reverse semantic audit](provenance/MILESTONE_04_REVERSE_SEMANTIC_AUDIT.md) map source decisions to resulting headings, preserved assets, validation and OPEN questions. [Historical antagonist PDFs](references/genesis-point-antagonists/README.md) and [visual references](references/m04-visuals/README.md) have scoped provenance. Local `_inbox/` and `.inbox/` contents remain excluded from Git.
+
+## Milestone 05
+
+Read [Hollowmere and the planned hub](live-model/10_SETTLEMENT.md#hollowmere-and-the-planned-hub), [civilization and Wilds](live-model/22_CIVILIZATION_AND_WILDS.md), [corridors and professions](live-model/23_CORRIDORS_AND_PROFESSIONS.md), [cartographic availability](live-model/24_CARTOGRAPHIC_PROVENANCE.md), and [the current handoff](live-model/16_NEXT_THREAD_HANDOFF.md#milestone-05-current-handoff).
+
+Hollowmere #6 is a Green-rated dungeon. Kaira first enters it in Arc VI; Arc I's five-chapter working sequence and all M04 locks are retained. New city/noble and one-anchor transport specifications are scoped author directions. The accepted atlas and original political overlay are not included; existing map images are unchanged. Background underworld activity exists in Red without changing M04's later principal-antagonist matrix.
+
+The [decision ledger](provenance/MILESTONE_05_DECISION_LEDGER.md), [source register](provenance/MILESTONE_05_SOURCE_REGISTER.md) and [reverse audit](provenance/MILESTONE_05_REVERSE_SEMANTIC_AUDIT.md) record evidence, supersessions and OPEN issues. The [executable](provenance/milestone-05/EXECUTABLE.md), decisions and manifest are archived exactly; historical milestones and all 1,245 card records remain preserved.

@@ -1,4 +1,6 @@
-> **Current M04 authority:** read [Milestone 04 story supersessions](#milestone-04-story-supersessions) below. Earlier text is preserved history wherever that section explicitly supersedes or qualifies it.
+> **Current M05 update:** [Milestone 05 homecoming and saga continuity](#milestone-05-homecoming-and-saga-continuity) governs the scoped corrections; earlier milestone decisions remain effective where not superseded.
+
+> **M04 authority retained within its scope:** read [Milestone 04 story supersessions](#milestone-04-story-supersessions) below. Earlier text is preserved history wherever that section explicitly supersedes or qualifies it.
 
 # Seven-book saga — MK117 adaptation plan
 
@@ -44,3 +46,9 @@ MK117's old Enix origin, junior blacksmith companion, Black crystal and Black-st
 **RESOLVED:** Arc VI's team result is **AUTHOR-LOCKED Yellow/fourth place**, with a **high-end** Dimensional Ring and monetary prize awarded after competition. Earlier OPEN-result wording is historical; exact ring tier/capacity, cash and choreography remain OPEN. Companions accept vaelum employment; Kaira declines for independent Cardsmithing/exploration; friendship remains.
 
 Manual chainmail knowledge precedes novice card-assisted prepared-ring assembly in Arc II; it does not delay every metal-card operation until later education. [21_M04_BOOK_RED_EXPANSION.md](21_M04_BOOK_RED_EXPANSION.md) supplies long-form pacing (~900–1300 pages/book as an aspiration) and the detailed sequence. Later five-system acquisitions remain WORKING, not mastery guarantees. [19_ANTAGONISTS.md](19_ANTAGONISTS.md) sets separate faction/environmental arcs; [20_REALMS_AND_STARSCAPE.md](20_REALMS_AND_STARSCAPE.md) permits later realm exploration without a color-matched itinerary. White's planetary stabilization is now author-established, with existing Eldris fate OPEN.
+
+## Milestone 05 homecoming and saga continuity
+
+Hollowmere at #6 is a **Green-rated persistent dungeon**, superseding the older Yellow-mine background. The planned Village Hub's economy/social life centers on delvers, guards, merchants, lodging, armor supply and tourism/tax income. Kaira has long admired this community while making deliveries, but her first entry into Hollowmere is **Arc VI**, returning with her tournament team. Arc V's delving is elsewhere; no new Arc I delve is inserted. Exact stage/race/date and named reunions remain OPEN.
+
+Arc I retains its five-chapter WORKING sequence and collapse/healing/restoration. All six arcs, early-to-middle Arc V original Armor, team Yellow/fourth and high-end ring/cash after competition remain. **Red is the first continuous volume of a seven-book saga**, with a satisfying identity-formation arc; it is not deliberately standalone and need not close every sequel thread. Drug/slave trades and cartel markets already exist in Red's background without becoming its principal antagonists. See [background underworld](19_ANTAGONISTS.md#milestone-05-background-underworld).

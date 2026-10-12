@@ -1,4 +1,6 @@
-> **Current M04 authority:** read [Milestone 04 result and reward supersession](#milestone-04-result-and-reward-supersession) below. Earlier text is preserved history wherever that section explicitly supersedes or qualifies it.
+> **Current M05 update:** [Milestone 05 Hollowmere circuit](#milestone-05-hollowmere-circuit) governs the scoped corrections; earlier milestone decisions remain effective where not superseded.
+
+> **M04 authority retained within its scope:** read [Milestone 04 result and reward supersession](#milestone-04-result-and-reward-supersession) below. Earlier text is preserved history wherever that section explicitly supersedes or qualifies it.
 
 # King's Tournament and Dimensional Ring — MK727 inheritance
 **ESTABLISHED MK727 story choice:** Arc VI of Book Red is the King's Tournament finale; the major reward is a Dimensional Ring. This proves Kaira has become a competent dungeon delver. Ring quality and her precise placing OPEN.
@@ -22,3 +24,9 @@ Do not decide ring quality, prize schedule, final race result, or other rules wi
 No ring in earlier arcs or during competition. The finite recursive-topology/conscious-selection mechanism, conservation, inheritance reassignment and the two operation sequences above remain unchanged; no pocket dimension, inventory UI or capacity formula is introduced. Cards, mother's books, tools, chainmail stock, bedroll and provisions may form her later core kit. A compact portable Cardsmith table is a future possibility only.
 
 After achievement, companions accept professional **vaelum** employment. Kaira declines for independent Cardsmithing/exploration; friendships remain and later reunion is possible. Team/employer names remain OPEN. [Current spine](12_BOOK_RED_SIX_ARCS.md#milestone-04-current-six-arc-spine) places formal education in IV and original Armor in early-to-middle V; the ring cannot assist either event.
+
+## Milestone 05 Hollowmere circuit
+
+Green-rated Hollowmere (#6) participates in the King's Tournament circuit. Kaira returns with her team and first enters her home dungeon during **Arc VI**; years of deliveries/community admiration do not imply a prior delve. Exact race stage/date and named reunions remain OPEN. This does not assign Hollowmere to qualification, regional or finals stage, change point values, or resolve source “Purple Region” wording. Team Yellow/fourth and high-end ring/cash **after competition** remain LOCKED.
+
+An optional ring-sized anchor in the [generic corridor design](23_CORRIDORS_AND_PROFESSIONS.md) grants Kaira no earlier ring. Capital-city gates also do not change ring ontology or chromatic-realm travel rules.

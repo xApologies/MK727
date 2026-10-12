@@ -1,3 +1,5 @@
+> **Current M05 update:** [Milestone 05 background underworld](#milestone-05-background-underworld) governs the scoped corrections; earlier milestone decisions remain effective where not superseded.
+
 # Antagonists and geopolitical scope — Milestone 04
 
 **Status: AUTHOR-ESTABLISHED saga direction, with source candidates and OPEN details distinguished below.** Source: [M04 antagonist decisions](../provenance/milestone-04/decisions/04_ANTAGONISTS.md). Four human criminal/systemic antagonist categories operate alongside a separate nonmoral environmental pressure.
@@ -31,7 +33,7 @@ Red/Orange center personal, road and kingdom-adjacent life. Yellow's cartel conf
 
 Kaira knows the royal family and is the princess's friend; the king owns a chainmail robe. These author-supplied relationships do not make her an early-book royal policymaker or lock exact meeting scenes. Seven/eight cartels and three kingdoms on a continent are **ILLUSTRATIVE**, not an approved map or faction census.
 
-The author's scale direction is a planet approximately **80,000 miles in diameter**, Genesis trees about five miles tall, and mountains up to about five times Kilimanjaro's elevation. Planetary physics and the world map remain OPEN. No gravity, density, orbital parameters, continent layout, route distances or travel times are derived here. The historical pirate source's approximately 60,000-mile **circumference** is incompatible and is not adopted.
+The author's scale direction is a planet approximately **80,000 miles in diameter**, Genesis trees about five miles tall, and mountains up to about five times Kilimanjaro's elevation. Planetary physics and exact map georeferencing remain OPEN. M05 reports an accepted world atlas, but its bytes and the original political overlay are not supplied. No gravity, density, orbital parameters, continent layout, route distances or travel times are derived here. The historical pirate source's approximately 60,000-mile **circumference** is incompatible and is not adopted.
 
 ## Environmental pressure and White resolution
 
@@ -44,3 +46,11 @@ The fate of already-existing Eldris and other monster species is OPEN. The sourc
 The four [Genesis Point PDFs](../references/genesis-point-antagonists/README.md) are historical conceptual references. Their internal “canon” or “hardlock” labels describe that source project and do not govern MK727.
 
 Floating sanctuary triangles, a suppression ring, bandit cubes, old drug-production/application details, source-specific eleven-cartel/six-kingdom counts, old planetary dimensions and elemental naval magic are not automatically adopted. Broad mobile pirate hubs are approved above; their detailed architecture, Pirate King hierarchy, cartel fulcrum doctrine and Cabal millennial infiltration remain **candidate inheritances** requiring adaptation/explicit approval. Faction names beyond the Cabal, leaders, exact territories and scene routes remain OPEN.
+
+## Milestone 05 background underworld
+
+**ESTABLISHED:** drug trade, slave trade and cartel-managed black markets **already exist during Book Red**. Crown/noble circles know of them; ordinary urban residents have variable awareness. Red's focus is Kaira's identity, and ordinary background conversation may acknowledge these realities without making cartels or pirates primary antagonists. The M04 matrix remains a foreground-emphasis schedule, not an origin date for crime.
+
+Kaira **does not use** the unnamed fictional crystalline drug. Its effects include euphoria, dependency, cognitive deterioration and secondary increased suggestibility, **not mind control**. The adopted effects do not import Genesis Point production/application details or create a name, chemistry, dose or specific scene.
+
+Stolen vaen and alchemical resources may be fenced through black-market intermediaries. Pirate maritime trafficking and cartel regional markets may intersect; not every crime has central control. No trafficking route, cartel name or new criminal plot scene is fixed. These local background additions leave the four independent human pressures and separate environmental resolution intact. Source: [M05 map/underworld decisions](../provenance/milestone-05/decisions/04_MAP_AND_UNDERWORLD.md).

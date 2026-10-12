@@ -1,3 +1,5 @@
+> **Current M05 update:** [Milestone 05 cumulative continuity](#milestone-05-cumulative-continuity) governs the scoped corrections; earlier milestone decisions remain effective where not superseded.
+
 # Book Red expansion — Milestone 04
 
 **Source:** [M04 Book Red decisions](../provenance/milestone-04/decisions/01_BOOK_RED.md), with [material](17_MATERIAL_MANIPULATION.md), [workspace](18_CARDSMITHING_WORKSPACE.md), [antagonist](19_ANTAGONISTS.md) and [realm](20_REALMS_AND_STARSCAPE.md) specifications. Author-approved beats, proposed equipment and OPEN choreography remain distinct. The [six-arc spine](12_BOOK_RED_SIX_ARCS.md) remains the sequence authority.
@@ -51,3 +53,11 @@ After the team's achievement, companions accept professional **vaelum** employme
 The ring supports travel and realm-vaen expeditions. The inherited **WORKING** scaffold remains Armor in Red, CSR in Orange, Orbs in Yellow, Green development, Halo in Blue, Domain in Violet and integration in White. No sixth Black Card is mandated. Red's Arc V Armor event is now author-established; the later acquisition/mastery scaffold remains provisional.
 
 Late Orange/early Yellow and later realm exploration can take substantial book space without matching realm colors to book labels. [Four human antagonist pressures](19_ANTAGONISTS.md#book-emphasis-matrix) escalate independently from the environmental crisis. White's author-established planetary stabilization ends collapse and collapse-driven monster emergence; existing Eldris fate remains OPEN.
+
+## Milestone 05 cumulative continuity
+
+Hollowmere #6 is a **Green-rated persistent dungeon**, superseding all Yellow-mine references. The planned hub remains in place near mountains/runoff and lives around the dungeon economy. Arc I's existing five-chapter working sequence is preserved: Kaira delivers armor to dungeon guards/adventuring support without entering Hollowmere. She has admired its community for years. Arc V adventuring elsewhere, team and Armor fulfill that interest; Arc VI returns her with the team for her **first entry into Hollowmere**. Exact race stage/date/reunions remain OPEN. Six arcs, Armor first third-to-half V, Yellow/fourth and high-end ring/cash after competition remain unchanged.
+
+Her workbench sigil is architect-made; Cardsmithing concerns card engineering with shared mathematics and professional operation. An accepted world atlas exists as an author decision but its bytes and political overlay are missing. Arc II's exact city remains OPEN. Capital gates and the generic optional ring-sized anchor do not grant Kaira early ring/CSR use.
+
+Red is the first continuous volume of seven with a satisfying identity-formation arc, not deliberately standalone or required to close all sequel threads. [Background illicit economies](19_ANTAGONISTS.md#milestone-05-background-underworld) can be acknowledged in ordinary conversation while later books foreground the M04 factions. Kaira does not use the unnamed fictional drug; no scenes, names or routes are added.

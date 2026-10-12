@@ -9,7 +9,7 @@
 - `07_BLACK_CARDS.md` — five systems, unified Neon, staged mastery.
 - `08_EDUCATION_PROFESSIONS.md` — Blackstone, robe movement, Cardsmithing, `aithren`.
 - `09_ARC_ONE.md` — opening chapters, donkey route, collapse, healing, restoration.
-- `10_SETTLEMENT.md` — village hub and Hollowmere mine.
+- `10_SETTLEMENT.md` — village hub and Hollowmere dungeon (M05 supersedes the earlier mine label).
 - `11_DECISION_LEDGER.md` — supersessions, open items and contamination controls.
 
 This is a story-planning model, not finished prose. Existing `01_MAGIC.md`, `02_WORLD.md`, and `04_CATALOGUE.md` remain authoritative for their established foundations; future refinements should reconcile the new material without replacing source data.
@@ -37,3 +37,15 @@ The preceding Milestone 02 index is retained. Read the dated appendices in [06_S
 - [M04 ledger](../provenance/MILESTONE_04_DECISION_LEDGER.md) and [reverse audit](../provenance/MILESTONE_04_REVERSE_SEMANTIC_AUDIT.md) — decision coverage, source tensions, supersessions and checks.
 
 Current spine: Arc IV formal education; Arc V original Armor construction in approximately its first third to half; Arc VI team Yellow/fourth **LOCKED**, then high-end ring and cash. Friends join vaelum, Kaira remains independent and friendships continue. [12 current spine](12_BOOK_RED_SIX_ARCS.md#milestone-04-current-six-arc-spine) and the M04 appendices in 06/07/08/11/13/16 supersede earlier Armor-at-Blackstone and OPEN-result text without deleting it. Manual skill precedes novice card-assisted prepared-ring assembly in Arc II. Exact recipes, card IDs/colors/prices, ring tier/capacity, cash, routes and sixth Black Card remain OPEN.
+
+## Milestone 05 current additions
+
+- [10_SETTLEMENT.md](10_SETTLEMENT.md#hollowmere-and-the-planned-hub) — corrected Green-rated Hollowmere dungeon, planned hub economy and Arc VI first entry.
+- [22_CIVILIZATION_AND_WILDS.md](22_CIVILIZATION_AND_WILDS.md) — stabilization, city scales, district/rural noble shares, civic duties and four royal domains.
+- [23_CORRIDORS_AND_PROFESSIONS.md](23_CORRIDORS_AND_PROFESSIONS.md) — capital gates, one reusable mobile anchor, civilian/military compatibility and distinct professional duties.
+- [24_CARTOGRAPHIC_PROVENANCE.md](24_CARTOGRAPHIC_PROVENANCE.md) — accepted but unavailable atlas/overlay, rejected substitute image and unchanged local map.
+- [19_ANTAGONISTS.md](19_ANTAGONISTS.md#milestone-05-background-underworld) — already-existing illicit economies in Red; M04 primary-antagonist emphasis retained.
+- [16_NEXT_THREAD_HANDOFF.md](16_NEXT_THREAD_HANDOFF.md#milestone-05-current-handoff) — current continuation point and unresolved values.
+- [M05 ledger](../provenance/MILESTONE_05_DECISION_LEDGER.md), [source register](../provenance/MILESTONE_05_SOURCE_REGISTER.md) and [reverse audit](../provenance/MILESTONE_05_REVERSE_SEMANTIC_AUDIT.md) — complete coverage and preservation.
+
+M05 explicitly supersedes prior Hollowmere Yellow-mine claims, Cardsmith/Architect duty conflation, capital ~13×13 alternative, and a reading of map availability as lack of author acceptance. Arc I sequence, six arcs, Armor Arc V, Yellow/fourth team result and post-competition ring/cash remain. Historical provenance is unchanged.

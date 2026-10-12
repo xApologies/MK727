@@ -1,4 +1,6 @@
-> **Current M04 authority:** read [Milestone 04 current six-arc spine](#milestone-04-current-six-arc-spine) below. Earlier text is preserved history wherever that section explicitly supersedes or qualifies it.
+> **Current M05 update:** [Milestone 05 Hollowmere continuity](#milestone-05-hollowmere-continuity) governs the scoped corrections; earlier milestone decisions remain effective where not superseded.
+
+> **M04 authority retained within its scope:** read [Milestone 04 current six-arc spine](#milestone-04-current-six-arc-spine) below. Earlier text is preserved history wherever that section explicitly supersedes or qualifies it.
 
 # Book Red — Six-Arc Narrative Spine
 **Status:** ESTABLISHED arc count and sequence; detailed scenes and chronology OPEN. Arc-first development; chapters serve arcs rather than define them.
@@ -25,13 +27,19 @@ This table is current. It explicitly supersedes the preserved Milestone 03 table
 
 | Arc | Name | Current story function | Endpoint / dependency |
 | --- | --- | --- | --- |
-| I | Village Hub | Age-23 Kaira, manual smithy craft, secret delivery harvesting, collapse, healing and exceptional White-catalyzed restoration | Independence; keep living black mushroom vaen for later Armor |
+| I | Village Hub | Age-23 Kaira, manual smithy craft, deliveries to Hollowmere guards/support without entering its dungeon, secret harvesting, collapse, healing and exceptional White-catalyzed restoration | Independence; keep living black mushroom vaen for later Armor |
 | II | Orange District | Independent city life; prepared rings from a local smith; proposed three-basin General Metal Manipulation and novice assisted assembly | Robe development grounded in prior manual expertise |
 | III | Chainmail Robe Movement | Commissions, income, social identity, toolkit and informal workbench experiments | Costly learning; minor original card success possible, not fixed |
 | IV | Blackstone | **Formal Cardsmith education**: mathematics, topology, differential geometry, materials, sigils and engineering | Professional development; no required Armor construction here |
 | V | Aithren Community | Voluntary delving, friendships, commissions and team formation; **first major original Armor** from blank maege glass approximately in the **first third to half** | Consume black mushroom vaen; develop armor use/combat/delving and relationships through the remainder |
-| VI | King's Tournament | Team competition; **AUTHOR-LOCKED Yellow/fourth place** | **High-end ring and monetary prize after competition**; friends accept vaelum employment, Kaira declines and remains their friend |
+| VI | King's Tournament | Team competition including Green-rated Hollowmere, Kaira’s first entry/homecoming; **AUTHOR-LOCKED Yellow/fourth place** | **High-end ring and monetary prize after competition**; friends accept vaelum employment, Kaira declines and remains their friend |
 
 The result is not an outright victory. Yellow placing does not determine ring quality color or alter the inherited V6/B5/G4/Y3/O2/R1 dungeon scoring. Exact ring tier/capacity, cash, team names, qualification detail and Purple Region wording remain OPEN. Kaira has no ring during I–V or VI competition; the ring supports later travel. A compact portable Cardsmith table is only a future possibility.
 
 [21_M04_BOOK_RED_EXPANSION.md](21_M04_BOOK_RED_EXPANSION.md) supplies detailed continuity and the ~900–1300-page/book long-form aim. Timing of the Armor event is flexible arc pacing, not a chapter allocation. Her independent craft/adventurer identities accumulate; no precise route, scene calendar or realm-color itinerary is imposed.
+
+## Milestone 05 Hollowmere continuity
+
+The M04 table now includes the M05 correction: **Hollowmere #6 is Green-rated**, with guard/support deliveries in Arc I and Kaira's **first Hollowmere entry with her team in Arc VI** as part of the tournament circuit. All former Yellow-mine claims are SUPERSEDED. She has admired the dungeon community for years; the homecoming pays off that interest. Arc V delving remains elsewhere; no earlier home-dungeon entry or new Arc I chapter is inserted.
+
+Six arcs and Arc I's five-chapter WORKING sequence remain. Exact Hollowmere race stage/date/reunions are OPEN. Armor first third-to-half Arc V, team Yellow/fourth and high-end ring/cash after competition remain locked. Red is continuous saga volume one with identity-formation satisfaction, not a standalone closing every sequel thread.

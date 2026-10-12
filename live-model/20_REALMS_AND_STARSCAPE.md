@@ -1,3 +1,5 @@
+> **Current M05 update:** [Milestone 05 maps and gate boundary](#milestone-05-maps-and-gate-boundary) governs the scoped corrections; earlier milestone decisions remain effective where not superseded.
+
 # Realms and starscape — Milestone 04
 
 **Status: AUTHOR-ESTABLISHED MK727 realization, not a universal AERA requirement.** Source: [M04 realm decisions](../provenance/milestone-04/decisions/05_REALMS.md). This clarifies and expands the existing [world and sprite summary](02_WORLD.md).
@@ -42,7 +44,7 @@ Exact ontology, embodiment, lifespan, population, limits and mechanisms are OPEN
 
 MK727 adopts chromatic realms as traversable interworld bridge environments. Multiple White worlds, potentially planets in other galaxies, may access the same realms. A human traveler can enter from one White world and eventually reach another; actual passage mechanics, coordinates and duration remain OPEN. No universal local clock ratios or instant intergalactic transport are implied.
 
-Kaira's late Orange/early Yellow and later exploration can occupy major portions of books, driven by vaen research, encounters, profession and independent exploration. This is a flexible story direction, not a compulsory departure date, route or realm sequence. The planetary world map has not been supplied.
+Kaira's late Orange/early Yellow and later exploration can occupy major portions of books, driven by vaen research, encounters, profession and independent exploration. This is a flexible story direction, not a compulsory departure date, route or realm sequence. M05 reports that the author has accepted an illustrated world atlas derived from original geography/climate maps; its bytes have not been supplied to this repository. Exact map georeferencing remains OPEN.
 
 ## Owning sources
 
@@ -53,3 +55,7 @@ Read at AERA revision `40e3482b9ea8339ad2c6a9166f3324fa30f42a12`:
 - [Domain context](https://github.com/xApologies/AERA/blob/40e3482b9ea8339ad2c6a9166f3324fa30f42a12/L2/ENVIRONMENT/01_DOMAIN_CONTEXT.md): basin, inhabited realm, starscape, dungeon, domai, political domain and operational domain are distinct.
 
 No AERA, MK147, `_bricked` or `_raeon` repository is modified by these local decisions.
+
+## Milestone 05 maps and gate boundary
+
+Author acceptance of the world atlas is now established, while its image bytes and the authoritative political overlay remain unavailable; see [asset register](24_CARTOGRAPHIC_PROVENANCE.md#asset-availability). This qualifies earlier deferred-map language without inventing a planetary map or coordinates. [Capital gates and field corridors](23_CORRIDORS_AND_PROFESSIONS.md) concern local civic/expedition transport. They do not resolve inter-realm gateways, compatibility, interworld coordinates or duration, all still OPEN under M04.

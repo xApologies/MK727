@@ -1,0 +1,30 @@
+{
+  "package": "MK727 Milestone 05",
+  "files": [
+    {
+      "path": "executable.md",
+      "sha256": "dd753686e77f2ad52de3dff206ce9e69ae3415e8b6ef042c8dadac8f50fb0ac8",
+      "bytes": 3017
+    },
+    {
+      "path": "decisions/04_MAP_AND_UNDERWORLD.md",
+      "sha256": "9ef26d4ee62f7e61c1fa1201abe2db3d477b2673b6100651a09872b77b44fa94",
+      "bytes": 1897
+    },
+    {
+      "path": "decisions/03_CORRIDORS.md",
+      "sha256": "c4861dd658483f12c1c0b52d7ac560953a141854bec91dac79696736efd122bb",
+      "bytes": 2238
+    },
+    {
+      "path": "decisions/02_CIVILIZATION.md",
+      "sha256": "0b78171cae6a2e5da8d4b87ac6d2ddf8d7e830ea01d7d7c780d527c4556eac0e",
+      "bytes": 2661
+    },
+    {
+      "path": "decisions/01_HOLLOWMERE.md",
+      "sha256": "b58966ffe1013a47260da495e86e41d7aa56fefe5dc62123dfe8b12b5e40d0b8",
+      "bytes": 1841
+    }
+  ]
+}

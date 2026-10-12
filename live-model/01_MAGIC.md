@@ -1,3 +1,5 @@
+> **Current M05 update:** [Milestone 05 professional scope](#milestone-05-professional-scope) governs the scoped corrections; earlier milestone decisions remain effective where not superseded.
+
 # Genesis Cards — ESTABLISHED MK727 L1 implementation
 A maege-glass Genesis Card embeds a manifold and executes AERA's six-stage Transduction lifecycle. Personal Genesis energy activates and consciously couples to it; idle maintenance is a tiny trickle. Practitioner directs the expression and experiences basin-specific fatigue; card handles underlying material/field math. Burst effects incur discrete draws; sustained summons/fields incur continuous draw. Higher energy basins generally fatigue faster, depending on individual competency.
 
@@ -7,6 +9,10 @@ Cards can remain suspended in Genesis Field, anchored to user's field to follow,
 
 Personal Shaping is equipment-centered: Genesis Cards, enchanted weapons, armor. Binding Circles still exist as specialized sigils that resolve identity into objects/people but are not the default personal casting interface. Architects directly manipulate Genesis topology independently.
 
-**Industrial manufacturing:** repeatable sigil array flashes blank maege-glass cards, efficient mass production. **Cardsmithing:** licensed specialist Architect uses sigil workstation, Genesis crystals/dust, vaen and other materials to construct/restructure manifold; controlled collapse consumes ingredients and embeds structural identity. Crafted cards can compress required basin sets (3→2, 3→1, 6→4 etc.) possibly at greater remaining conduit draw. Existing industrial cards may be modified. Crafting variants and White secondary enhancements DEFERRED. Crown licensing, registration and black-market production WORKING; exact laws OPEN.
+**Industrial manufacturing:** repeatable sigil array flashes blank maege-glass cards, efficient mass production. **Cardsmithing:** licensed Cardsmith uses an Architect/Runesmith-made sigil workstation, Genesis crystals/dust, vaen and other materials to construct/restructure manifold; controlled collapse consumes ingredients and embeds structural identity. Crafted cards can compress required basin sets (3→2, 3→1, 6→4 etc.) possibly at greater remaining conduit draw. Existing industrial cards may be modified. Crafting variants and White secondary enhancements DEFERRED. Crown licensing, registration and black-market production WORKING; exact laws OPEN.
 
 Same card does not confer same competency: apprentice/master blacksmith can direct heat and metal with dramatically different precision. Fire is material-science Transduction, not a fundamental Fire basin. Hypothetical overlapping Fire/Metal card requirements are ILLUSTRATIVE, not source-verified IDs.
+
+## Milestone 05 professional scope
+
+Only the professional attribution in the manufacturing paragraph is corrected: **Cardsmiths engineer cards; Architects/Runesmiths design and inscribe the sigils they use**. The older “licensed specialist Architect” conflation is SUPERSEDED. Transductionists operate equipment. Shared mathematics and sigil literacy do not imply both manufacturing duties. [Professional separation](23_CORRIDORS_AND_PROFESSIONS.md#professional-separation) applies to Kaira's architect-made workbench. Card lifecycle, basin occupancy, energy/fatigue, manifolds and manufacturing mechanics above are unchanged; M05 introduces no L0/L1 redesign.

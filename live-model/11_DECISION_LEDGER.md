@@ -1,4 +1,6 @@
-> **Current M04 authority:** read [Milestone 04 cumulative decisions](#milestone-04-cumulative-decisions) below. Earlier text is preserved history wherever that section explicitly supersedes or qualifies it.
+> **Current M05 update:** [Milestone 05 cumulative decisions](#milestone-05-cumulative-decisions) governs the scoped corrections; earlier milestone decisions remain effective where not superseded.
+
+> **M04 authority retained within its scope:** read [Milestone 04 cumulative decisions](#milestone-04-cumulative-decisions) below. Earlier text is preserved history wherever that section explicitly supersedes or qualifies it.
 
 # Milestone 02 — Decision ledger and audit
 
@@ -6,7 +8,7 @@
 - Mother **Cardsmith**, not apothecary; dies when Kira **15**, not 8. Failed expensive alchemical treatment and subsistence deplete savings.
 - Smithy ages **16–23**, **seven** years, not fifteen. Economic coercion; charged food and sleeping by forge. Three inherited technical books.
 - Starts with **one Fireball Card**, not zero. Exact catalogue entry and basins OPEN until lookup.
-- Delivery uses **smith-owned donkey/cart**, no accompanying apprentice. Hollowmere is a Yellow mine, background economic origin of village hub, not a dungeon.
+- Delivery uses **smith-owned donkey/cart**, no accompanying apprentice. M05 correction: Hollowmere #6 is a Green-rated persistent dungeon anchoring the Village Hub economy; the prior Yellow-mine/not-a-dungeon description is SUPERSEDED. Kaira first enters Hollowmere in Arc VI.
 - Restoration standard **six R–V cut crystals**, consumed. Kira's special potion **also consumes rare White crystal**; no Black crystal. Emergency healing potion remains distinct and leaves scars.
 - Kira's Black access is **unified Neon**, not six independent Black basin conduits. She may own many but **at most six Black Cards active**; total mixed ordinary/Black concurrency OPEN.
 - Five Black systems: Armor, CSR (Continuous Spatial Resolution), Orbs, Halo, Domain. Book placements WORKING; Green can focus on mastery. Halo throughput ~1.7×/3×/5× is WORKING, not free energy.
@@ -26,7 +28,7 @@
 - MK117 PDFs are **reference scaffolds**. Never import Enix name, original Black crystal, concept-learning magic, hospital pathway, junior smith apprentice, or unadapted character history.
 - MK157 supplies five Black-system names/capabilities and phenotype inspiration, but no Valnak, Elara, original family, credits, purchase gates or battle trial timeline.
 - `_bricked` is math only; no game/computer architecture.
-- MK147 owns existing town/dungeon/Blackstone infrastructure. Do not fabricate mine rules, map routes or new environmental physics.
+- MK147 owns existing town/dungeon/Blackstone infrastructure. Do not fabricate dungeon layouts, rules for other mine sites, map routes or new environmental physics.
 - The Black Card acquisition schedule is not a Red→White ordinary Binding rank-up ladder.
 
 
@@ -58,3 +60,14 @@ The [M04 ledger](../provenance/MILESTONE_04_DECISION_LEDGER.md) maps every suppl
 - **ESTABLISHED saga direction:** four independent human factions and book matrix, separate nonmoral instability/Eldris; White planetary stabilization ends collapse and collapse-driven emergence, existing Eldris fate OPEN. Planet ~80,000-mile diameter is author scale direction, not derived physics or an inherited old circumference.
 - **PRESERVED:** ages 15/16–23, three books, six chromatic plus White catalyst, no Black crystal, cumulative professions/adventure motive, five Black systems, sixth slot and mixed concurrency OPEN; all 1,245 records, names, maps and historical sources.
 - **OPEN retained:** exact Fireball and new-card details, recipes, ring values, team/supporting names, workshop/donkey/cart fate, exact collapse classification, routes/scenes/chronology, later saga detail, Purple Region wording, sprite ontology, gateways, planetary physics. The 900–1300-page aim and 20,000 rings are aspiration/illustration, not fixed chapter/order quantities.
+
+## Milestone 05 cumulative decisions
+
+- **ESTABLISHED / SUPERSEDED:** Hollowmere #6 is a Green-rated persistent dungeon; Yellow-mine/not-a-dungeon claims are historical. Its planned Village Hub stays in place near mountain runoff and centers on the delver economy. Other Genesis Mine markers remain mines. Arc I's five-chapter working sequence is unchanged; first Kaira entry into Hollowmere is Arc VI, not her Arc V delving elsewhere.
+- **ESTABLISHED / WORKING values:** stabilized islands amid Genesis-risk Wilds; representative four-corner/central arrays and road/waystation patrol culture. City footprints/radii remain WORKING; capital 10×10 supersedes older ~13×13. Minor events and entry by existing Eldris are not eliminated.
+- **ESTABLISHED local polity:** small-city districts Red/Orange/Yellow/White; large/capital six chromatic districts then White. Rural shares exclude urban area: 1:2:3 over six, or 1:2:3:4:5:6 over 21. White Crown-appointed overseer has no separate rural share. Duties, sanctions and affordable/dense Red districts do not guarantee zero crime. Exactly four royal domains: Violet King/Queen, Orange Prince, Green Prince, Blue Princess; one capital each. Rates/succession and exact city locations remain OPEN.
+- **APPROVED narrative transport:** permanent capital gates; one mobile anchor plus one Corridor Card leapfrog. Same anchor reused; civilian interoperability is not control of another corridor. Military restricted topology/matching cards. Dimensions are illustrative; exact range/capacity/security/discovery/contention/interruption remain OPEN. Roads, ships and patrols remain necessary.
+- **SUPERSEDED professional conflation:** Architects/Runesmiths design sigils/gates/anchors; Cardsmiths engineer cards; Transductionists operate equipment. Shared math remains; Kaira's sigil is architect-made. No L0/L1 operational change.
+- **ESTABLISHED acceptance / MISSING assets:** accepted illustrated atlas and original geography/climate/political maps are referenced but absent from M05. Existing village images stay intact. Unrelated generated multi-domain image REJECTED. Purple X denotes hub region; smaller colored X marks other mines. Exact georeferencing requires original assets.
+- **ESTABLISHED background:** drug/slave trades, cartel markets, stolen-vaen fencing and possible maritime/regional intersections already exist in Red. Awareness varies; Kaira does not use the unnamed crystalline drug. Euphoria/dependency/cognitive decline and secondary suggestibility are not mind control. No new drug chemistry/routes/faction names/scenes. M04 matrix remains primary-antagonist emphasis.
+- **PRESERVED:** Red is continuous volume one of seven, not deliberately standalone. Six arcs; Armor early-to-middle V; team Yellow/fourth; high-end ring/cash after competition; unchanged biography/collapse/restoration, catalogues and prior OPEN values. [M05 ledger](../provenance/MILESTONE_05_DECISION_LEDGER.md) and [audit](../provenance/MILESTONE_05_REVERSE_SEMANTIC_AUDIT.md) map every decision and supersession.
