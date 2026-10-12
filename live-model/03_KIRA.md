@@ -1,3 +1,5 @@
+> **Current M04 authority:** read [Milestone 04 supported biography additions](#milestone-04-supported-biography-additions) below. Earlier text is preserved history wherever that section explicitly supersedes or qualifies it.
+
 # Kira — MK727 revised biography (supersedes First Light)
 
 **ESTABLISHED:** Kira opens at age 23, Afflicted, introverted, resourceful, curious and generally positive despite exploitation. Typical Afflicted lifespan ~11–17, not a universal cutoff; oldest 37 claim unverified. Pre-restoration phenotype: chalky/calcified white skin, growths, brittle white hair, steel-gray eyes.
@@ -20,3 +22,12 @@ A standard Affliction restoration potion requires six intact, appropriately cut 
 Leftover cut chromatic shards constitute modest but real wealth, enough to escape the smithy, leave the village-hub region and establish herself in a city. She is not made limitlessly wealthy. Her future includes chainmail couture, Cardsmithing, Blackstone and `aithren` exploration.
 
 **SUPERSEDED:** mother apothecary; death at 8; 15 years in smithy; starting with zero cards; MK117 Black crystal; MK157 Valnak mechanism.
+
+
+## Milestone 04 supported biography additions
+
+Kaira is the manuscript spelling; Kira remains shorthand. M04 establishes that her one ordinary Fireball is **mother-made protection**, treasured as sentimental defense. This resolves the older WORKING possession/provenance status; exact catalogue ID/basins remain OPEN. All earlier age, employment, three-book, two-to-three-shot fatigue, healing/scar and White-catalyst decisions remain intact.
+
+Her delivery harvesting is secret. After the Arc I collapse she keeps a living broad-capped charcoal/black mushroom with glowing Genesis channels among recovered altered flora. It is vaen, **not a Black crystal**; she may sell other specimens and perhaps keep another as a houseplant. Post-restoration Genesis-circulation sensitivity is established direction, with its mechanism OPEN. Reproduction, taxonomy and exact preservation details are not specified.
+
+The mushroom is consumed as a special stabilizing vaen in her first major original Black Card, Armor of the Abyss, engineered from blank maege glass approximately in the first third to half of Arc V. Formal education is Arc IV. The exact recipe remains OPEN. See [living collection](18_CARDSMITHING_WORKSPACE.md#living-collection-and-the-black-mushroom) and [Book Red](21_M04_BOOK_RED_EXPANSION.md). At the finale her team finishes Yellow/fourth; after the award friends accept vaelum employment while she chooses independence and retains their friendship. No scenes, names or routes are assigned here.

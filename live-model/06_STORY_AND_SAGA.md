@@ -1,3 +1,5 @@
+> **Current M04 authority:** read [Milestone 04 story supersessions](#milestone-04-story-supersessions) below. Earlier text is preserved history wherever that section explicitly supersedes or qualifies it.
+
 # Seven-book saga — MK117 adaptation plan
 
 **Status:** WORKING story scaffold, not finalized chapters. MK117 is the source for early narrative scenes and social progression, not the governing MK727 magic system. Two author-supplied MK117 PDFs are archived under `references/MK117/`.
@@ -33,3 +35,12 @@ MK117's old Enix origin, junior blacksmith companion, Black crystal and Black-st
 **Status boundary:** the six-arc sequence is established, but the first Black Armor's Blackstone placement remains WORKING and its exact fabrication details remain OPEN, consistent with the earlier saga and [handoff](16_NEXT_THREAD_HANDOFF.md). The seven-book progression and cumulative professions remain intact; joining aithren is her independent choice to adventure.
 
 **Naming and scene provenance:** manuscript **Kaira**, author shorthand **Kira**. The 185-name pool is a candidate library (93 Female, 92 Male), not 185 assigned characters. Use the [map/event protocol](14_SPATIAL_EVENT_ENGINE.md) for occupancy, routes, timing, witnesses and consequences; exact scene rows, travel dates and routes remain OPEN. [The audit](../provenance/MILESTONE_03_REVERSE_SEMANTIC_AUDIT.md) records the source checks and wording qualifications.
+
+
+## Milestone 04 story supersessions
+
+**SUPERSEDED:** both the Milestone 02 academic-period Armor sentence and Milestone 03 WORKING Blackstone placement above. Arc IV supplies formal education. Armor of the Abyss is the first major original Black Card, engineered from blank maege glass approximately in the first third to half of **Arc V**, consuming the Arc I black mushroom vaen; recipe and exact chapter remain OPEN. Delving, team formation, combat practice and relationships fill the broader Aithren arc.
+
+**RESOLVED:** Arc VI's team result is **AUTHOR-LOCKED Yellow/fourth place**, with a **high-end** Dimensional Ring and monetary prize awarded after competition. Earlier OPEN-result wording is historical; exact ring tier/capacity, cash and choreography remain OPEN. Companions accept vaelum employment; Kaira declines for independent Cardsmithing/exploration; friendship remains.
+
+Manual chainmail knowledge precedes novice card-assisted prepared-ring assembly in Arc II; it does not delay every metal-card operation until later education. [21_M04_BOOK_RED_EXPANSION.md](21_M04_BOOK_RED_EXPANSION.md) supplies long-form pacing (~900–1300 pages/book as an aspiration) and the detailed sequence. Later five-system acquisitions remain WORKING, not mastery guarantees. [19_ANTAGONISTS.md](19_ANTAGONISTS.md) sets separate faction/environmental arcs; [20_REALMS_AND_STARSCAPE.md](20_REALMS_AND_STARSCAPE.md) permits later realm exploration without a color-matched itinerary. White's planetary stabilization is now author-established, with existing Eldris fate OPEN.

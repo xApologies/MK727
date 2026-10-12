@@ -1,0 +1,62 @@
+{
+  "executable.md": {
+    "bytes": 3612,
+    "sha256": "0d9adfc2002b30454b9e01c829295bff34166a67d307f2895d91807a4e8deed7"
+  },
+  "decisions/02_MATERIAL_MANIPULATION.md": {
+    "bytes": 3015,
+    "sha256": "bb6807b9f2bd017323b364facc45361fd45061557bb40495dff2bfccd9ea0e93"
+  },
+  "decisions/04_ANTAGONISTS.md": {
+    "bytes": 3110,
+    "sha256": "0c094f9b34f94e64abbc21f55ec030f1b9694e8764de3bd4f01713c2b0de1c1d"
+  },
+  "decisions/05_REALMS.md": {
+    "bytes": 2610,
+    "sha256": "fa92cdf2d440d1831547c0ba50a72d10b7f16ef1c589b1f5f62626ef024f911d"
+  },
+  "decisions/03_CARDSMITHING_VAEN.md": {
+    "bytes": 2951,
+    "sha256": "b6c16d72a12899837bd8572b138fda5d601ca75865649daba4f8b9478158e235"
+  },
+  "decisions/01_BOOK_RED.md": {
+    "bytes": 4125,
+    "sha256": "753111b3c77fa645fd94a2c59df397a608d088c5f7dbb5a75b9cec76d2c5b711"
+  },
+  "decisions/06_OPEN_AND_GUARDRAILS.md": {
+    "bytes": 2058,
+    "sha256": "b6aa0983904287639f973d789ad68733510cdb512f4fa0006c408618e5901719"
+  },
+  "audit/BASELINE.md": {
+    "bytes": 2603,
+    "sha256": "07845f5e403b52e0b24de94ab800c9517327487e84e3a5291b3ca405f5bc8702"
+  },
+  "references/genesis-point/44 Cartels.pdf": {
+    "bytes": 40236,
+    "sha256": "67f3d1b6d1134eb987c90d2551ce469154eb6452d73d1cddf51ff9b75549cd8f"
+  },
+  "references/genesis-point/46 Evil Organizations.pdf": {
+    "bytes": 83251,
+    "sha256": "3886c0630650fb8b1232cb696e6405ae548222e64a7e1451914dc29968ae9ece"
+  },
+  "references/genesis-point/45 Cabal of Ash and Crown.pdf": {
+    "bytes": 29230,
+    "sha256": "65161e5c546e48b8ae65ec078467241567461dac060b6b2d68f9b5b259ede8f7"
+  },
+  "references/genesis-point/43 Bandits.pdf": {
+    "bytes": 37089,
+    "sha256": "37646717e91963bfb7143fae83ea4aaf06615d837bb41454c05131e7fed87588"
+  },
+  "references/visuals/IMG_6964.jpeg": {
+    "bytes": 290942,
+    "sha256": "b8c18c90390f945114d86cec3f57b9ca382f5c0cc45258bd9292c2bcb43dabf3"
+  },
+  "references/visuals/7CD307F0-1392-45F2-B861-235170ACF4E7.jpeg": {
+    "bytes": 809047,
+    "sha256": "5edc9a19679c355101dd5e05af9ef7e29e2fb7b8fbb0f2d58ff292e9140a7862"
+  },
+  "references/visuals/IMG_6926.jpeg": {
+    "bytes": 262595,
+    "sha256": "3fe046e4ddbbfac9c6e9dbd57d99d6c1e1123fd0810e0b088778b07fac87a885"
+  }
+}

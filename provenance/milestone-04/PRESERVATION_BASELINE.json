@@ -1,0 +1,232 @@
+[
+  {
+    "path": ".gitattributes",
+    "sha256": "e288ca92c3ab9395445f464562e6dd1a4c762e7ed8a1bb8b9dad53da889ed79d",
+    "bytes": 31
+  },
+  {
+    "path": ".gitignore",
+    "sha256": "83f3f3591d4b9f23b7c5f23ba8998710fb39cb7101704effb06459d5940b7276",
+    "bytes": 57
+  },
+  {
+    "path": "AUDIT.md",
+    "sha256": "9ae9ed45a516461dddfc8a8601edf72b37f032254789ee693a77532283f521d3",
+    "bytes": 190
+  },
+  {
+    "path": "AUDIT_MILESTONE_02.md",
+    "sha256": "58ba629712096e71f5bf840c303389572e6bf1e718fe70f7910d2eab5b8e2eb9",
+    "bytes": 1497
+  },
+  {
+    "path": "CONSTITUTION.md",
+    "sha256": "b162af57a262ebf4549af48032f0ebb9c4a59443a9d3017e18312625ba74ab42",
+    "bytes": 3962
+  },
+  {
+    "path": "EXECUTABLE.md",
+    "sha256": "5fc8e516b0eaadf923f029f3090449e727a9835449173fe614119a40ece26426",
+    "bytes": 3534
+  },
+  {
+    "path": "INHERITANCE.md",
+    "sha256": "ecff43aef71000765be1b2d8a866dfa2ed35d8edd247d46b11f9114620038501",
+    "bytes": 1043
+  },
+  {
+    "path": "MILESTONE_02_DEPLOYMENT_REPORT.md",
+    "sha256": "4ea35bec2cdd1a39af33c73a9663add45f08f2665ede73a72127c53f55f45853",
+    "bytes": 8624
+  },
+  {
+    "path": "README.md",
+    "sha256": "9efa3737d207a934ae038c92bf378d78d9fb6065117683884976adf5e9fec021",
+    "bytes": 2120
+  },
+  {
+    "path": "README_MILESTONE_03.md",
+    "sha256": "44b0c4bb4317fe2f8e480f942ef74b2fefcc09ad838d6ee1855bdae29fb63535",
+    "bytes": 1123
+  },
+  {
+    "path": "catalogues/genesis-cards/MK157_ORIGINAL_BINDINGS.csv",
+    "sha256": "caa71867ee138af97869e08ca2793b6777b4b9171cb86703c316ca92dd9bf089",
+    "bytes": 1033705
+  },
+  {
+    "path": "catalogues/genesis-cards/MK157_ORIGINAL_SUMMONED_ENTITIES.csv",
+    "sha256": "abaf139cc6f8bdb7bf0ad9421f7d21c5278caa1b3d3ac72cdbef4da768f5d857",
+    "bytes": 482504
+  },
+  {
+    "path": "catalogues/genesis-cards/MK727_BINDINGS_FULL.csv",
+    "sha256": "c9b0da644369365f50bb57fa88a500bf8a0960e04c084407e82ab1ec10b9d41b",
+    "bytes": 1079170
+  },
+  {
+    "path": "catalogues/genesis-cards/MK727_GENESIS_CARD_MASTER_1245.csv",
+    "sha256": "5a252433c88582a549038bdf45b8b64ee6af1cadd42894fd4d2a92d4ccf3b003",
+    "bytes": 1626304
+  },
+  {
+    "path": "catalogues/genesis-cards/MK727_SUMMONS_FULL.csv",
+    "sha256": "87071a3c44e7c3beba0a8cf96645963427927771b2030c2046781932ab44a85d",
+    "bytes": 476306
+  },
+  {
+    "path": "catalogues/genesis-cards/PRIME_BASIN_DECISIONS.json",
+    "sha256": "1a6533ce8aeedb60539eeeb95b8eab406b6dcc6c1a528b665a671f6edc78f499",
+    "bytes": 859
+  },
+  {
+    "path": "catalogues/names/names.csv",
+    "sha256": "ec87a9571eb76cce202348d147697dad6a1d7d4794751fe00ab2a44a2a18a1f2",
+    "bytes": 4295
+  },
+  {
+    "path": "catalogues/names/names.txt",
+    "sha256": "f5248247d30906a927491dc505b752cbc4c374e8383714af26a0639b6f0b78de",
+    "bytes": 1140
+  },
+  {
+    "path": "live-model/01_MAGIC.md",
+    "sha256": "b09c57adf9beb743f279e36fa65c366c6eaca38e2f4431dd9c94952f6a53c6e3",
+    "bytes": 2523
+  },
+  {
+    "path": "live-model/02_WORLD.md",
+    "sha256": "2cfa00a67ab961ea2a4204a241c1ca3139c3954ab8fc669956e76ff65a1c4346",
+    "bytes": 2199
+  },
+  {
+    "path": "live-model/03_KIRA.md",
+    "sha256": "a1674d6ee0736239031f709355c2e5160e6740fcf0e3360d69e87efa3fa73c3f",
+    "bytes": 4673
+  },
+  {
+    "path": "live-model/04_CATALOGUE.md",
+    "sha256": "294c69f94666f0d17657f3c441bc87b23923072ec1d2fc22c68f999fcc6ff391",
+    "bytes": 1102
+  },
+  {
+    "path": "live-model/05_PROVENANCE.md",
+    "sha256": "1c6bebc6678ab6a4b5c7c4dbf73f3e3f2cddc44341377d584e380c13b4c2fd67",
+    "bytes": 607
+  },
+  {
+    "path": "live-model/06_STORY_AND_SAGA.md",
+    "sha256": "78c4984f6f6426fb2159ec474ca19e0c082c26b6f738bbc122a855e23477c46d",
+    "bytes": 5362
+  },
+  {
+    "path": "live-model/07_BLACK_CARDS.md",
+    "sha256": "1f8f6f6033069de70a15945108cf2d2ec2713426c98984557d785438b8575eb3",
+    "bytes": 3315
+  },
+  {
+    "path": "live-model/08_EDUCATION_PROFESSIONS.md",
+    "sha256": "031411de2e4278d2a478260b6e1ae44c70f1e0ae45a80b8932780cb3a8003ac0",
+    "bytes": 3221
+  },
+  {
+    "path": "live-model/09_ARC_ONE.md",
+    "sha256": "d87c31e715e1088d4445a143ab274a886c226e9d10ecbaad2fedb499c702c34c",
+    "bytes": 4062
+  },
+  {
+    "path": "live-model/10_SETTLEMENT.md",
+    "sha256": "a8021e1da97cef4f637a4d4ebe776cf774cff3fc8e2d727d2745f996d311f1ca",
+    "bytes": 1675
+  },
+  {
+    "path": "live-model/11_DECISION_LEDGER.md",
+    "sha256": "9e2edbf43a4b7c8d37c1f583d62c24b978b893815a30d3c83398d60d9647bf61",
+    "bytes": 6834
+  },
+  {
+    "path": "live-model/12_BOOK_RED_SIX_ARCS.md",
+    "sha256": "186100218e408bbacb17677fb5ec0b59302ce92ec4271d4b2b447c45202d0ebf",
+    "bytes": 2425
+  },
+  {
+    "path": "live-model/13_DIMENSIONAL_RING_AND_TOURNAMENT.md",
+    "sha256": "acd74b705d6578227460dc299d721bf535845420e5c0d05b1ef7cd358613620e",
+    "bytes": 1844
+  },
+  {
+    "path": "live-model/14_SPATIAL_EVENT_ENGINE.md",
+    "sha256": "170739b2ca578e63f379078b12cb122ad6da9d1455b90fe1d289c530e0423f04",
+    "bytes": 1854
+  },
+  {
+    "path": "live-model/15_NAMING_AND_WORKSHOP.md",
+    "sha256": "70df9e0c82786057abb9bdfd6bc2a6b6c7a9381964d38d14e364703d13791bb1",
+    "bytes": 1945
+  },
+  {
+    "path": "live-model/16_NEXT_THREAD_HANDOFF.md",
+    "sha256": "121db28b6ae4ced6a32d6dc1f7cb7803911efdee2217ae35dcbcc8d99b9be17b",
+    "bytes": 2198
+  },
+  {
+    "path": "live-model/INDEX.md",
+    "sha256": "1205de75a7cdbbd60066a5dffab1fc7bd8c462ea538fdc13d3f8571885dca8a9",
+    "bytes": 2273
+  },
+  {
+    "path": "provenance/MILESTONE_03_DECISION_LEDGER.md",
+    "sha256": "3481a8e8d80edd910c236db78127feadfa9234c6260b2f8ab4cae9e650d46d1b",
+    "bytes": 2723
+  },
+  {
+    "path": "provenance/MILESTONE_03_REVERSE_SEMANTIC_AUDIT.md",
+    "sha256": "63727348b0e41922c6a00b7f60d28df9405fdde8a8cffea48b5c4ffe28dd87e0",
+    "bytes": 14100
+  },
+  {
+    "path": "provenance/SHA256_MANIFEST.json",
+    "sha256": "43c300f24d7eec9152459d56cfee9cb7d571fda7818a6931f5d2dd52cbdb3ded",
+    "bytes": 2448
+  },
+  {
+    "path": "provenance/milestone-03/EXECUTABLE.md",
+    "sha256": "be6c6375e9ea074066180dd0203c5d51fd37dd5d18897db3d0651a4e82735e8a",
+    "bytes": 4308
+  },
+  {
+    "path": "references/MK117/MK117_Book1_Arc_Outline.pdf",
+    "sha256": "4fefd9bdba03a79d537f713665698699bbf60176099a983dde5490ebf3e45fad",
+    "bytes": 14176
+  },
+  {
+    "path": "references/MK117/MK117_Chapters_1_5_Master_Workup.pdf",
+    "sha256": "f7897d1cd08b81d8a1c663cfd5516578b364dcb75a4fe2e64948f8ec85bcf547",
+    "bytes": 11572
+  },
+  {
+    "path": "references/agriculture/36 Agricultural Slices.pdf",
+    "sha256": "4cff8803841bafd0c03b6b129bf5ee020dcc620a0b7930f3d3f7437bec9c1d4d",
+    "bytes": 60246
+  },
+  {
+    "path": "references/village-hub/legend_1.jpeg",
+    "sha256": "c454c5158813e8d15716012fa553c028fe7ee87c1a833ce6f3fdc76b4bcba5c1",
+    "bytes": 180447
+  },
+  {
+    "path": "references/village-hub/legend_2.jpeg",
+    "sha256": "31ff78f1d15c1afc8451e783ea01915bb344f4c238b4e4fd4a02b3a396142323",
+    "bytes": 178275
+  },
+  {
+    "path": "references/village-hub/legend_3.jpeg",
+    "sha256": "f8a0bd8481d649d5c3bb7201f1f18e8fed4a5814ff690bea97f9c1ae479a4874",
+    "bytes": 156010
+  },
+  {
+    "path": "references/village-hub/village_hub_master.JPG",
+    "sha256": "a5e2e9b7fcfa69af7b75b21eb29a32a5e7f11745e7c4cdb81c1f9afb43641d63",
+    "bytes": 1688276
+  }
+]

@@ -1,3 +1,5 @@
+> **Current M04 authority:** read [Milestone 04 harvest continuity](#milestone-04-harvest-continuity) below. Earlier text is preserved history wherever that section explicitly supersedes or qualifies it.
+
 # Book One Arc One — MK117 chapters 1–5 adaptation
 
 **Status:** WORKING scene sequence. Preserve source narrative architecture; do not mechanically reproduce incompatible details.
@@ -22,3 +24,10 @@ Leftover chromatic cut shards provide modest but meaningful wealth. Kira can lea
 
 ## Later source arcs
 Reuse MK117's city/abeca/raeon/chainmail robe social architecture, while replacing original healer-hospital career with Blackstone Cardsmith/Architect studies and later `aithren` dungeon exploration. Friendships/nobility/Alchemist plotlines are optional compatible inheritances, not automatic canon.
+
+
+## Milestone 04 harvest continuity
+
+M04 establishes the one ordinary Fireball as **mother-made protection**; its ID/basins remain OPEN. Secret roadside gathering during smith-owned donkey/cart deliveries supplements manual chainmail work. Alongside the R–V and rare White crystals, the collapse yields altered flora and a living broad-capped charcoal/black mushroom vaen with glowing Genesis channels. Kaira may sell some specimens and keeps the mushroom, perhaps another living specimen, as houseplants. Species, taxonomy, precise collection choreography and routes remain OPEN.
+
+The mushroom survives restoration and is **consumed later in Arc V original Armor construction** as a stabilizing vaen. It is not a Black crystal or an additional restoration-potion ingredient. Mother-death 15, smithy 16–23, three books, two-to-three-shot fatigue, no apprentice, ordinary healing that leaves scars, six consumed chromatic crystals and the consumed exceptional White catalyst remain unchanged. [Workspace/living vaen](18_CARDSMITHING_WORKSPACE.md) and [Book Red expansion](21_M04_BOOK_RED_EXPANSION.md) carry the later dependency. No new scene route, mine exploration or Domai classification is fixed.

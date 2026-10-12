@@ -22,3 +22,12 @@ This package intentionally does **not** include the old master CSV, to prevent u
 Continue with the [Milestone 03 handoff](README_MILESTONE_03.md), [Book Red's six arcs](live-model/12_BOOK_RED_SIX_ARCS.md), and [next-thread starting position](live-model/16_NEXT_THREAD_HANDOFF.md). The [reverse semantic audit](provenance/MILESTONE_03_REVERSE_SEMANTIC_AUDIT.md) records source verification, preservation checks and OPEN issues.
 
 Milestone 03's `EXECUTABLE.md` from the pouch is preserved as [archived deployment instructions](provenance/milestone-03/EXECUTABLE.md). The existing root `EXECUTABLE.md` remains the Milestone 02 record; the pouch's unqualified instruction reference means its own archived file. All prior catalogue and live-model documents are retained; the cumulative appendices identify current decisions.
+
+
+## Milestone 04 - 2026-10-12
+
+The [M04 execution instructions](provenance/milestone-04/EXECUTABLE.md) are integrated cumulatively. Read the current [six-arc spine](live-model/12_BOOK_RED_SIX_ARCS.md#milestone-04-current-six-arc-spine), [Book Red expansion](live-model/21_M04_BOOK_RED_EXPANSION.md), [material manipulation](live-model/17_MATERIAL_MANIPULATION.md), [Cardsmithing workspace](live-model/18_CARDSMITHING_WORKSPACE.md), [antagonists](live-model/19_ANTAGONISTS.md) and [realms/starscape](live-model/20_REALMS_AND_STARSCAPE.md).
+
+Arc IV is education; first original Armor construction is in early-to-middle Arc V. The tournament team is locked to Yellow/fourth place, with a high-end ring and cash awarded afterward. Older WORKING placement and OPEN tournament-result wording are retained as explicitly superseded history. Card designs remain proposals outside the unchanged 1,245-record catalogue.
+
+The [decision ledger](provenance/MILESTONE_04_DECISION_LEDGER.md) and [reverse semantic audit](provenance/MILESTONE_04_REVERSE_SEMANTIC_AUDIT.md) map source decisions to resulting headings, preserved assets, validation and OPEN questions. [Historical antagonist PDFs](references/genesis-point-antagonists/README.md) and [visual references](references/m04-visuals/README.md) have scoped provenance. Local `_inbox/` and `.inbox/` contents remain excluded from Git.

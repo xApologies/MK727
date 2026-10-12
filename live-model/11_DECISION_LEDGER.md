@@ -1,3 +1,5 @@
+> **Current M04 authority:** read [Milestone 04 cumulative decisions](#milestone-04-cumulative-decisions) below. Earlier text is preserved history wherever that section explicitly supersedes or qualifies it.
+
 # Milestone 02 — Decision ledger and audit
 
 ## Confirmed supersessions since First Light
@@ -41,3 +43,18 @@ This appendix preserves every earlier decision above. Read [the supplied M03 led
 - **WORKING / OPEN qualification:** the established Arc IV label does not silently lock the exact first Armor manufacturing event. Blackstone placement remains WORKING; fabrication details OPEN.
 - **SOURCE wording qualification:** the handoff's phrase "emergency healing potion causes scarring" is not a new potion mechanism. Existing `03_KIRA.md` and `09_ARC_ONE.md` establish that emergency healing repairs injuries while leaving scars, which persist after restoration. A claim that the potion itself independently causes scars is unsupported and remains OPEN; no earlier biography decision is superseded.
 - **OPEN retained:** Fireball catalogue ID/basins; ring quality and tournament result; Purple Region wording; mixed Black/chromatic concurrency; sixth Black Card; first Armor recipe; donkey/cart fate; workshop disposition; supporting character assignments; detailed chronology. AERA and MK147 source revisions checked for this audit are recorded there; other upstream pins remain OPEN.
+
+
+## Milestone 04 cumulative decisions
+
+The [M04 ledger](../provenance/MILESTONE_04_DECISION_LEDGER.md) maps every supplied decision group to current headings; [the audit](../provenance/MILESTONE_04_REVERSE_SEMANTIC_AUDIT.md) records source checks, qualifications and preservation.
+
+- **SUPERSEDED:** earlier WORKING Blackstone/academic-period Armor manufacture. Arc IV is education; first major original Armor is engineered from blank maege glass approximately in the first third to half of Arc V, consuming the Arc I black mushroom vaen. Exact recipe/initialization/stabilizing mechanism remain OPEN.
+- **RESOLVED:** team tournament result **AUTHOR-LOCKED Yellow/fourth**; **high-end** ring plus cash after competition. Earlier broad OPEN-result/quality wording is superseded only to that extent. Exact tier/capacity/cash remain OPEN. Friends take vaelum employment, Kaira declines, friendship continues.
+- **ESTABLISHED additions:** mother-made ordinary Fireball (ID/basins OPEN); living vaen collection and some post-restoration Genesis sensitivity (mechanism OPEN); manual expertise followed by novice card-assisted prepared-ring assembly in Arc II. The earlier manual-only/later-only reading is superseded, not seven-year craft experience.
+- **AUTHOR-APPROVED DESIGN DIRECTION / PROPOSED entries:** material-specific two-basin, general-family three-basin and advanced six-basin cards; illustrative six-to-four metal and three-to-two thermal optimization; exact IDs/colors/materials/prices OPEN. No catalogue rows or pricing classes change. Ordinary concurrency still requires disjoint basin colors; heating may be sequenced or use a physical forge.
+- **AUTHOR-APPROVED workspace:** sigil projects/exposes coupled topology; professional cards provide observation/manipulation, operator supplies expertise. GF-0011/GF-0019 remain observational. Blank original construction differs from modification; exact editing toolkit/initialization OPEN.
+- **ESTABLISHED local realm choices:** optional AERA inhabited realms and ~80/20 adopted by MK727, White-native all-seven compatibility, chromatic-native own+White, interworld bridges. Passage/gateways, exact geometry/physics, sprite biology and calendar remain OPEN. Book colors do not fix realm itinerary.
+- **ESTABLISHED saga direction:** four independent human factions and book matrix, separate nonmoral instability/Eldris; White planetary stabilization ends collapse and collapse-driven emergence, existing Eldris fate OPEN. Planet ~80,000-mile diameter is author scale direction, not derived physics or an inherited old circumference.
+- **PRESERVED:** ages 15/16–23, three books, six chromatic plus White catalyst, no Black crystal, cumulative professions/adventure motive, five Black systems, sixth slot and mixed concurrency OPEN; all 1,245 records, names, maps and historical sources.
+- **OPEN retained:** exact Fireball and new-card details, recipes, ring values, team/supporting names, workshop/donkey/cart fate, exact collapse classification, routes/scenes/chronology, later saga detail, Purple Region wording, sprite ontology, gateways, planetary physics. The 900–1300-page aim and 20,000 rings are aspiration/illustration, not fixed chapter/order quantities.

@@ -1,3 +1,5 @@
+> **Current M04 authority:** read [Milestone 04 current six-arc spine](#milestone-04-current-six-arc-spine) below. Earlier text is preserved history wherever that section explicitly supersedes or qualifies it.
+
 # Book Red — Six-Arc Narrative Spine
 **Status:** ESTABLISHED arc count and sequence; detailed scenes and chronology OPEN. Arc-first development; chapters serve arcs rather than define them.
 
@@ -15,3 +17,21 @@
 **Book Red equipment continuity:** Kaira has NO dimensional ring during Arcs I–V **or during Arc VI's competition**. She must carry a conventional expedition pack and its burdens. The ring is awarded at the end. Books Orange–White can treat it as standard equipment, simplifying carrying tools, provisions, clothing, cards, crafting supplies and mother's books; preparation and conscious retrieval remain relevant.
 
 **Chronology:** No fixed chapter counts, travel dates or duration invented. Original MK117 seven-arc Book One is *source scaffolding*, not MK727's current six-arc count. The MK117 healer/hospital career is not transferred.
+
+
+## Milestone 04 current six-arc spine
+
+This table is current. It explicitly supersedes the preserved Milestone 03 table's Arc IV Armor event and its OPEN-result wording, while preserving the six-arc count, source tournament mechanics and no-ring-before-award rule.
+
+| Arc | Name | Current story function | Endpoint / dependency |
+| --- | --- | --- | --- |
+| I | Village Hub | Age-23 Kaira, manual smithy craft, secret delivery harvesting, collapse, healing and exceptional White-catalyzed restoration | Independence; keep living black mushroom vaen for later Armor |
+| II | Orange District | Independent city life; prepared rings from a local smith; proposed three-basin General Metal Manipulation and novice assisted assembly | Robe development grounded in prior manual expertise |
+| III | Chainmail Robe Movement | Commissions, income, social identity, toolkit and informal workbench experiments | Costly learning; minor original card success possible, not fixed |
+| IV | Blackstone | **Formal Cardsmith education**: mathematics, topology, differential geometry, materials, sigils and engineering | Professional development; no required Armor construction here |
+| V | Aithren Community | Voluntary delving, friendships, commissions and team formation; **first major original Armor** from blank maege glass approximately in the **first third to half** | Consume black mushroom vaen; develop armor use/combat/delving and relationships through the remainder |
+| VI | King's Tournament | Team competition; **AUTHOR-LOCKED Yellow/fourth place** | **High-end ring and monetary prize after competition**; friends accept vaelum employment, Kaira declines and remains their friend |
+
+The result is not an outright victory. Yellow placing does not determine ring quality color or alter the inherited V6/B5/G4/Y3/O2/R1 dungeon scoring. Exact ring tier/capacity, cash, team names, qualification detail and Purple Region wording remain OPEN. Kaira has no ring during I–V or VI competition; the ring supports later travel. A compact portable Cardsmith table is only a future possibility.
+
+[21_M04_BOOK_RED_EXPANSION.md](21_M04_BOOK_RED_EXPANSION.md) supplies detailed continuity and the ~900–1300-page/book long-form aim. Timing of the Armor event is flexible arc pacing, not a chapter allocation. Her independent craft/adventurer identities accumulate; no precise route, scene calendar or realm-color itinerary is imposed.

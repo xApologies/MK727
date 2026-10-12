@@ -1,3 +1,5 @@
+> **Current M04 authority:** read [Milestone 04 manual and assisted learning reconciliation](#milestone-04-manual-and-assisted-learning-reconciliation) below. Earlier text is preserved history wherever that section explicitly supersedes or qualifies it.
+
 # Blackstone, Cardsmithing, chainmail couture and Aithren
 
 ## Blackstone
@@ -14,3 +16,12 @@ Early: metal stock → mechanically drawn wire → mandrel winding → ring cutt
 
 ## Social assessment
 Working 13-domain professional rating: Red–Violet graded categories, White overall requires **all thirteen White**; 12 White + 1 Violet = Violet overall. The thirteen tests, ranks' public interpretation and legal role are OPEN. Distinguish this assessment from basin color and catalogue pricing classes.
+
+
+## Milestone 04 manual and assisted learning reconciliation
+
+The hand-woven first-robe and “later” card paragraphs above are retained as earlier history. **SUPERSEDED is an exclusively hand-woven Arc II workflow or a requirement to postpone all assisted assembly until after Blackstone.** Manual smithy experience is the foundation; Arc II's author-selected proposed three-basin General Metal Manipulation purchase lets Kaira open, orient, interlock and close professionally prepared rings from a local smith. She starts as a novice in card control, fumbles and practices. Manual and assisted steps coexist. 20,000 rings is illustrative; ID, colors, materials and price are OPEN. Later thermal cards and full wire/ingot processing remain future mastery.
+
+Arc III grows commissions, professional equipment and informal workbench experiments, including costly failures. The king owns a robe as author-supplied background; exact scene/production scale remains OPEN. Arc IV Blackstone supplies formal mathematics, topology, differential geometry, material science, sigils and practical Cardsmith engineering. **First major original Armor construction is early-to-middle Arc V, not a required Blackstone event**, consuming the kept black mushroom. A minor earlier original success is possible, not fixed.
+
+The [workbench](18_CARDSMITHING_WORKSPACE.md) exposes a coupled manifold; it does not automatically edit. Professional Genesis Cards and operator expertise do that work. Kaira joins Aithren to adventure, takes small commissions and forms a team without losing her independent professions. Following Yellow/fourth-place tournament achievement, companions accept vaelum employment and Kaira declines; friendship continues. [Material scope](17_MATERIAL_MANIPULATION.md) separates craftsmanship, operator competency and equipment architecture from social rank and basin count.

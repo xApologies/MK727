@@ -25,3 +25,15 @@ This is a story-planning model, not finished prose. Existing `01_MAGIC.md`, `02_
 - [Milestone 03 decision ledger](../provenance/MILESTONE_03_DECISION_LEDGER.md) and [reverse semantic audit](../provenance/MILESTONE_03_REVERSE_SEMANTIC_AUDIT.md) - scoped supersessions, verified sources and interpretation notes.
 
 The preceding Milestone 02 index is retained. Read the dated appendices in [06_STORY_AND_SAGA.md](06_STORY_AND_SAGA.md) and [11_DECISION_LEDGER.md](11_DECISION_LEDGER.md) alongside the new files; older wording remains historical where explicitly superseded.
+
+
+## Milestone 04 current additions - 2026-10-12
+
+- [17_MATERIAL_MANIPULATION.md](17_MATERIAL_MANIPULATION.md) — proposed industrial family, economics, disjoint basin requirements and prepared-ring practice.
+- [18_CARDSMITHING_WORKSPACE.md](18_CARDSMITHING_WORKSPACE.md) — projection/access, professional deck, original construction and living vaen.
+- [19_ANTAGONISTS.md](19_ANTAGONISTS.md) — four human factions, book matrix and separate environmental resolution.
+- [20_REALMS_AND_STARSCAPE.md](20_REALMS_AND_STARSCAPE.md) — optional AERA realization adopted locally, native compatibility and interworld bridges.
+- [21_M04_BOOK_RED_EXPANSION.md](21_M04_BOOK_RED_EXPANSION.md) — long-form pacing and detailed six-arc continuity.
+- [M04 ledger](../provenance/MILESTONE_04_DECISION_LEDGER.md) and [reverse audit](../provenance/MILESTONE_04_REVERSE_SEMANTIC_AUDIT.md) — decision coverage, source tensions, supersessions and checks.
+
+Current spine: Arc IV formal education; Arc V original Armor construction in approximately its first third to half; Arc VI team Yellow/fourth **LOCKED**, then high-end ring and cash. Friends join vaelum, Kaira remains independent and friendships continue. [12 current spine](12_BOOK_RED_SIX_ARCS.md#milestone-04-current-six-arc-spine) and the M04 appendices in 06/07/08/11/13/16 supersede earlier Armor-at-Blackstone and OPEN-result text without deleting it. Manual skill precedes novice card-assisted prepared-ring assembly in Arc II. Exact recipes, card IDs/colors/prices, ring tier/capacity, cash, routes and sixth Black Card remain OPEN.

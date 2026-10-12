@@ -1,3 +1,5 @@
+> **Current M04 authority:** read [Milestone 04 original Armor placement](#milestone-04-original-armor-placement) below. Earlier text is preserved history wherever that section explicitly supersedes or qualifies it.
+
 # Kira's Black Genesis Cards — saga foundation
 
 **Status:** Five systems and unified access ESTABLISHED; book placements and exact manufacturing events WORKING. Source inspiration MK157; no Valnak, Black Binding purchase gates or old credit ladder.
@@ -19,3 +21,10 @@ Book Seven's endpoint is coordinated use of the five systems, not omnipotence. K
 
 ## Sixth slot
 OPEN. A tactical-support/party-interface card is a possible direction, inspired by MK157's voluntary mapping/target-sharing ideas, but **not canonized**. Do not generate one without authorization.
+
+
+## Milestone 04 original Armor placement
+
+The blanket WORKING-manufacturing status above is narrowed for Armor: the **author-established first major original Black Card** is Armor of the Abyss, engineered from **blank maege glass in approximately the first third to half of Arc V**. Arc IV is formal education. Earlier WORKING Blackstone/academic-period fabrication in the saga and handoff is SUPERSEDED. The Arc I living black mushroom is consumed as a special stabilizing vaen; species, exact effect, initialization and full recipe remain OPEN. This is original construction, not modification of an existing Armor card.
+
+[Workspace and resources](18_CARDSMITHING_WORKSPACE.md) describe access/projection versus professional manipulation. Ring-control finesse can partly transfer to Armor and later Orbs without guaranteeing mastery. Later CSR/Orbs/Halo/Domain acquisition placements remain WORKING. Exactly five foundational systems, at most six active Black Cards, mixed ordinary/Black concurrency OPEN and sixth slot OPEN remain unchanged. The White planetary stabilization endpoint does not grant unlimited control or invent a sixth card.
