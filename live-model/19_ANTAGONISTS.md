@@ -1,3 +1,5 @@
+> **Current M06 update:** [Milestone 06 rivalry and maritime economy](#milestone-06-rivalry-and-maritime-economy) governs these scoped additions and supersessions; compatible earlier decisions remain effective.
+
 > **Current M05 update:** [Milestone 05 background underworld](#milestone-05-background-underworld) governs the scoped corrections; earlier milestone decisions remain effective where not superseded.
 
 # Antagonists and geopolitical scope — Milestone 04
@@ -54,3 +56,11 @@ Floating sanctuary triangles, a suppression ring, bandit cubes, old drug-product
 Kaira **does not use** the unnamed fictional crystalline drug. Its effects include euphoria, dependency, cognitive deterioration and secondary increased suggestibility, **not mind control**. The adopted effects do not import Genesis Point production/application details or create a name, chemistry, dose or specific scene.
 
 Stolen vaen and alchemical resources may be fenced through black-market intermediaries. Pirate maritime trafficking and cartel regional markets may intersect; not every crime has central control. No trafficking route, cartel name or new criminal plot scene is fixed. These local background additions leave the four independent human pressures and separate environmental resolution intact. Source: [M05 map/underworld decisions](../provenance/milestone-05/decisions/04_MAP_AND_UNDERWORLD.md).
+
+## Milestone 06 rivalry and maritime economy
+
+[26 event seeds](26_CHAPTER_ONE_EVENT_SEEDS.md#salve-errand-and-collision) establish an Affliction/class-hostile noble's son and recurring seven-book rivalry. His proposed name Vael is not ratified. Kaira often outdoes him and later knows the princess who outranks him; no political rank or meeting date is added.
+
+[25 trade/piracy](25_CONTINENTAL_POLITIES_AND_TRADE.md#piracy-and-illicit-markets) establishes costly international shipping, distinct merchant/guard/Crown/pirate fleets, major floating settlements and possible coercive tolls both ways. Tolls never guarantee passage: seizure, violence, betrayal and unpredictable/theatrical captains remain possible. Escorts matter. Protected-goods trafficking and brokers connect to the existing background slave/drug trades without invented methods, rates or routes. The M04 book-emphasis matrix and independent human/environmental pressures are unchanged.
+
+**SUPERSEDED locally:** the earlier illustrative-only three-kingdom example is now author-established west Crown/central Seven Merchant Houses/east warrior polity on the continent above Eastern Whirlpool. Earlier seven/eight cartel counts remain ILLUSTRATIVE. The atlas is now supplied; no exact georeferencing, global census or source-specific pirate hierarchy follows.

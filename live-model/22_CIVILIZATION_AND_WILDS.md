@@ -1,3 +1,5 @@
+> **Current M06 update:** [Milestone 06 continental and economic scope](#milestone-06-continental-and-economic-scope) governs these scoped additions and supersessions; compatible earlier decisions remain effective.
+
 # Civilization, nobles and the Wilds — Milestone 05
 
 Source: [M05 civilization decisions](../provenance/milestone-05/decisions/02_CIVILIZATION.md). **ESTABLISHED author direction** unless marked WORKING, ILLUSTRATIVE or OPEN below. Compatible source inheritance is recorded in the [M05 source register](../provenance/MILESTONE_05_SOURCE_REGISTER.md). These are MK727 choices, not new universal AERA laws.
@@ -55,3 +57,9 @@ The kingdom has **exactly four royal domains**, each with one capital:
 | Blue | Princess | Domain capital |
 
 Royal domains are political territories, distinct from city chromatic districts, social assessments and Genesis energy basins. They do not imply Red or Yellow royal domains. All four capitals have permanent transit gates. The original hand-drawn political map controls borders and capital marker positions; its bytes are **not supplied** in M05. No kingdom name, alternate border scheme or new capital location is invented. City locations and Kaira's specific Arc II destination remain OPEN; “Orange District” does not assign her to the Orange royal domain. See [cartographic availability](24_CARTOGRAPHIC_PROVENANCE.md#asset-availability) and [capital gates](23_CORRIDORS_AND_PROFESSIONS.md#permanent-capital-gates).
+
+## Milestone 06 continental and economic scope
+
+The four royal domains, noble-share ratios, civic duties and WORKING city/array sizes above describe the **western Crown Kingdom**. [Three continental polities](25_CONTINENTAL_POLITIES_AND_TRADE.md#three-continental-polities) add a central seven-family merchant society and eastern martial fiefdom culture without imposing Crown institutions on either. Merchant multilevel metropolis scale is explicitly unresolved, not a rewrite of Crown city dimensions.
+
+The Crown Hub remains planned while Hollowmere has a separate support village; its ~1-mile radius/~11-mile separation are WORKING. Commodity trade, guarded temporary timber extraction, costly permanent velis-supported forestry and phase-grown stone complement M05 stabilization, professional duties, roads and labor. No universal cost-free growth or impenetrable protection is inferred. M06 continental annotations do not supply the missing Crown-domain overlay.

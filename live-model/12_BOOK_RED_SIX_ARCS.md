@@ -1,3 +1,5 @@
+> **Current M06 update:** [Milestone 06 opening seeds within six arcs](#milestone-06-opening-seeds-within-six-arcs) governs these scoped additions and supersessions; compatible earlier decisions remain effective.
+
 > **Current M05 update:** [Milestone 05 Hollowmere continuity](#milestone-05-hollowmere-continuity) governs the scoped corrections; earlier milestone decisions remain effective where not superseded.
 
 > **M04 authority retained within its scope:** read [Milestone 04 current six-arc spine](#milestone-04-current-six-arc-spine) below. Earlier text is preserved history wherever that section explicitly supersedes or qualifies it.
@@ -43,3 +45,7 @@ The result is not an outright victory. Yellow placing does not determine ring qu
 The M04 table now includes the M05 correction: **Hollowmere #6 is Green-rated**, with guard/support deliveries in Arc I and Kaira's **first Hollowmere entry with her team in Arc VI** as part of the tournament circuit. All former Yellow-mine claims are SUPERSEDED. She has admired the dungeon community for years; the homecoming pays off that interest. Arc V delving remains elsewhere; no earlier home-dungeon entry or new Arc I chapter is inserted.
 
 Six arcs and Arc I's five-chapter WORKING sequence remain. Exact Hollowmere race stage/date/reunions are OPEN. Armor first third-to-half Arc V, team Yellow/fourth and high-end ring/cash after competition remain locked. Red is continuous saga volume one with identity-formation satisfaction, not a standalone closing every sequel thread.
+
+## Milestone 06 opening seeds within six arcs
+
+The [salve errand and noble-son collision](26_CHAPTER_ONE_EVENT_SEEDS.md) develop the existing Chapter One/Arc I slot. Early tournament qualification/familiarization for the visiting noble is distinct from Kaira's Arc VI competition and first Hollowmere delve. No new arc or chapter is added. The current six-row table remains unchanged, including first-third/half Arc V original blank-glass Armor/mushroom consumption, team Yellow/fourth and high-end ring/cash after competition. The seven-book rivalry does not impose a fixed scene in every book or standalone closure.

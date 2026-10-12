@@ -1,0 +1,437 @@
+{
+  "baseline": "0106e4ebda1dcf9554dd5aaea616c9d05716e603",
+  "pouch_sha256": "e7a76edf7e5ac135618f7a8ac42bd6ae6dc08943c5134456e052ea56cbcc3a5a",
+  "upstream_files": [
+    {
+      "repository": "xApologies/Mk-147",
+      "revision": "ae7c8b406370b752fd5e6f809be0148315294379",
+      "path": "live-model/02_DOMAINS/ELDRIS_DUNGEONS_DOMAI.md",
+      "blob_sha": "9c3328f9c0e158ffd5333b1c8ebe40ac1e8efedf",
+      "url": "https://github.com/xApologies/Mk-147/blob/ae7c8b406370b752fd5e6f809be0148315294379/live-model/02_DOMAINS/ELDRIS_DUNGEONS_DOMAI.md"
+    },
+    {
+      "repository": "xApologies/Mk-147",
+      "revision": "ae7c8b406370b752fd5e6f809be0148315294379",
+      "path": "live-model/02_DOMAINS/DIAMONDS_CURRENCY_EQUIPMENT.md",
+      "blob_sha": "6776cfb9d0805b09ffb6cf60ae8dc1dbfda1b398",
+      "url": "https://github.com/xApologies/Mk-147/blob/ae7c8b406370b752fd5e6f809be0148315294379/live-model/02_DOMAINS/DIAMONDS_CURRENCY_EQUIPMENT.md"
+    },
+    {
+      "repository": "xApologies/Mk-147",
+      "revision": "ae7c8b406370b752fd5e6f809be0148315294379",
+      "path": "live-model/05_CULTURE/V2_CULTURE_CANON.md",
+      "blob_sha": "5d58b35becee583db868e7005e7a5237dfb42fcf",
+      "url": "https://github.com/xApologies/Mk-147/blob/ae7c8b406370b752fd5e6f809be0148315294379/live-model/05_CULTURE/V2_CULTURE_CANON.md"
+    },
+    {
+      "repository": "xApologies/Mk-147",
+      "revision": "ae7c8b406370b752fd5e6f809be0148315294379",
+      "path": "live-model/02_DOMAINS/AGRICULTURE.md",
+      "blob_sha": "4165554fc730e1a47c98824a57d64f0d1a83d3f2",
+      "url": "https://github.com/xApologies/Mk-147/blob/ae7c8b406370b752fd5e6f809be0148315294379/live-model/02_DOMAINS/AGRICULTURE.md"
+    },
+    {
+      "repository": "xApologies/Mk-147",
+      "revision": "ae7c8b406370b752fd5e6f809be0148315294379",
+      "path": "live-model/04_SYSTEMS/ARCHITECTS_VELIS.md",
+      "blob_sha": "293f53174ccba41c14048e4e1cffe28239ce32a3",
+      "url": "https://github.com/xApologies/Mk-147/blob/ae7c8b406370b752fd5e6f809be0148315294379/live-model/04_SYSTEMS/ARCHITECTS_VELIS.md"
+    },
+    {
+      "repository": "xApologies/Mk-147",
+      "revision": "ae7c8b406370b752fd5e6f809be0148315294379",
+      "path": "live-model/04_SYSTEMS/SIGIL_ENGINEERING.md",
+      "blob_sha": "799fc591fe480871704a228362d99debc0426811",
+      "url": "https://github.com/xApologies/Mk-147/blob/ae7c8b406370b752fd5e6f809be0148315294379/live-model/04_SYSTEMS/SIGIL_ENGINEERING.md"
+    },
+    {
+      "repository": "xApologies/AERA",
+      "revision": "40e3482b9ea8339ad2c6a9166f3324fa30f42a12",
+      "path": "L2/CIVILIZATION.md",
+      "blob_sha": "ad38b6e0a3ebddd04a3c976b0bd890a8724f0a58",
+      "url": "https://github.com/xApologies/AERA/blob/40e3482b9ea8339ad2c6a9166f3324fa30f42a12/L2/CIVILIZATION.md"
+    },
+    {
+      "repository": "xApologies/AERA",
+      "revision": "40e3482b9ea8339ad2c6a9166f3324fa30f42a12",
+      "path": "L2/ENVIRONMENT/03_DUNGEONS.md",
+      "blob_sha": "dd8e10bead09f261bb531b8f4fd5ac5877f86ac6",
+      "url": "https://github.com/xApologies/AERA/blob/40e3482b9ea8339ad2c6a9166f3324fa30f42a12/L2/ENVIRONMENT/03_DUNGEONS.md"
+    },
+    {
+      "repository": "xApologies/AERA",
+      "revision": "40e3482b9ea8339ad2c6a9166f3324fa30f42a12",
+      "path": "L2/INHERITANCE/03_CULTURE_AGRICULTURE_AND_TECH.md",
+      "blob_sha": "2d9dda7d74acb5232ea1abe05c9df3be0ffead5c",
+      "url": "https://github.com/xApologies/AERA/blob/40e3482b9ea8339ad2c6a9166f3324fa30f42a12/L2/INHERITANCE/03_CULTURE_AGRICULTURE_AND_TECH.md"
+    },
+    {
+      "repository": "xApologies/AERA",
+      "revision": "40e3482b9ea8339ad2c6a9166f3324fa30f42a12",
+      "path": "L2/LANGUAGE/AE_AI_NAMING_CONVENTION.md",
+      "blob_sha": "561337655ca6ce7762035b04da1ee12c0c399036",
+      "url": "https://github.com/xApologies/AERA/blob/40e3482b9ea8339ad2c6a9166f3324fa30f42a12/L2/LANGUAGE/AE_AI_NAMING_CONVENTION.md"
+    },
+    {
+      "repository": "xApologies/Mk-147",
+      "revision": "ae7c8b406370b752fd5e6f809be0148315294379",
+      "path": "live-model/01_STORY/V2_EXHAUSTIVE_STORY_STATE.md",
+      "blob_sha": "1bc8f662acd05d36694f2ec09469e8a1aba19cfa",
+      "url": "https://github.com/xApologies/Mk-147/blob/ae7c8b406370b752fd5e6f809be0148315294379/live-model/01_STORY/V2_EXHAUSTIVE_STORY_STATE.md"
+    },
+    {
+      "repository": "xApologies/Mk-147",
+      "revision": "ae7c8b406370b752fd5e6f809be0148315294379",
+      "path": "live-model/02_WORLD/V2_WORLD_CANON.md",
+      "blob_sha": "ae5021bb418c17039efcfb4079d7ffe645ff3849",
+      "url": "https://github.com/xApologies/Mk-147/blob/ae7c8b406370b752fd5e6f809be0148315294379/live-model/02_WORLD/V2_WORLD_CANON.md"
+    },
+    {
+      "repository": "xApologies/Mk-147",
+      "revision": "ae7c8b406370b752fd5e6f809be0148315294379",
+      "path": "live-model/04_SYSTEMS/V2_SYSTEMS_CANON.md",
+      "blob_sha": "763b1b94a7d6dcfda9504998a7049b7d6ba52901",
+      "url": "https://github.com/xApologies/Mk-147/blob/ae7c8b406370b752fd5e6f809be0148315294379/live-model/04_SYSTEMS/V2_SYSTEMS_CANON.md"
+    },
+    {
+      "repository": "xApologies/Mk-147",
+      "revision": "ae7c8b406370b752fd5e6f809be0148315294379",
+      "path": "live-model/01_CANON/CULTURE.md",
+      "blob_sha": "2b45abedcb1341b9e224aff05f2817d6d491bbf6",
+      "url": "https://github.com/xApologies/Mk-147/blob/ae7c8b406370b752fd5e6f809be0148315294379/live-model/01_CANON/CULTURE.md"
+    },
+    {
+      "repository": "xApologies/Mk-147",
+      "revision": "ae7c8b406370b752fd5e6f809be0148315294379",
+      "path": "live-model/02_WORLD/KINGDOM_SETTLEMENTS.md",
+      "blob_sha": "bbe9c86bd09098f2d5fbe10e0f6acf62d0188794",
+      "url": "https://github.com/xApologies/Mk-147/blob/ae7c8b406370b752fd5e6f809be0148315294379/live-model/02_WORLD/KINGDOM_SETTLEMENTS.md"
+    },
+    {
+      "repository": "xApologies/Mk-147",
+      "revision": "ae7c8b406370b752fd5e6f809be0148315294379",
+      "path": "live-model/04_SYSTEMS/ALCHEMY.md",
+      "blob_sha": "83a3dc1b7d0ad3cd5869c4cc6db16440afd950e7",
+      "url": "https://github.com/xApologies/Mk-147/blob/ae7c8b406370b752fd5e6f809be0148315294379/live-model/04_SYSTEMS/ALCHEMY.md"
+    },
+    {
+      "repository": "xApologies/Mk-147",
+      "revision": "ae7c8b406370b752fd5e6f809be0148315294379",
+      "path": "live-model/02_DOMAINS/HOSTILE_ORGANIZATIONS.md",
+      "blob_sha": "213268cd2dd41fb73143487da88907a34119c834",
+      "url": "https://github.com/xApologies/Mk-147/blob/ae7c8b406370b752fd5e6f809be0148315294379/live-model/02_DOMAINS/HOSTILE_ORGANIZATIONS.md"
+    }
+  ],
+  "additional_markdown_wagon_search": [
+    {
+      "path": "CANON_STATUS.md",
+      "sha": "796cb69544b7cb7f775f806ee9cdc6eeadfd74e4"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "sha": "d426b5c610b2126afca9750f1453d5ae18823cb9"
+    },
+    {
+      "path": "INDEX.md",
+      "sha": "c929b20f3a1d0ee9659c5097d5f46659e6d155dc"
+    },
+    {
+      "path": "README.md",
+      "sha": "ec88c4b51c74f00d74e1ab30bf7810c7ca2cafc7"
+    },
+    {
+      "path": "SOURCE_INDEX.md",
+      "sha": "615c944f5e68df6605d3c6d2f6ca8828d6641e23"
+    },
+    {
+      "path": "live-model/00_GOVERNANCE/CONSTITUTION.md",
+      "sha": "1af006d62abf431747156199b88f203a28ee1301"
+    },
+    {
+      "path": "live-model/00_GOVERNANCE/INCREMENT_001_AUTHORITY.md",
+      "sha": "463e7a9fa988e14ee02c48eee8b7dd718a200593"
+    },
+    {
+      "path": "live-model/00_GOVERNANCE/INCREMENT_002_AUTHORITY.md",
+      "sha": "6b7143704012f7c3610b3eb920b4337bc4960fef"
+    },
+    {
+      "path": "live-model/00_GOVERNANCE/V2_CANON_AUTHORITY.md",
+      "sha": "2fd9dded65b9421e308258c33af8050879121f7e"
+    },
+    {
+      "path": "live-model/01_CANON/STORY.md",
+      "sha": "9cf6c108af72e63fb606efe38cddae251b49ce8c"
+    },
+    {
+      "path": "live-model/02_DOMAINS/BLACKSTONE.md",
+      "sha": "1edfbd50811f0b0644aaffe262ba3ad2b20df56c"
+    },
+    {
+      "path": "live-model/02_DOMAINS/GENESIS_LANGUAGE.md",
+      "sha": "fe868ef8a8c9d48e914d7c8ee47941884f7f59c7"
+    },
+    {
+      "path": "live-model/02_DOMAINS/STARSCAPE.md",
+      "sha": "3801916cce84d0efa5ce794eb6b24100a2cd78bd"
+    },
+    {
+      "path": "live-model/02_DOMAINS/SYSTEMS.md",
+      "sha": "ef7e8b1c42ac3f38046edd02a211a50b624430da"
+    },
+    {
+      "path": "live-model/02_DOMAINS/VAELUM_AND_ACCORD.md",
+      "sha": "d946c15cb352a67a9ddc0ebfc8f9b3a18576a0ae"
+    },
+    {
+      "path": "live-model/02_WORLD/STORMS_DOMAI.md",
+      "sha": "16cacdb88e0e16cdfe3ecb756e5d8afaed7c785f"
+    },
+    {
+      "path": "live-model/03_BLACKSTONE/V2_BLACKSTONE_CANON.md",
+      "sha": "f67bbbdb84496b8a782db6fd4daa552f9e2287d3"
+    },
+    {
+      "path": "live-model/03_PROVENANCE/OPEN_AND_SUPERSEDED.md",
+      "sha": "43a2bd0936b8d3d48f9af05d64a3d3aa46910aa3"
+    },
+    {
+      "path": "live-model/04_CODEX_HANDOFF/CODEX_PROMPT.md",
+      "sha": "fbe032008cdf1a213bcb857ee05c577719ff071f"
+    },
+    {
+      "path": "live-model/04_SYSTEMS/BINDING_VAEN.md",
+      "sha": "003b0171a60809d69d002ce275eb5a4d5c761f22"
+    },
+    {
+      "path": "live-model/06_LANGUAGE/V2_LANGUAGE_STATUS.md",
+      "sha": "4195afb8ff248cabb5708db9472bd769589478d0"
+    },
+    {
+      "path": "live-model/07_PROVENANCE/INCREMENT_001_OPEN_QUESTIONS.md",
+      "sha": "1d526dbac0393977f6c1f3b50cb7780e9a3ac7dc"
+    },
+    {
+      "path": "live-model/07_PROVENANCE/INCREMENT_002_OPEN_QUESTIONS.md",
+      "sha": "c70d4da662d564c4cb49189f3fe9225d416440d9"
+    },
+    {
+      "path": "live-model/07_PROVENANCE/V2_OPEN_QUESTIONS.md",
+      "sha": "37488c845a43627d8275920283cec64c95708db5"
+    },
+    {
+      "path": "live-model/07_PROVENANCE/increment-001/package/01_CANON/HOSTILE_ORGANIZATIONS.md",
+      "sha": "dddaa11aa6aeeb0b622bff23d20f168055ac7d04"
+    },
+    {
+      "path": "live-model/07_PROVENANCE/increment-001/package/01_CANON/VAELUM_AND_ACCORD.md",
+      "sha": "0a00621f3038bd27c1dd8731ec4c1e692bc10b33"
+    },
+    {
+      "path": "live-model/07_PROVENANCE/increment-001/package/02_PROVENANCE/DECISION_LEDGER.md",
+      "sha": "837b6e2d97da6e6974ffa3abe242482b39fb6e41"
+    },
+    {
+      "path": "live-model/07_PROVENANCE/increment-001/package/03_CODEX/CODEX_UPDATE_PROMPT.md",
+      "sha": "dfffd6863560fe14b7f971777ec70db7dab0cb3f"
+    },
+    {
+      "path": "live-model/07_PROVENANCE/increment-001/package/README.md",
+      "sha": "4c824f1fc1e82ff6a1537e05cfd55a4032cdb7b1"
+    },
+    {
+      "path": "live-model/07_PROVENANCE/increment-002/CONFLICT_AUDIT.md",
+      "sha": "7d8a0c89e8bc7189ad07c869f537d79e63553ea2"
+    },
+    {
+      "path": "live-model/07_PROVENANCE/increment-002/package/01_KINGDOM_SETTLEMENTS.md",
+      "sha": "2490d4410cca1359e5317e21897cba7b0352bbeb"
+    },
+    {
+      "path": "live-model/07_PROVENANCE/increment-002/package/02_SIGIL_ENGINEERING.md",
+      "sha": "fec1e6e8f6993ddcf2726aac2eff2ea6ea940ab4"
+    },
+    {
+      "path": "live-model/07_PROVENANCE/increment-002/package/03_ARCHITECTS_VELIS.md",
+      "sha": "869041728f821636fe836d35c5349545cbe66d4e"
+    },
+    {
+      "path": "live-model/07_PROVENANCE/increment-002/package/04_ALCHEMY.md",
+      "sha": "90235c6de6aac3e28d0092e8ac22cf9b3fc043c8"
+    },
+    {
+      "path": "live-model/07_PROVENANCE/increment-002/package/05_BINDING_VAEN.md",
+      "sha": "354d6d12ef3ef789e60002f9dfc6498088a6ee0b"
+    },
+    {
+      "path": "live-model/07_PROVENANCE/increment-002/package/06_STORMS_DOMAI.md",
+      "sha": "25e2e58d6f492e9af3eea27c90a8da4898c0489d"
+    },
+    {
+      "path": "live-model/07_PROVENANCE/increment-002/package/07_TERMS_AND_OPEN.md",
+      "sha": "e3ed377e7eb79d815582401b5ddb68828e62a5ac"
+    },
+    {
+      "path": "live-model/07_PROVENANCE/increment-002/package/CODEX_UPDATE_PROMPT.md",
+      "sha": "826cac990d077876baf7265a4e632204455f6b26"
+    },
+    {
+      "path": "live-model/07_PROVENANCE/increment-002/package/README.md",
+      "sha": "eaf4f88c2991d8a3ec7bd0689dcd052a1c3907c0"
+    },
+    {
+      "path": "live-model/08_CODEX_HANDOFF/CODEX_PROMPT_V2.md",
+      "sha": "1cba928b2f1f10022bbc1800bd494691d9e10bab"
+    },
+    {
+      "path": "live-model/README.md",
+      "sha": "a7fe3fd098520d2a549199c2f742a94dd6086690"
+    }
+  ],
+  "wagon_recovery_status": "OPEN; no wagon/fifth-wheel match in 54 Markdown files and 19 standalone MK147 source PDFs; two source ZIP inventories inspected, nested PDF contents not searched.",
+  "assets": [
+    {
+      "path": "references/m06-cartography/atlas_seven_merchant_city_markers.jpeg",
+      "bytes": 209107,
+      "sha256": "63a84686546712670192cbe221186dee015852bc6abe94372da8de91e4fd2311",
+      "pixels": [
+        1320,
+        1178
+      ]
+    },
+    {
+      "path": "references/m06-cartography/atlas_three_kingdom_boundaries.jpeg",
+      "bytes": 311033,
+      "sha256": "af8b02ffdab95338811899607b334d9adc80591467aa66538a418dc8b89e38fb",
+      "pixels": [
+        1320,
+        1194
+      ]
+    },
+    {
+      "path": "references/m06-cartography/atlas_unmarked.jpeg",
+      "bytes": 641330,
+      "sha256": "fb56845d229153d84fb295bf416336c9cc550227cb764020d3cc8362704ab53b",
+      "pixels": [
+        1536,
+        729
+      ]
+    }
+  ],
+  "standalone_pdf_wagon_search": [
+    {
+      "path": "live-model/05_SOURCES/#STYLE(1).pdf",
+      "sha": "5ff86b3103854a95910d8eb3ce0595c163fc937e",
+      "sha256": "2173209f65b90ccf02ba18c7aef210e8dde346c1e6b3088fe089c254afaa8616",
+      "pages": 2
+    },
+    {
+      "path": "live-model/05_SOURCES/36 Agricultural Slices 2(1).pdf",
+      "sha": "c807f8a8b156663ef64c9b4838152baf3010eb04",
+      "sha256": "4cff8803841bafd0c03b6b129bf5ee020dcc620a0b7930f3d3f7437bec9c1d4d",
+      "pages": 7
+    },
+    {
+      "path": "live-model/05_SOURCES/5 Chimera Domai and Magic System Overview.pdf",
+      "sha": "d12630a29a0a9e5e7c2b2b422ba60c5090191299",
+      "sha256": "7c94c60fb59c74304550b6124d448b8f3f10ddc48c96db233f71ab4dcc661651",
+      "pages": 6
+    },
+    {
+      "path": "live-model/05_SOURCES/ARC 1-4(5).pdf",
+      "sha": "5095e436277c1b4b82bb6b77a85992b7502d72a8",
+      "sha256": "bdfa05a247127a80e5c3b73b1d5ed10ed8d4342f95e153040650112d56ac7d05",
+      "pages": 7
+    },
+    {
+      "path": "live-model/05_SOURCES/Annual Structure(1).pdf",
+      "sha": "f95f680d57ebca2342f2b95a83a48e9d6fc20fce",
+      "sha256": "a0b50bc57031cabf943436dafd13c3b709ddb91f0e3afd67293fe7a6a28e1e30",
+      "pages": 1
+    },
+    {
+      "path": "live-model/05_SOURCES/Calendar - Kira(1).pdf",
+      "sha": "7f29f99ec38f5064b8c0e4e9e637a3cd439422a3",
+      "sha256": "ba8fbb2b9a346cacb7ccc0d08d83cc5169427cdce64273f417853236f5ca7f01",
+      "pages": 4
+    },
+    {
+      "path": "live-model/05_SOURCES/Culture(1).pdf",
+      "sha": "435f5f3ad3cfb9b2bce0b35efa0c468f81f4d2c4",
+      "sha256": "ee53d70794868a63ad33df28ffc8430114b899c0eef0fb2f97c39b1a7702fac8",
+      "pages": 7
+    },
+    {
+      "path": "live-model/05_SOURCES/Dimensional Ring(1).pdf",
+      "sha": "cad0386ee27e7791a6d040cc9594a25cbfadb45c",
+      "sha256": "074080af01829b969defe2269c0b14f064bce9a1de9f8c4bb3bde5ee7ffd19b2",
+      "pages": 20
+    },
+    {
+      "path": "live-model/05_SOURCES/MASTER(10).pdf",
+      "sha": "7bb13f5e9cc54a10cf88c99583c1cd2b4c660cd0",
+      "sha256": "4e5c987856e61c80f558887cea1bf9bcc898e888fc9d2daaa5729a9e35eaa67a",
+      "pages": 8
+    },
+    {
+      "path": "live-model/05_SOURCES/MASTER(20261002-172020).pdf",
+      "sha": "25a46509f02ec0985d6f5e35c7c6a80f6ae01f02",
+      "sha256": "b202cf5ebbaf0e79e0a2e22b922a3ce6adbfe9f5bc35d8d122daa49494707bcc",
+      "pages": 12
+    },
+    {
+      "path": "live-model/05_SOURCES/MASTER(20261002-173044).pdf",
+      "sha": "b8fd4435277aba9fd05881aab3a74e759a33cf02",
+      "sha256": "493d94dccfd296a8d426afa7257593411c144cca76dfe002e3505506595f1425",
+      "pages": 7
+    },
+    {
+      "path": "live-model/05_SOURCES/MASTER(7).pdf",
+      "sha": "895ac5717835a401f12f691f614f63603a1c353f",
+      "sha256": "177c73a00ca4d1bf7f468b3c896169ecc15ce5bce55e0d14415ec4407b47cad6",
+      "pages": 5
+    },
+    {
+      "path": "live-model/05_SOURCES/MASTER(8).pdf",
+      "sha": "8fe9966cc53105bea33c6411694d2c9068dd932e",
+      "sha256": "d9bcfacc10e5c75dc076b167f04ffa0cb7df640a03df6433b7b436a780d93ce8",
+      "pages": 20
+    },
+    {
+      "path": "live-model/05_SOURCES/MASTER(9).pdf",
+      "sha": "be8446bdd4a3779d0d80afadee0032c2471f067f",
+      "sha256": "1b2150b1889bdcedd7ba505e148f6697765c1ec05802c298c2e232f58b9fed18",
+      "pages": 7
+    },
+    {
+      "path": "live-model/05_SOURCES/MASTER_1(2).pdf",
+      "sha": "aad0c4e66ae5475428f2487f72f8a3b9778f7447",
+      "sha256": "9266a0132c6d1753170f350817d3a1d21599a643d2b32e6feafe5e404fa4abb2",
+      "pages": 13
+    },
+    {
+      "path": "live-model/05_SOURCES/MASTER_schedule(1).pdf",
+      "sha": "8dec126db34b4a9b1eb726e4e22b66d12caa06df",
+      "sha256": "b9e06117fee78e237f122af56b2bf0356c78f5b3e9033406808c194d2bfc66ae",
+      "pages": 11
+    },
+    {
+      "path": "live-model/05_SOURCES/Months(1).pdf",
+      "sha": "9030c320dded934ced59eb6f390fc24730f926ae",
+      "sha256": "2ba928b813d943dc545326cd76d6f9cd95f18a2e0ff27605318645c47ae6b9a7",
+      "pages": 1
+    },
+    {
+      "path": "live-model/05_SOURCES/Orbital Model(1).pdf",
+      "sha": "5852c5286b3dc449c1c9731a329c3580bc5bed23",
+      "sha256": "b0f6056c6f2804c29db96297235a272c1ac9942297454e4363f8e250e69f0b3f",
+      "pages": 8
+    },
+    {
+      "path": "live-model/05_SOURCES/Social Engine(1).pdf",
+      "sha": "1c10a174f904fff23f98b6c4f0ba1c17aa0af07e",
+      "sha256": "b38589304ee97e0e0b08887872d35d4464e35121c17c642bce3772fcd8235c18",
+      "pages": 12
+    }
+  ]
+}

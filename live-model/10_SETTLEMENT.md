@@ -1,3 +1,5 @@
+> **Current M06 update:** [Milestone 06 separate staging village](#milestone-06-separate-staging-village) governs these scoped additions and supersessions; compatible earlier decisions remain effective.
+
 > **Current M05 update:** [Hollowmere and the planned hub](#hollowmere-and-the-planned-hub) governs the scoped corrections; earlier milestone decisions remain effective where not superseded.
 
 # Opening settlement and Hollowmere dungeon — MK727
@@ -17,3 +19,11 @@ The Crown-established Village Hub stays in the same place near the mountains and
 Kaira delivers armor to guards and adventuring support. She has known and admired the community for years, but has **never entered Hollowmere before Arc VI**. Arc I's five-chapter working sequence remains; Arc V develops voluntary delving elsewhere, team and Armor after Blackstone. Because Hollowmere is Green-rated, it participates in the King's Tournament circuit; she returns with her team and finally enters her home dungeon in Arc VI. Exact circuit stage, race/date and named reunions are OPEN. Team Yellow/fourth and high-end ring/cash after competition remain LOCKED.
 
 The dungeon is a persistent geographic environment, not a cleared game instance or a temporary domai. Compatible source rules confine dungeon Eldris to strata and support comparatively safe staging; outside collapse risks still exist. No new layout, floor count, monster population, route or site coordinates are inferred. [Civilization](22_CIVILIZATION_AND_WILDS.md) distinguishes stabilized regions/towns/hubs; [cartographic provenance](24_CARTOGRAPHIC_PROVENANCE.md) records the missing political overlay and available master.
+
+## Milestone 06 separate staging village
+
+Hollowmere #6 remains a **Green-rated persistent dungeon**, with author-established **Red-through-Green extent** in the inherited R→O→Y→G order. Source stratification and confinement do not determine floor counts, encounter schedules or exact geometry.
+
+A **separate adventuring staging village** serves it: roughly **one-mile radius** and roughly **11 miles from the Crown Village Hub**, both **WORKING pending authoritative map measurement**. This clarifies M05's shared economy; the planned Crown hub stays in place, with its half-mile-square master unchanged. Neither the staging village's radius nor the hub-to-village separation is a new Crown hub size or route measurement.
+
+The community combines dungeon professionalism with relaxed raeon, parties, planning and team composition. Kaira makes occasional armor deliveries but has no free time/social integration and does not delve Hollowmere before Arc VI. The visiting noble's tournament qualification/familiarization run type remains OPEN. See [event seeds](26_CHAPTER_ONE_EVENT_SEEDS.md#hollowmere-and-the-early-tournament). The new continental atlas does not georeference these local distances.

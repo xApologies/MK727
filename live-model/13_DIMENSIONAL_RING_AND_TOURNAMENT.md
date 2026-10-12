@@ -1,3 +1,5 @@
+> **Current M06 update:** [Milestone 06 early tournament presence](#milestone-06-early-tournament-presence) governs these scoped additions and supersessions; compatible earlier decisions remain effective.
+
 > **Current M05 update:** [Milestone 05 Hollowmere circuit](#milestone-05-hollowmere-circuit) governs the scoped corrections; earlier milestone decisions remain effective where not superseded.
 
 > **M04 authority retained within its scope:** read [Milestone 04 result and reward supersession](#milestone-04-result-and-reward-supersession) below. Earlier text is preserved history wherever that section explicitly supersedes or qualifies it.
@@ -30,3 +32,7 @@ After achievement, companions accept professional **vaelum** employment. Kaira d
 Green-rated Hollowmere (#6) participates in the King's Tournament circuit. Kaira returns with her team and first enters her home dungeon during **Arc VI**; years of deliveries/community admiration do not imply a prior delve. Exact race stage/date and named reunions remain OPEN. This does not assign Hollowmere to qualification, regional or finals stage, change point values, or resolve source “Purple Region” wording. Team Yellow/fourth and high-end ring/cash **after competition** remain LOCKED.
 
 An optional ring-sized anchor in the [generic corridor design](23_CORRIDORS_AND_PROFESSIONS.md) grants Kaira no earlier ring. Capital-city gates also do not change ring ontology or chromatic-realm travel rules.
+
+## Milestone 06 early tournament presence
+
+The tournament already exists in early Red. A visiting noble's son comes for Hollowmere qualification/familiarization, with exact run type/date OPEN. This is not Kaira entering the circuit early, a fixed race schedule or a revision to source scoring. Her first Hollowmere delve/own competition remain Arc VI, team Yellow/fourth, with high-end ring and cash after competition. [26 event seeds](26_CHAPTER_ONE_EVENT_SEEDS.md) retain all chronology and equipment limits.

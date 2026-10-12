@@ -1,3 +1,5 @@
+> **Current M06 update:** [Milestone 06 supplied atlas and annotations](#milestone-06-supplied-atlas-and-annotations) governs these scoped additions and supersessions; compatible earlier decisions remain effective.
+
 # Cartographic provenance and availability — Milestone 05
 
 Sources: [M05 map/underworld decisions](../provenance/milestone-05/decisions/04_MAP_AND_UNDERWORLD.md), [civilization decisions](../provenance/milestone-05/decisions/02_CIVILIZATION.md) and [Hollowmere correction](../provenance/milestone-05/decisions/01_HOLLOWMERE.md).
@@ -31,3 +33,19 @@ On the existing local master, **location #6 is Hollowmere, a Green-rated persist
 ## Spatial-event continuity
 
 The [existing event-ledger protocol](14_SPATIAL_EVENT_ENGINE.md) still controls occupancy, independent schedules, routes, witnesses and consequences. No new scene ledger rows, chapter routes, travel times or surveyed borders are inferred. The four royal domains and city districts are distinct classifications. Kaira's exact Arc II city remains OPEN. Hollowmere's Arc VI race stage/date and named reunions remain OPEN despite the established homecoming.
+
+## Milestone 06 supplied atlas and annotations
+
+**CURRENT / supersedes blanket atlas absence above:** M06 delivers three original images, archived unchanged and visually inspected. Earlier M05 availability statements describe that earlier delivery only.
+
+| M06 supplied asset | Current status and scope |
+| --- | --- |
+| [Unmarked atlas](../references/m06-cartography/atlas_unmarked.jpeg) | PRESENT; world geography reference, with northern continent above Eastern Whirlpool the M06 focus |
+| [Three-polity boundaries](../references/m06-cartography/atlas_three_kingdom_boundaries.jpeg) | PRESENT; approximate yellow west Crown / central merchant / east warrior boundaries |
+| [Seven merchant markers](../references/m06-cartography/atlas_seven_merchant_city_markers.jpeg) | PRESENT; approximate colored city positions, not basin/family/rank/capital assignments |
+
+Descriptions, dimensions and exact SHA-256 hashes are in the [asset register](../references/m06-cartography/README.md). No prior village image, legend, reference PDF or atlas asset is replaced. No new map is generated and no image bytes are edited. The [polity owner](25_CONTINENTAL_POLITIES_AND_TRADE.md#seven-merchant-city-markers) records only the supplied approximate positions.
+
+**Still unavailable:** original hand-drawn geographic source, separate climate/current source and original four-color **Crown royal-domain** overlay. The new three-polity continent strokes are not that four-domain overlay, and the merchant dots are not its capital X / purple-X hub / smaller mining-X symbols. M05's rejection of an unrelated generated kingdom image remains effective.
+
+Approximate scale bars, Earth-size comparison, polar “Violet Realm” text and biome colors are artwork captions, not independently ratified physics or realm ontology. Written author directions control. No exact coordinates, routes, capital assignments, Hollowmere distance measurement or ship itinerary follows. Its staging village's ~1-mile radius/~11-mile separation remains WORKING pending authoritative local measurement. Chapter One's eventual apothecary/bakery/collision/smithy sequence is not plotted here.

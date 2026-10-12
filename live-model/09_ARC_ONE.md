@@ -1,3 +1,5 @@
+> **Current M06 update:** [Milestone 06 Chapter One event checkpoint](#milestone-06-chapter-one-event-checkpoint) governs these scoped additions and supersessions; compatible earlier decisions remain effective.
+
 > **Current M05 update:** [Milestone 05 unchanged five-chapter sequence](#milestone-05-unchanged-five-chapter-sequence) governs the scoped corrections; earlier milestone decisions remain effective where not superseded.
 
 > **M04 authority retained within its scope:** read [Milestone 04 harvest continuity](#milestone-04-harvest-continuity) below. Earlier text is preserved history wherever that section explicitly supersedes or qualifies it.
@@ -7,7 +9,7 @@
 **Status:** WORKING scene sequence. Preserve source narrative architecture; do not mechanically reproduce incompatible details.
 
 ## Opening / Chapter 1
-Kira age 23, Afflicted, seven years in armorsmith service. Her mother's three Genesis/Card engineering books remain. She manually weaves chainmail for Crown guard equipment. Her one ordinary Fireball Card is treasured; original MK117 lost-card/apothecary recovery scene is a candidate. Apothecary and abeca social ties and the rare relief of delivery journeys remain candidates. She is positive and curious despite poor conditions. Avoid importing MK117 Enix's original mother/education history.
+Kira age 23, Afflicted, seven years in armorsmith service. Her mother's three Genesis/Card engineering books remain. She manually weaves chainmail for Crown guard equipment. Her one ordinary Fireball Card is treasured; original MK117 lost-card/apothecary recovery scene is a candidate. Apothecary and abecca social ties and the rare relief of delivery journeys remain candidates. She is positive and curious despite poor conditions. Avoid importing MK117 Enix's original mother/education history.
 
 ## Delivery / Chapter 2
 Blacksmith owns **one valuable donkey and cart** for heavy armor shipments; Kira travels without the original junior blacksmith. Cart material/route geometry inherited from MK147 and uploaded map, not reinvented. Guards respect her fine mail; guard watch/raeon, rare meat, firefly formations, regional distances and local dangers are compatible MK117 material. Hollowmere is the Green-rated persistent dungeon at map location #6, an armor-delivery destination for its guards and adventuring support and the hub’s economic center. Kaira has never entered Hollowmere before Arc VI; no delve is added to Arc I.
@@ -25,7 +27,7 @@ Standard restoration needs six appropriately cut R–V Genesis crystals, Genesis
 Leftover chromatic cut shards provide modest but meaningful wealth. Kira can leave the exploitative smithy and the village-hub stigma, retain her books and ordinary Card, and move to a city. Chapter 5 of MK117's short master workup was partial: detailed scenes remain OPEN. The intended endpoint is health, independence and possibility, not immediate mastery or riches.
 
 ## Later source arcs
-Reuse MK117's city/abeca/raeon/chainmail robe social architecture, while replacing original healer-hospital career with Blackstone Cardsmith studies and later `aithren` dungeon exploration. Friendships/nobility/Alchemist plotlines are optional compatible inheritances, not automatic canon.
+Reuse MK117's city/abecca/raeon/chainmail robe social architecture, while replacing original healer-hospital career with Blackstone Cardsmith studies and later `aithren` dungeon exploration. Friendships/nobility/Alchemist plotlines are optional compatible inheritances, not automatic canon.
 
 
 ## Milestone 04 harvest continuity
@@ -39,3 +41,9 @@ The mushroom survives restoration and is **consumed later in Arc V original Armo
 The existing WORKING progression through Chapters 1–5 remains: smithy/manual craft and maternal possessions; delivery/roadside gathering; local collapse and Eldris; ordinary healing; exceptional restoration; aftermath and departure. Chapter headings and causal ordering are retained, with their existing overlap and OPEN detailed choreography. Mother-death 15, smithy 16–23, one mother-made Fireball, three books, smith-owned donkey/cart, R–V crystals, White catalyst, black mushroom vaen and no Black crystal remain unchanged.
 
 Only the delivery destination's identity/economic role changes: **Hollowmere #6 is Green-rated dungeon support, not a Yellow mine** (older classification SUPERSEDED). She has admired the community for years but does not enter Hollowmere before **Arc VI**. This does not relocate the collapse inside Hollowmere or insert a new dungeon scene/route into Arc I. Other Genesis Mine markers remain mines.
+
+## Milestone 06 Chapter One event checkpoint
+
+The previously general apothecary/social opening now has the [author-established event seeds](26_CHAPTER_ONE_EVENT_SEEDS.md#salve-errand-and-collision): raw fingertips, ordinary salve errand for continued production, apothecary married to subordinate smith, hostile baker/fresh pastries, avoidance crossing and collision with the visiting noble's son. This is a checkpoint within Chapter One, not a drafted replacement or sixth chapter. Laira/Maek/Raest/Vael remain PROPOSED.
+
+The noble's qualification/familiarization presence does not grant Kaira an early tournament entry or Hollowmere delve. The sequence through Chapters 1–5, collapse/Eldris, healing, exceptional restoration and departure remains. Topical salve is distinct from both later potions. Current spelling is `abecca`; historical `abeca` is superseded for prose. Exact labor hours, dialogue, map locations, date and event path remain OPEN; eventually verify locations before a duplicate-map overlay.

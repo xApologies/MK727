@@ -1,3 +1,5 @@
+> **Current M06 update:** [Milestone 06 event seeds and atlas evidence](#milestone-06-event-seeds-and-atlas-evidence) governs these scoped additions and supersessions; compatible earlier decisions remain effective.
+
 > **Current M05 update:** [Milestone 05 map availability and correction](#milestone-05-map-availability-and-correction) governs the scoped corrections; earlier milestone decisions remain effective where not superseded.
 
 # Village Hub — Authoritative Map and Spatial-Event Ledger
@@ -19,3 +21,9 @@ Map should be used when Arc I prose begins. No new annotated routes are being ge
 ## Milestone 05 map availability and correction
 
 Hollowmere #6's Green-rated dungeon identity supersedes the old Yellow-mine interpretation in text, while all four original village image bytes remain untouched. No scene route, overlay or map artwork is generated. The hub stays near mountains and runoff in the same position. [24_CARTOGRAPHIC_PROVENANCE.md](24_CARTOGRAPHIC_PROVENANCE.md) records an accepted atlas, original geographic/climate sources and authoritative four-color political overlay **not supplied** in M05, plus the rejected unrelated generated kingdom image. Political purple X means the hub region; smaller colored X marks other Genesis Mines. These marker meanings are supplied statements, not newly inspected pixels. Exact borders, capital positions and routes require the original assets.
+
+## Milestone 06 event seeds and atlas evidence
+
+The [three supplied atlas images](../references/m06-cartography/README.md) are archived unmodified. They supplement the unchanged original local master/legends; they are neither a replacement nor a scene-route overlay. Continental yellow boundaries and seven colored dots are approximate author annotations, not measurements or basin assignments. The four-color Crown-domain overlay and original geographic/climate sources remain separately unavailable.
+
+The future relational event sequence is **apothecary → bakery sightline → collision crossing → smithy**. Verify those locations before plotting on a duplicate of the master. No fabricated route, coordinate, witness schedule, date, timestamp or new event-ledger row is added. Hollowmere staging radius ~1 mile and separation ~11 miles remain WORKING pending authoritative measurement; no pixel-derived confirmation is claimed.

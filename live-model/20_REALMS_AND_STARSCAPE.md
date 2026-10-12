@@ -1,3 +1,5 @@
+> **Current M06 update:** [Milestone 06 cartographic availability](#milestone-06-cartographic-availability) governs these scoped additions and supersessions; compatible earlier decisions remain effective.
+
 > **Current M05 update:** [Milestone 05 maps and gate boundary](#milestone-05-maps-and-gate-boundary) governs the scoped corrections; earlier milestone decisions remain effective where not superseded.
 
 # Realms and starscape — Milestone 04
@@ -59,3 +61,7 @@ No AERA, MK147, `_bricked` or `_raeon` repository is modified by these local dec
 ## Milestone 05 maps and gate boundary
 
 Author acceptance of the world atlas is now established, while its image bytes and the authoritative political overlay remain unavailable; see [asset register](24_CARTOGRAPHIC_PROVENANCE.md#asset-availability). This qualifies earlier deferred-map language without inventing a planetary map or coordinates. [Capital gates and field corridors](23_CORRIDORS_AND_PROFESSIONS.md) concern local civic/expedition transport. They do not resolve inter-realm gateways, compatibility, interworld coordinates or duration, all still OPEN under M04.
+
+## Milestone 06 cartographic availability
+
+M06 supplies the [unmarked atlas and two continental annotations](24_CARTOGRAPHIC_PROVENANCE.md#milestone-06-supplied-atlas-and-annotations), superseding the earlier missing-atlas statements. Separate original geographic/climate maps and Crown four-domain overlay remain missing. The artwork's polar “Violet Realm” labels, biome color keys and approximate scale do not alter MK727's structural basin/inhabited-realm distinction or create a realm travel route. Exact geometry, physics and passage remain OPEN; the ~80,000-mile diameter remains author scale direction.

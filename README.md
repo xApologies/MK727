@@ -39,3 +39,9 @@ Read [Hollowmere and the planned hub](live-model/10_SETTLEMENT.md#hollowmere-and
 Hollowmere #6 is a Green-rated dungeon. Kaira first enters it in Arc VI; Arc I's five-chapter working sequence and all M04 locks are retained. New city/noble and one-anchor transport specifications are scoped author directions. The accepted atlas and original political overlay are not included; existing map images are unchanged. Background underworld activity exists in Red without changing M04's later principal-antagonist matrix.
 
 The [decision ledger](provenance/MILESTONE_05_DECISION_LEDGER.md), [source register](provenance/MILESTONE_05_SOURCE_REGISTER.md) and [reverse audit](provenance/MILESTONE_05_REVERSE_SEMANTIC_AUDIT.md) record evidence, supersessions and OPEN issues. The [executable](provenance/milestone-05/EXECUTABLE.md), decisions and manifest are archived exactly; historical milestones and all 1,245 card records remain preserved.
+
+## Milestone 06
+
+The [continental polity/trade specification](live-model/25_CONTINENTAL_POLITIES_AND_TRADE.md) and [Chapter One event seeds](live-model/26_CHAPTER_ONE_EVENT_SEEDS.md) integrate all six workshop sections. Three [original cartographic references](references/m06-cartography/README.md) are archived unchanged. The atlas is now available; its approximate annotations do not replace the missing Crown-domain overlay or establish measured routes.
+
+The [decision ledger](provenance/MILESTONE_06_DECISION_LEDGER.md), [source register](provenance/MILESTONE_06_SOURCE_REGISTER.md), [reverse audit](provenance/MILESTONE_06_REVERSE_SEMANTIC_AUDIT.md) and [current handoff](live-model/16_NEXT_THREAD_HANDOFF.md#milestone-06-current-handoff) preserve qualifiers and previous milestones. Names remain proposed, `abecca` is current spelling, and story/card locks remain unchanged. This is a checkpoint, not new manuscript chapters.

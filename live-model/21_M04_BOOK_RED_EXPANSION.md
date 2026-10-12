@@ -1,3 +1,5 @@
+> **Current M06 update:** [Milestone 06 opening and trade checkpoint](#milestone-06-opening-and-trade-checkpoint) governs these scoped additions and supersessions; compatible earlier decisions remain effective.
+
 > **Current M05 update:** [Milestone 05 cumulative continuity](#milestone-05-cumulative-continuity) governs the scoped corrections; earlier milestone decisions remain effective where not superseded.
 
 # Book Red expansion — Milestone 04
@@ -20,7 +22,7 @@ She may sell some specimens and keeps the mushroom, perhaps with another living 
 
 ## Arc II — Orange District
 
-Independent city life develops through abeca, Raeon, shopkeepers and Blacksmith Row. Kaira buys prepared chainmail rings from a local smith; 20,000 is an illustrative quantity. The proposed three-basin **General Metal Manipulation** first purchase supports opening, orienting, interlocking and closing rings. She brings expert manual craft but novice Transduction control: fumbles and practice matter.
+Independent city life develops through abecca, Raeon, shopkeepers and Blacksmith Row. Kaira buys prepared chainmail rings from a local smith; 20,000 is an illustrative quantity. The proposed three-basin **General Metal Manipulation** first purchase supports opening, orienting, interlocking and closing rings. She brings expert manual craft but novice Transduction control: fumbles and practice matter.
 
 The earlier hand-woven robe description remains the manual foundation. Card-assisted ring assembly begins here and can mix with handwork; later thermal/wire/ingot mastery remains future development. This explicitly supersedes reading the older “later cards” wording as postponing all assisted assembly until after Blackstone. Her Fireball remains sentimental defense. Expanded Genesis Sight is attractive early observation, not a mandatory acquisition.
 
@@ -61,3 +63,9 @@ Hollowmere #6 is a **Green-rated persistent dungeon**, superseding all Yellow-mi
 Her workbench sigil is architect-made; Cardsmithing concerns card engineering with shared mathematics and professional operation. An accepted world atlas exists as an author decision but its bytes and political overlay are missing. Arc II's exact city remains OPEN. Capital gates and the generic optional ring-sized anchor do not grant Kaira early ring/CSR use.
 
 Red is the first continuous volume of seven with a satisfying identity-formation arc, not deliberately standalone or required to close all sequel threads. [Background illicit economies](19_ANTAGONISTS.md#milestone-05-background-underworld) can be acknowledged in ordinary conversation while later books foreground the M04 factions. Kaira does not use the unnamed fictional drug; no scenes, names or routes are added.
+
+## Milestone 06 opening and trade checkpoint
+
+[Chapter One salve/collision seeds](26_CHAPTER_ONE_EVENT_SEEDS.md) fill the existing opening slot without replacing the five-chapter Arc I sequence or its collapse/restoration pipeline. The apothecary's husband is a subordinate smith, not a new delivery apprentice. The recurring noble-son rival is established; his proposed name Vael remains unratified. The tournament exists early, but Kaira's first Hollowmere delve and competition stay Arc VI; occasional deliveries do not make her socially integrated beforehand.
+
+Current spelling is **abecca**, with botany/trade in [25](25_CONTINENTAL_POLITIES_AND_TRADE.md#abecca-and-commodity-exchange). M06 supplies the previously absent atlas and two annotations; separate original source maps/Crown overlay remain unavailable. Arc V original blank-glass Armor/mushroom consumption, Arc VI Yellow/fourth, post-competition high-end ring/money and all other M04 beats remain. The rival's existence is established; proposed names, exact dialogue/routes/timing and specific later encounters remain OPEN.

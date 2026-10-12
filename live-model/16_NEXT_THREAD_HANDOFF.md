@@ -1,3 +1,5 @@
+> **Current M06 update:** [Milestone 06 current handoff](#milestone-06-current-handoff) governs these scoped additions and supersessions; compatible earlier decisions remain effective.
+
 > **Current M05 update:** [Milestone 05 current handoff](#milestone-05-current-handoff) governs the scoped corrections; earlier milestone decisions remain effective where not superseded.
 
 > **M04 authority retained within its scope:** read [Milestone 04 current handoff](#milestone-04-current-handoff) below. Earlier text is preserved history wherever that section explicitly supersedes or qualifies it.
@@ -39,3 +41,13 @@ Formal education IV, original Armor first third-to-half V, team Yellow/fourth, h
 Red is continuous saga volume one with a satisfying identity arc, not deliberately standalone. Background drug/slave trades and cartel markets already exist, but principal-antagonist emphasis stays M04. Kaira does not use the unnamed drug; suggestibility is not mind control. No plot scenes/routes or trafficking names are assigned.
 
 **OPEN / unavailable:** original atlas/geography/climate/political image bytes; exact borders/capital markers/georeferencing; Arc II city; Hollowmere stage/race/date/reunions; tax rates/succession; corridor range/capacity/IDs/basins/security/discovery/contention/interruption; previous card/Armor recipes, ring tier/capacity/cash, supporting names, mixed concurrency/sixth slot, realm gateways/physics/biology, workshop/donkey/cart fate and detailed chronology. Supply original map assets before exact georeferencing or repository storage is attempted. Textual integration does not require inventing those assets.
+
+## Milestone 06 current handoff
+
+Continue from [Chapter One event seeds](26_CHAPTER_ONE_EVENT_SEEDS.md) and [continental trade](25_CONTINENTAL_POLITIES_AND_TRADE.md), using the [M06 ledger](../provenance/MILESTONE_06_DECISION_LEDGER.md) and [audit](../provenance/MILESTONE_06_REVERSE_SEMANTIC_AUDIT.md). The salve/collision/rivalry is established direction, not finished prose. Laira/Maek/Raest/Vael are verified candidates, still PROPOSED. Kaira and lowercase abecca are current spellings.
+
+Hollowmere #6 is Green with R-through-G extent and a separate staging village (~1-mile radius/~11-mile separation WORKING). Kaira admires it through occasional deliveries without free time/social integration; first entry remains Arc VI. Early noble qualification/familiarization does not alter her competition timing. Five-chapter Arc I, collapse/restoration, six arcs, first-third/half V original Armor/mushroom, Yellow/fourth and post-competition high-end ring/cash remain unchanged.
+
+The atlas and two annotations are now [available](24_CARTOGRAPHIC_PROVENANCE.md#milestone-06-supplied-atlas-and-annotations); the original geographic/climate sources and four-domain Crown overlay are still missing. Three polities and seven merchant markers are approximate, not new surveyed borders. Commodity/forestry/stone/shipping/piracy models preserve all source qualifiers; no new routes, prices, tariffs or propulsion.
+
+**OPEN / unresolved:** proposed name ratification; collision locations/dialogue/date/labor hours; Hollowmere measurements/run type; merchant area-versus-radius scale alternatives; pyramid purpose/hierarchy; exact society count, other continents, flora origins/yields/varieties and animal imports; fifth-wheel source recovery and metal wagons; ship sizes/routes/durations/economic values. GF legacy descriptions and earlier M04/M05 mechanics/recipe/realm/chronology questions remain as recorded. Verify map locations before any duplicate-map path; no chapter drafting or overlay is performed by this checkpoint.

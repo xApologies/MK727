@@ -1,3 +1,5 @@
+> **Current M06 update:** [Milestone 06 continental context](#milestone-06-continental-context) governs these scoped additions and supersessions; compatible earlier decisions remain effective.
+
 > **Current M05 update:** [Milestone 05 civilization and map scope](#milestone-05-civilization-and-map-scope) governs the scoped corrections; earlier milestone decisions remain effective where not superseded.
 
 > **M04 authority retained within its scope:** read [Milestone 04 realm and world clarification](#milestone-04-realm-and-world-clarification) below. Earlier text is preserved history wherever that section explicitly supersedes or qualifies it.
@@ -27,3 +29,9 @@ Chromatic realms can bridge multiple White worlds, potentially other galaxies. N
 [22_CIVILIZATION_AND_WILDS.md](22_CIVILIZATION_AND_WILDS.md) governs stabilized-island civilization, Wilds as Genesis risk, working footprints/radii, landed noble shares and exactly four royal domains. Representative five-construct arrays reduce major collapse/domai without blocking all minor events or existing Eldris. Roads, guarded waystations and organic towns coexist with planned Village Hubs.
 
 Hollowmere #6 is a **Green-rated persistent dungeon** anchoring the planned opening hub, superseding its former Yellow-mine description. Site/location and existing master bytes are unchanged. [Capital gates and one-anchor corridors](23_CORRIDORS_AND_PROFESSIONS.md) are local transport directions, not solutions to the separate realm-gateway OPEN questions. [Cartographic provenance](24_CARTOGRAPHIC_PROVENANCE.md) distinguishes author acceptance of an atlas from absent image bytes. Exact political borders/capital positions follow the missing original overlay, never an inferred replacement.
+
+## Milestone 06 continental context
+
+[25_CONTINENTAL_POLITIES_AND_TRADE.md](25_CONTINENTAL_POLITIES_AND_TRADE.md) establishes the northern continent above Eastern Whirlpool: Crown Kingdom west, Seven Merchant Houses center, warrior kingdom east. The Crown's four royal domains and working city sizes remain a distinct level of geography; seven merchant marker colors are location IDs only. Merchant city-size alternatives remain unresolved; ~23–31 worldwide societies is a planning range, not census.
+
+**SUPERSEDED availability:** the M05 statements that the atlas is unavailable are historical. M06 supplies the [atlas and two approximate annotation images](24_CARTOGRAPHIC_PROVENANCE.md#milestone-06-supplied-atlas-and-annotations). Original hand-drawn geography, separate climate source and four-color Crown-domain overlay are still missing. No exact scale/route/physics or realm/biome meaning is inferred. Hollowmere's separate support village and its WORKING size/separation are specified in [10](10_SETTLEMENT.md#milestone-06-separate-staging-village).

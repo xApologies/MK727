@@ -1,3 +1,5 @@
+> **Current M06 update:** [Milestone 06 cumulative decisions](#milestone-06-cumulative-decisions) governs these scoped additions and supersessions; compatible earlier decisions remain effective.
+
 > **Current M05 update:** [Milestone 05 cumulative decisions](#milestone-05-cumulative-decisions) governs the scoped corrections; earlier milestone decisions remain effective where not superseded.
 
 > **M04 authority retained within its scope:** read [Milestone 04 cumulative decisions](#milestone-04-cumulative-decisions) below. Earlier text is preserved history wherever that section explicitly supersedes or qualifies it.
@@ -71,3 +73,11 @@ The [M04 ledger](../provenance/MILESTONE_04_DECISION_LEDGER.md) maps every suppl
 - **ESTABLISHED acceptance / MISSING assets:** accepted illustrated atlas and original geography/climate/political maps are referenced but absent from M05. Existing village images stay intact. Unrelated generated multi-domain image REJECTED. Purple X denotes hub region; smaller colored X marks other mines. Exact georeferencing requires original assets.
 - **ESTABLISHED background:** drug/slave trades, cartel markets, stolen-vaen fencing and possible maritime/regional intersections already exist in Red. Awareness varies; Kaira does not use the unnamed crystalline drug. Euphoria/dependency/cognitive decline and secondary suggestibility are not mind control. No new drug chemistry/routes/faction names/scenes. M04 matrix remains primary-antagonist emphasis.
 - **PRESERVED:** Red is continuous volume one of seven, not deliberately standalone. Six arcs; Armor early-to-middle V; team Yellow/fourth; high-end ring/cash after competition; unchanged biography/collapse/restoration, catalogues and prior OPEN values. [M05 ledger](../provenance/MILESTONE_05_DECISION_LEDGER.md) and [audit](../provenance/MILESTONE_05_REVERSE_SEMANTIC_AUDIT.md) map every decision and supersession.
+
+## Milestone 06 cumulative decisions
+
+The [M06 ledger](../provenance/MILESTONE_06_DECISION_LEDGER.md) covers all six workshop sections and their resulting owners. ESTABLISHED: Chapter One salve/collision/rivalry; separate Hollowmere support settlement and R-through-G extent; three continental polities; seven merchant cities; current abecca spelling/botanical concept; commodity/timber/stone/labor/shipping/piracy directions.
+
+PROPOSED: Laira, Maek, Raest, Vael remain unassigned despite exact candidate-library matches. WORKING: staging-village ~1-mile radius/~11-mile hub separation. ILLUSTRATIVE: overwork hours, five-ship timber need, three-cargo/five-escort fleet, seven-month/two-year voyages; 23–31 societies is a planning range. OPEN: merchant scale alternatives, pyramid purpose/command, origins/yields/animal imports, wagon source/materials, prices/tariffs/routes and exact maps/scene timing.
+
+SUPERSEDED: current `abeca` spelling, blanket atlas absence, and illustrative-only status of three polities on this specified continent. The M06 continent annotations do not supply the missing four-domain Crown overlay. Protected: all prior archives/assets, 1,245 rows/basins, GF discrepancy and AERA L0/L1; six arcs, original Arc V mushroom/blank-glass Armor, Yellow/fourth and ring/cash after competition. [Reverse audit](../provenance/MILESTONE_06_REVERSE_SEMANTIC_AUDIT.md) records residual gaps.

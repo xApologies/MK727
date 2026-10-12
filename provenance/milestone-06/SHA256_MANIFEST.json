@@ -1,0 +1,26 @@
+{
+  "assets/README.md": {
+    "sha256": "17d3847854229a7a36c96beac6f1473da81476801a4115d69e7e4336f68d1569",
+    "bytes": 738
+  },
+  "assets/atlas_seven_merchant_city_markers.jpeg": {
+    "sha256": "63a84686546712670192cbe221186dee015852bc6abe94372da8de91e4fd2311",
+    "bytes": 209107
+  },
+  "assets/atlas_three_kingdom_boundaries.jpeg": {
+    "sha256": "af8b02ffdab95338811899607b334d9adc80591467aa66538a418dc8b89e38fb",
+    "bytes": 311033
+  },
+  "assets/atlas_unmarked.jpeg": {
+    "sha256": "fb56845d229153d84fb295bf416336c9cc550227cb764020d3cc8362704ab53b",
+    "bytes": 641330
+  },
+  "decisions/M06_WORKSHOP.md": {
+    "sha256": "a6f73122b6f6c4ece7f0c1e26414a23bd73d56b70df7ee5ccc1344201a90d937",
+    "bytes": 8277
+  },
+  "executable.md": {
+    "sha256": "313b44f2de7b30578ac5b9e8641bbe460e26a0d84c6b7d2f4311e457c8014fd4",
+    "bytes": 2910
+  }
+}

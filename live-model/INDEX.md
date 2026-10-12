@@ -49,3 +49,13 @@ Current spine: Arc IV formal education; Arc V original Armor construction in app
 - [M05 ledger](../provenance/MILESTONE_05_DECISION_LEDGER.md), [source register](../provenance/MILESTONE_05_SOURCE_REGISTER.md) and [reverse audit](../provenance/MILESTONE_05_REVERSE_SEMANTIC_AUDIT.md) — complete coverage and preservation.
 
 M05 explicitly supersedes prior Hollowmere Yellow-mine claims, Cardsmith/Architect duty conflation, capital ~13×13 alternative, and a reading of map availability as lack of author acceptance. Arc I sequence, six arcs, Armor Arc V, Yellow/fourth team result and post-competition ring/cash remain. Historical provenance is unchanged.
+
+## Milestone 06 current additions
+
+- [25_CONTINENTAL_POLITIES_AND_TRADE.md](25_CONTINENTAL_POLITIES_AND_TRADE.md) — three polities, seven approximate city markers, abecca, commodities, timber/stone/labor, shipping and piracy.
+- [26_CHAPTER_ONE_EVENT_SEEDS.md](26_CHAPTER_ONE_EVENT_SEEDS.md) — salve errand/collision/rivalry, proposed names, Hollowmere staging and event-ledger limits.
+- [24 cartographic update](24_CARTOGRAPHIC_PROVENANCE.md#milestone-06-supplied-atlas-and-annotations) and [original images](../references/m06-cartography/README.md) — supplied atlas/annotations with exact hashes; separate missing source maps remain distinguished.
+- [15 naming update](15_NAMING_AND_WORKSHOP.md#milestone-06-candidates-and-abecca) and [16 handoff](16_NEXT_THREAD_HANDOFF.md#milestone-06-current-handoff) — current spellings, proposals and unresolved work.
+- [M06 ledger](../provenance/MILESTONE_06_DECISION_LEDGER.md), [source register](../provenance/MILESTONE_06_SOURCE_REGISTER.md), [reverse audit](../provenance/MILESTONE_06_REVERSE_SEMANTIC_AUDIT.md) — complete six-section coverage.
+
+M06 supersedes blanket missing-atlas status and the illustrative-only three-polity description for this continent. It clarifies the separate Hollowmere staging village without changing the Crown Hub classification. All card records, original assets, prior provenance and M04/M05 story locks remain protected. Earlier `abeca` is historical; current `abecca` is canonical. No source-recovered fifth-wheel geometry or metal wagon is claimed.

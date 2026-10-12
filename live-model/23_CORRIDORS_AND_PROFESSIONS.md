@@ -1,3 +1,5 @@
+> **Current M06 update:** [Milestone 06 material supply and shipping boundary](#milestone-06-material-supply-and-shipping-boundary) governs these scoped additions and supersessions; compatible earlier decisions remain effective.
+
 # Corridors, gates and professional duties — Milestone 05
 
 Source: [M05 corridor decisions](../provenance/milestone-05/decisions/03_CORRIDORS.md). **AUTHOR-APPROVED narrative-level design.** This chooses equipment and civic behavior without deriving new L0/L1 mathematics, assigning catalogue IDs or fixing range, price or physics. Source boundaries are recorded in the [M05 source register](../provenance/MILESTONE_05_SOURCE_REGISTER.md).
@@ -41,3 +43,9 @@ Military Architects make restricted anchor sigil topology; military Cardsmiths m
 Roads, wagons, ships, patrols and waystations remain important. Corridors move travelers; they do not patrol skipped territory. Caravan guards secure anchor sites. Bandits might discover a compatible anchor but risk confronting hardened adventurers or Crown guards. No new bandit encounter, trafficking route or shortcut across the unavailable political map is authored here.
 
 Capital gates and field corridors do not settle the separate M04 questions about chromatic-realm gateways, interworld coordinates or native-realm compatibility. Physical anchors, sigils and Architect-created velis retain their distinct source meanings.
+
+## Milestone 06 material supply and shipping boundary
+
+[Forestry and shipping](25_CONTINENTAL_POLITIES_AND_TRADE.md) retain a need for guarded extraction, roads, wagons, ports and ships. Temporary extraction anchors have unspecified equipment; agricultural velis are direct Architect field topologies, not automatically mobile corridor sigils. Sigil-array stone growth preserves Architects/Runesmiths versus Cardsmiths duties.
+
+No new unlimited corridor cargo capacity, transoceanic shortcut or wind/water propulsion is inferred. Existing Transduction Cards may assist within established rules only; no new ID/basins. The one-anchor protocol, civilian-versus-military access distinctions and OPEN range/security/capacity remain unchanged. The requested fifth-wheel source design was not recovered; wagon materials remain OPEN.
