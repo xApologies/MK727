@@ -1,0 +1,75 @@
+{
+  "package": "MK727 Milestone 03 final thread handoff",
+  "files": [
+    {
+      "path": "EXECUTABLE.md",
+      "sha256": "be6c6375e9ea074066180dd0203c5d51fd37dd5d18897db3d0651a4e82735e8a",
+      "bytes": 4308
+    },
+    {
+      "path": "README_MILESTONE_03.md",
+      "sha256": "44b0c4bb4317fe2f8e480f942ef74b2fefcc09ad838d6ee1855bdae29fb63535",
+      "bytes": 1123
+    },
+    {
+      "path": "catalogues/names/names.csv",
+      "sha256": "ec87a9571eb76cce202348d147697dad6a1d7d4794751fe00ab2a44a2a18a1f2",
+      "bytes": 4295
+    },
+    {
+      "path": "catalogues/names/names.txt",
+      "sha256": "f5248247d30906a927491dc505b752cbc4c374e8383714af26a0639b6f0b78de",
+      "bytes": 1140
+    },
+    {
+      "path": "live-model/12_BOOK_RED_SIX_ARCS.md",
+      "sha256": "186100218e408bbacb17677fb5ec0b59302ce92ec4271d4b2b447c45202d0ebf",
+      "bytes": 2425
+    },
+    {
+      "path": "live-model/13_DIMENSIONAL_RING_AND_TOURNAMENT.md",
+      "sha256": "acd74b705d6578227460dc299d721bf535845420e5c0d05b1ef7cd358613620e",
+      "bytes": 1844
+    },
+    {
+      "path": "live-model/14_SPATIAL_EVENT_ENGINE.md",
+      "sha256": "170739b2ca578e63f379078b12cb122ad6da9d1455b90fe1d289c530e0423f04",
+      "bytes": 1854
+    },
+    {
+      "path": "live-model/15_NAMING_AND_WORKSHOP.md",
+      "sha256": "70df9e0c82786057abb9bdfd6bc2a6b6c7a9381964d38d14e364703d13791bb1",
+      "bytes": 1945
+    },
+    {
+      "path": "live-model/16_NEXT_THREAD_HANDOFF.md",
+      "sha256": "121db28b6ae4ced6a32d6dc1f7cb7803911efdee2217ae35dcbcc8d99b9be17b",
+      "bytes": 2198
+    },
+    {
+      "path": "provenance/MILESTONE_03_DECISION_LEDGER.md",
+      "sha256": "3481a8e8d80edd910c236db78127feadfa9234c6260b2f8ab4cae9e650d46d1b",
+      "bytes": 2723
+    },
+    {
+      "path": "references/village-hub/legend_1.jpeg",
+      "sha256": "c454c5158813e8d15716012fa553c028fe7ee87c1a833ce6f3fdc76b4bcba5c1",
+      "bytes": 180447
+    },
+    {
+      "path": "references/village-hub/legend_2.jpeg",
+      "sha256": "31ff78f1d15c1afc8451e783ea01915bb344f4c238b4e4fd4a02b3a396142323",
+      "bytes": 178275
+    },
+    {
+      "path": "references/village-hub/legend_3.jpeg",
+      "sha256": "f8a0bd8481d649d5c3bb7201f1f18e8fed4a5814ff690bea97f9c1ae479a4874",
+      "bytes": 156010
+    },
+    {
+      "path": "references/village-hub/village_hub_master.JPG",
+      "sha256": "a5e2e9b7fcfa69af7b75b21eb29a32a5e7f11745e7c4cdb81c1f9afb43641d63",
+      "bytes": 1688276
+    }
+  ]
+}

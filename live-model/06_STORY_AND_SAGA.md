@@ -22,3 +22,14 @@ These are planned acquisition locations, not guaranteed book endings. Mastery ca
 
 ## Adaptation firewall
 MK117's old Enix origin, junior blacksmith companion, Black crystal and Black-stabilized potion, personal concept learning, and automatic healer/hospital pipeline do not transfer. MK117's hospital arc may be replaced with professional Cardsmithing, while its community/noble/friendship scenes remain candidates. The expeditionary dungeon world is inherited, but Kira's motivation is **becoming an adventurer**, not compulsory professional placement.
+
+
+## Milestone 03 update and supersession - 2026-10-11
+
+**SUPERSEDED as a complete arc count:** the five-part `Book One / Red - inherited arc trajectory` summary above remains the Milestone 02 history. The current **ESTABLISHED six-arc sequence** is I Village Hub; II Orange District; III Chainmail Robe Movement; IV Blackstone; V Aithren Community; VI King's Tournament. See [the complete spine](12_BOOK_RED_SIX_ARCS.md).
+
+**ESTABLISHED equipment timing:** Book Red ends with Kaira receiving a Dimensional Ring as her tournament reward. She carries conventional expedition equipment through Arcs I-V and throughout Arc VI's competition. Any ring-before-award or ring-during-competition reading is SUPERSEDED. The ring can be standard equipment in Orange-White; quality, precise placing, prize details and choreography remain OPEN. Use [the inherited ring and tournament source constraints](13_DIMENSIONAL_RING_AND_TOURNAMENT.md).
+
+**Status boundary:** the six-arc sequence is established, but the first Black Armor's Blackstone placement remains WORKING and its exact fabrication details remain OPEN, consistent with the earlier saga and [handoff](16_NEXT_THREAD_HANDOFF.md). The seven-book progression and cumulative professions remain intact; joining aithren is her independent choice to adventure.
+
+**Naming and scene provenance:** manuscript **Kaira**, author shorthand **Kira**. The 185-name pool is a candidate library (93 Female, 92 Male), not 185 assigned characters. Use the [map/event protocol](14_SPATIAL_EVENT_ENGINE.md) for occupancy, routes, timing, witnesses and consequences; exact scene rows, travel dates and routes remain OPEN. [The audit](../provenance/MILESTONE_03_REVERSE_SEMANTIC_AUDIT.md) records the source checks and wording qualifications.
