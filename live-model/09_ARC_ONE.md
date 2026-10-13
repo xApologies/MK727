@@ -1,3 +1,5 @@
+> **Current M07 endpoint:** [City-gate transition](#milestone-07-city-gate-transition) closes Arc I's existing scaffold. Departure does not remove Afflicted stigma; Arc II opens later in the apartment negotiation.
+
 > **Current M06 update:** [Milestone 06 Chapter One event checkpoint](#milestone-06-chapter-one-event-checkpoint) governs these scoped additions and supersessions; compatible earlier decisions remain effective.
 
 > **Current M05 update:** [Milestone 05 unchanged five-chapter sequence](#milestone-05-unchanged-five-chapter-sequence) governs the scoped corrections; earlier milestone decisions remain effective where not superseded.
@@ -47,3 +49,11 @@ Only the delivery destination's identity/economic role changes: **Hollowmere #6 
 The previously general apothecary/social opening now has the [author-established event seeds](26_CHAPTER_ONE_EVENT_SEEDS.md#salve-errand-and-collision): raw fingertips, ordinary salve errand for continued production, apothecary married to subordinate smith, hostile baker/fresh pastries, avoidance crossing and collision with the visiting noble's son. This is a checkpoint within Chapter One, not a drafted replacement or sixth chapter. Laira/Maek/Raest/Vael remain PROPOSED.
 
 The noble's qualification/familiarization presence does not grant Kaira an early tournament entry or Hollowmere delve. The sequence through Chapters 1–5, collapse/Eldris, healing, exceptional restoration and departure remains. Topical salve is distinct from both later potions. Current spelling is `abecca`; historical `abeca` is superseded for prose. Exact labor hours, dialogue, map locations, date and event path remain OPEN; eventually verify locations before a duplicate-map overlay.
+
+## Milestone 07 city-gate transition
+
+**ESTABLISHED dramatic transition:** Arc I ends with **Kaira walking through the city gates toward a new life**. This completes the existing five-chapter WORKING scaffold and its collapse, ordinary healing, exceptional restoration and departure. Exact prose, route, gate details, chronology and city identity remain OPEN; no extra chapter or scene itinerary is added.
+
+The earlier Aftermath phrase about leaving "the village-hub stigma" means leaving that local social network, not escaping Afflicted prejudice in the wider society. Any reading of it as improved class standing or the city as a social refuge is **SUPERSEDED** by [M07 social continuity](03_KIRA.md#milestone-07-restoration-and-social-standing). Her restored health, limited wealth, books and mother-made Fireball are retained.
+
+[Arc II, Orange District](21_M04_BOOK_RED_EXPANSION.md#milestone-07-arc-ii-apartment-opening), begins **in medias res with Kaira haggling over her first apartment**. It does not replay the gate arrival or acquire a new fixed chapter number. M06's Chapter One salve/baker/noble collision seed and all delivery, crystal, mushroom and Hollowmere limits remain intact.

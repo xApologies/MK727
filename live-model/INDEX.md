@@ -1,3 +1,5 @@
+> **Current starting point — M07:** [Arc II apartment negotiation](16_NEXT_THREAD_HANDOFF.md#milestone-07-current-handoff--arc-ii). The older Arc I starting references below are historical workshop positions.
+
 # MK727 Live Model — Milestone 02
 
 - `01_MAGIC.md` — card mechanism, six-basin occupancy, manufacturing and competency (existing First Light).
@@ -59,3 +61,13 @@ M05 explicitly supersedes prior Hollowmere Yellow-mine claims, Cardsmith/Archite
 - [M06 ledger](../provenance/MILESTONE_06_DECISION_LEDGER.md), [source register](../provenance/MILESTONE_06_SOURCE_REGISTER.md), [reverse audit](../provenance/MILESTONE_06_REVERSE_SEMANTIC_AUDIT.md) — complete six-section coverage.
 
 M06 supersedes blanket missing-atlas status and the illustrative-only three-polity description for this continent. It clarifies the separate Hollowmere staging village without changing the Crown Hub classification. All card records, original assets, prior provenance and M04/M05 story locks remain protected. Earlier `abeca` is historical; current `abecca` is canonical. No source-recovered fifth-wheel geometry or metal wagon is claimed.
+
+## Milestone 07 current additions
+
+- [03 biography](03_KIRA.md#milestone-07-restoration-and-social-standing) — health restored, visible white skin and perceived Afflicted status retained.
+- [09 Arc I endpoint](09_ARC_ONE.md#milestone-07-city-gate-transition) — city gates close the existing five-chapter scaffold.
+- [12 six-arc continuity](12_BOOK_RED_SIX_ARCS.md#milestone-07-arc-boundary-and-opening) and [21 apartment seed](21_M04_BOOK_RED_EXPANSION.md#milestone-07-arc-ii-apartment-opening) — Arc II opens in medias res, with no new chapter number or fixed rent/outcome.
+- [22 social treatment](22_CIVILIZATION_AND_WILDS.md#milestone-07-afflicted-social-continuity) and [ordinary architecture](22_CIVILIZATION_AND_WILDS.md#milestone-07-ordinary-city-architecture) — descriptive additions; six [reference images](../references/m07-architecture/README.md) are architecture only.
+- [16 current handoff](16_NEXT_THREAD_HANDOFF.md#milestone-07-current-handoff--arc-ii), [M07 decision ledger](../provenance/MILESTONE_07_DECISION_LEDGER.md) and [reverse audit](../provenance/MILESTONE_07_REVERSE_SEMANTIC_AUDIT.md) — recover the current seed, source comparisons and OPEN decisions.
+
+The current six-arc table remains intact. Armor/mushroom timing in V, Yellow/fourth and post-competition ring/money in VI, first Hollowmere entry in VI, M06 Chapter One seeds, proposed names and continental trade remain preserved. Earlier milestone records retain their historical wording; current manuscript spelling is Kaira and the beverage is lowercase abecca.

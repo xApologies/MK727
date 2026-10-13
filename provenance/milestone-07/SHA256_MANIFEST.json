@@ -1,0 +1,38 @@
+{
+  "executable.md": {
+    "sha256": "574fc63fa99eccdaa365c4a0fc713e2ad3c591b8f2c2b0549fa91cfb280c493c",
+    "bytes": 2302
+  },
+  "decisions/M07_BOOK_CONTINUITY.md": {
+    "sha256": "786fc29fc785f956f5818667e1f8b29230d4d588585d8b2b71a6a5c28aca1d11",
+    "bytes": 4816
+  },
+  "references/architecture/SOURCE_README.md": {
+    "sha256": "133eef6fed9d0ef63bb6c5fc244eadf27f549ac71f9310879ce2c2f6a67c533b",
+    "bytes": 443
+  },
+  "references/architecture/reference_city_02.jpeg": {
+    "sha256": "9fe1f92a279c159df2045c8a5f1f832a885ed9e04b1a4a1e6d5759aafa7a21a6",
+    "bytes": 1046914
+  },
+  "references/architecture/reference_pedestrian_plaza.png": {
+    "sha256": "4f62bffb0b1575e5ea49fb6dbb2c95275c520c0382de831960cfdd77fed0c732",
+    "bytes": 2364035
+  },
+  "references/architecture/reference_city_05.jpeg": {
+    "sha256": "e1e4af6addd421d4b348fde2607fe94e63a0dd241124a96f526e46213417599c",
+    "bytes": 923442
+  },
+  "references/architecture/reference_city_01.jpeg": {
+    "sha256": "d68c9dbe232161bb6533bb63dd709566cbc18049fdbde38cf4f23c89f7c04c84",
+    "bytes": 898578
+  },
+  "references/architecture/reference_city_03.png": {
+    "sha256": "21962ec6bc46b83e667974fab12fac1c2733ace19526a1d6aaf80ede06769e4f",
+    "bytes": 3196647
+  },
+  "references/architecture/reference_city_04.jpeg": {
+    "sha256": "9b77a0df06b4e7204a57b109f7d8fd3ff22df663fe85f505d1f1862740ed3421",
+    "bytes": 866699
+  }
+}

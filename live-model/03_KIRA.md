@@ -1,3 +1,5 @@
+> **Current M07 update:** [Restoration and social standing](#milestone-07-restoration-and-social-standing) distinguishes physical recovery from continued perceived Afflicted status. Earlier compatible biography remains effective.
+
 > **Current M06 update:** [Milestone 06 Chapter One and social distance](#milestone-06-chapter-one-and-social-distance) governs these scoped additions and supersessions; compatible earlier decisions remain effective.
 
 > **Current M05 update:** [Milestone 05 Hollowmere and profession correction](#milestone-05-hollowmere-and-profession-correction) governs the scoped corrections; earlier milestone decisions remain effective where not superseded.
@@ -47,3 +49,11 @@ Her mother is a Cardsmith/card engineer; the older parenthetical “specialist A
 [26_CHAPTER_ONE_EVENT_SEEDS.md](26_CHAPTER_ONE_EVENT_SEEDS.md) establishes raw fingertips after prolonged manual ring labor, the master's productivity-driven topical-salve errand, the apothecary's marriage to a subordinate smith, and the bakery-avoidance crossing/collision with a visiting noble's son. His Affliction/class hostility seeds a seven-book rivalry; Kaira often outdoes him and later knows the princess, who outranks him. Names Laira/Maek/Raest/Vael remain PROPOSED, not assigned.
 
 The noble visits for Hollowmere qualification/familiarization, exact run OPEN. Kaira admires the community through occasional guard/support deliveries but lacks free time/social integration. Her first Hollowmere delve stays Arc VI; the Arc I collapse/restoration and maternal/equipment biography remain unchanged. Exact labor hours and geography are OPEN. Manuscript spelling is Kaira; no new chapters are drafted.
+
+## Milestone 07 restoration and social standing
+
+**ESTABLISHED:** Following physical restoration, Kaira retains healthy white skin and is still visibly white-skinned and **perceived as Afflicted**. Her health changes; neither public perception nor her standing in the class hierarchy improves. Her movement from hub to city is **socially sideways, not upward**. This preserves the restored biology, black eyes, fuller white hair, retained scars and Black/Neon access above; perceived Affliction does not undo the restoration.
+
+Afflicted people remain beneath the conventional noble/commoner/peasant hierarchy, with restricted housing, employment, pricing and social opportunities. Leaving the exploitative smithy and the hub's local network gives Kaira independent agency, not release from wider stigma or an equal-opportunity city. Her limited savings and exceptional manual craft do not guarantee bargaining mastery or immediate business success.
+
+[The Arc II apartment seed](21_M04_BOOK_RED_EXPANSION.md#milestone-07-arc-ii-apartment-opening) puts these limits into the new starting situation. [Hub versus urban treatment](22_CIVILIZATION_AND_WILDS.md#milestone-07-afflicted-social-continuity) describes differing common expressions of prejudice without making all individuals alike. Manuscript Kaira, shorthand Kira, her prepared-ring supplier, proposed three-basin General Metal Manipulation and novice card control remain as established; no new name, lease outcome or wealth amount is assigned.

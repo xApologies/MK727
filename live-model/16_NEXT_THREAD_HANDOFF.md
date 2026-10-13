@@ -1,3 +1,7 @@
+# Current next-thread starting position — M07, Book Red Arc II
+
+**Begin at the Orange District apartment negotiation**, using [the current handoff](#milestone-07-current-handoff--arc-ii) and [opening seed](21_M04_BOOK_RED_EXPANSION.md#milestone-07-arc-ii-apartment-opening). The preserved Arc I "Begin here" instruction and M04–M06 continuation points below are **SUPERSEDED as workshop starting positions only**. Their compatible canon and provenance remain effective.
+
 > **Current M06 update:** [Milestone 06 current handoff](#milestone-06-current-handoff) governs these scoped additions and supersessions; compatible earlier decisions remain effective.
 
 > **Current M05 update:** [Milestone 05 current handoff](#milestone-05-current-handoff) governs the scoped corrections; earlier milestone decisions remain effective where not superseded.
@@ -51,3 +55,17 @@ Hollowmere #6 is Green with R-through-G extent and a separate staging village (~
 The atlas and two annotations are now [available](24_CARTOGRAPHIC_PROVENANCE.md#milestone-06-supplied-atlas-and-annotations); the original geographic/climate sources and four-domain Crown overlay are still missing. Three polities and seven merchant markers are approximate, not new surveyed borders. Commodity/forestry/stone/shipping/piracy models preserve all source qualifiers; no new routes, prices, tariffs or propulsion.
 
 **OPEN / unresolved:** proposed name ratification; collision locations/dialogue/date/labor hours; Hollowmere measurements/run type; merchant area-versus-radius scale alternatives; pyramid purpose/hierarchy; exact society count, other continents, flora origins/yields/varieties and animal imports; fifth-wheel source recovery and metal wagons; ship sizes/routes/durations/economic values. GF legacy descriptions and earlier M04/M05 mechanics/recipe/realm/chronology questions remain as recorded. Verify map locations before any duplicate-map path; no chapter drafting or overlay is performed by this checkpoint.
+
+## Milestone 07 current handoff — Arc II
+
+Begin Book Red **Arc II, Orange District**, in medias res with Kaira haggling over her first apartment. Arc I has ended on her walking through city gates toward a new life; do not replay that arrival or impose a new chapter number. This is a seed for the next workshop, not written prose or a completed lease.
+
+Retrieve [INDEX](INDEX.md), [Kaira](03_KIRA.md#milestone-07-restoration-and-social-standing), [Arc I](09_ARC_ONE.md#milestone-07-city-gate-transition), [six arcs](12_BOOK_RED_SIX_ARCS.md), [Book Red expansion](21_M04_BOOK_RED_EXPANSION.md#milestone-07-arc-ii-apartment-opening), [M06 trade](25_CONTINENTAL_POLITIES_AND_TRADE.md) and [Chapter One seeds](26_CHAPTER_ONE_EVENT_SEEDS.md). Keep the [M06 ledger](../provenance/MILESTONE_06_DECISION_LEDGER.md), [source register](../provenance/MILESTONE_06_SOURCE_REGISTER.md) and [reverse audit](../provenance/MILESTONE_06_REVERSE_SEMANTIC_AUDIT.md) with the [M07 ledger](../provenance/MILESTONE_07_DECISION_LEDGER.md) and [reverse audit](../provenance/MILESTONE_07_REVERSE_SEMANTIC_AUDIT.md).
+
+Kaira is physically restored but visibly white-skinned and still perceived as Afflicted. She moves socially sideways, not upward. Afflicted people remain beneath noble/commoner/peasant society; housing, employment, pricing and social opportunities remain restricted. The city commonly expresses persistent taboo as indifference, dismissal, exclusion and commercial inflexibility even though its population is generally more educated about Affliction's noncontagious genetic nature. The close-knit hub more openly uses rumor, Eternal Ladder gestures and harassment; individuals vary.
+
+A landlord/agent absorbed in a book and unwilling to negotiate illustrates urban indifference. **500 versus comparable 370 is ILLUSTRATIVE only**: no rent, currency, surcharge or market rule is fixed. Limited savings, expert manual chainmail craft and independent agency coexist with restricted opportunity. Preserve the prepared-ring supplier, proposed three-basin General Metal Manipulation, novice control and eventual robe business; no instant success or bargaining mastery follows.
+
+Use [architecture](22_CIVILIZATION_AND_WILDS.md#milestone-07-ordinary-city-architecture) and [six unaltered visual references](../references/m07-architecture/README.md) for description only. Existing pixel maps govern routes/locations; the author will supply maps as needed for scenes. No failed render, new map or drawing workflow is adopted.
+
+**OPEN:** apartment type/location, rent/currency/terms, signing outcome, landlord identity, dialogue, scene chronology and exact city identity. Laira/Maek/Raest/Vael remain PROPOSED; Kaira is manuscript spelling, Kira shorthand, abecca lowercase. M06 polity/commodity/timber/shipping/piracy decisions, unresolved fifth-wheel recovery and earlier OPEN items remain as recorded. Six arcs, original Armor/mushroom first third-to-half V, Hollowmere #6 Green with first entry VI, Yellow/fourth and high-end ring/money only after the competition remain locked.

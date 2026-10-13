@@ -1,1 +1,7 @@
 /references/MK117/*.pdf binary
+
+# M07 original text payloads retain exact pouch bytes across checkouts.
+/provenance/milestone-07/EXECUTABLE.md -text
+/provenance/milestone-07/SHA256_MANIFEST.json -text
+/provenance/milestone-07/decisions/M07_BOOK_CONTINUITY.md -text
+/references/m07-architecture/SOURCE_README.md -text

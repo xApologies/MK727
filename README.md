@@ -1,3 +1,5 @@
+> **Current checkpoint — M07:** Continue at [Book Red Arc II's apartment negotiation](live-model/16_NEXT_THREAD_HANDOFF.md#milestone-07-current-handoff--arc-ii). Earlier sections below are cumulative milestone history.
+
 # MK727 — Genesis Card Saga / Milestone 02
 
 Incremental, non-destructive update to the published [MK727](https://github.com/xApologies/MK727) First Light repository. **Do not overwrite or regenerate** the complete 1,245-record Genesis Card catalogue already in `catalogues/genesis-cards/`.
@@ -45,3 +47,9 @@ The [decision ledger](provenance/MILESTONE_05_DECISION_LEDGER.md), [source regis
 The [continental polity/trade specification](live-model/25_CONTINENTAL_POLITIES_AND_TRADE.md) and [Chapter One event seeds](live-model/26_CHAPTER_ONE_EVENT_SEEDS.md) integrate all six workshop sections. Three [original cartographic references](references/m06-cartography/README.md) are archived unchanged. The atlas is now available; its approximate annotations do not replace the missing Crown-domain overlay or establish measured routes.
 
 The [decision ledger](provenance/MILESTONE_06_DECISION_LEDGER.md), [source register](provenance/MILESTONE_06_SOURCE_REGISTER.md), [reverse audit](provenance/MILESTONE_06_REVERSE_SEMANTIC_AUDIT.md) and [current handoff](live-model/16_NEXT_THREAD_HANDOFF.md#milestone-06-current-handoff) preserve qualifiers and previous milestones. Names remain proposed, `abecca` is current spelling, and story/card locks remain unchanged. This is a checkpoint, not new manuscript chapters.
+
+## Milestone 07
+
+[Arc II's opening seed](live-model/21_M04_BOOK_RED_EXPANSION.md#milestone-07-arc-ii-apartment-opening) follows Arc I's city-gate transition. Physical restoration leaves Kaira visibly white-skinned and perceived as Afflicted; independent agency and craft expertise coexist with continued social exclusion and limited savings. Apartment terms and outcome remain OPEN.
+
+The [architecture archive](references/m07-architecture/README.md) preserves six original visual references without granting them map or plot authority. The [decision ledger](provenance/MILESTONE_07_DECISION_LEDGER.md), [reverse audit](provenance/MILESTONE_07_REVERSE_SEMANTIC_AUDIT.md) and [validator](provenance/milestone-07/validate.py) document baseline comparison, preservation and continuity. All older provenance, maps, PDFs, catalogues, names and M06 trade decisions remain unchanged.

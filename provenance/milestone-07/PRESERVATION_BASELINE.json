@@ -1,0 +1,522 @@
+[
+  {
+    "path": ".gitattributes",
+    "sha256": "e288ca92c3ab9395445f464562e6dd1a4c762e7ed8a1bb8b9dad53da889ed79d",
+    "bytes": 31
+  },
+  {
+    "path": ".gitignore",
+    "sha256": "83f3f3591d4b9f23b7c5f23ba8998710fb39cb7101704effb06459d5940b7276",
+    "bytes": 57
+  },
+  {
+    "path": "AUDIT.md",
+    "sha256": "9ae9ed45a516461dddfc8a8601edf72b37f032254789ee693a77532283f521d3",
+    "bytes": 190
+  },
+  {
+    "path": "AUDIT_MILESTONE_02.md",
+    "sha256": "58ba629712096e71f5bf840c303389572e6bf1e718fe70f7910d2eab5b8e2eb9",
+    "bytes": 1497
+  },
+  {
+    "path": "CONSTITUTION.md",
+    "sha256": "c98b7f6a3bc94d1955439416eb9cea1bada81cf804819be5a92c7f936a62efae",
+    "bytes": 12363
+  },
+  {
+    "path": "EXECUTABLE.md",
+    "sha256": "5fc8e516b0eaadf923f029f3090449e727a9835449173fe614119a40ece26426",
+    "bytes": 3534
+  },
+  {
+    "path": "INHERITANCE.md",
+    "sha256": "3ffcc597ff0022394635e02b116ed81264fce0864bf7d04e9afd7bfee17964ba",
+    "bytes": 4292
+  },
+  {
+    "path": "MILESTONE_02_DEPLOYMENT_REPORT.md",
+    "sha256": "4ea35bec2cdd1a39af33c73a9663add45f08f2665ede73a72127c53f55f45853",
+    "bytes": 8624
+  },
+  {
+    "path": "README.md",
+    "sha256": "ab22e3065cbf99211d435e01cc5dc6e6f5a8a1af5ddb49356bdbe2cf9598fffc",
+    "bytes": 5749
+  },
+  {
+    "path": "README_MILESTONE_03.md",
+    "sha256": "44b0c4bb4317fe2f8e480f942ef74b2fefcc09ad838d6ee1855bdae29fb63535",
+    "bytes": 1123
+  },
+  {
+    "path": "catalogues/genesis-cards/MK157_ORIGINAL_BINDINGS.csv",
+    "sha256": "caa71867ee138af97869e08ca2793b6777b4b9171cb86703c316ca92dd9bf089",
+    "bytes": 1033705
+  },
+  {
+    "path": "catalogues/genesis-cards/MK157_ORIGINAL_SUMMONED_ENTITIES.csv",
+    "sha256": "abaf139cc6f8bdb7bf0ad9421f7d21c5278caa1b3d3ac72cdbef4da768f5d857",
+    "bytes": 482504
+  },
+  {
+    "path": "catalogues/genesis-cards/MK727_BINDINGS_FULL.csv",
+    "sha256": "c9b0da644369365f50bb57fa88a500bf8a0960e04c084407e82ab1ec10b9d41b",
+    "bytes": 1079170
+  },
+  {
+    "path": "catalogues/genesis-cards/MK727_GENESIS_CARD_MASTER_1245.csv",
+    "sha256": "5a252433c88582a549038bdf45b8b64ee6af1cadd42894fd4d2a92d4ccf3b003",
+    "bytes": 1626304
+  },
+  {
+    "path": "catalogues/genesis-cards/MK727_SUMMONS_FULL.csv",
+    "sha256": "87071a3c44e7c3beba0a8cf96645963427927771b2030c2046781932ab44a85d",
+    "bytes": 476306
+  },
+  {
+    "path": "catalogues/genesis-cards/PRIME_BASIN_DECISIONS.json",
+    "sha256": "1a6533ce8aeedb60539eeeb95b8eab406b6dcc6c1a528b665a671f6edc78f499",
+    "bytes": 859
+  },
+  {
+    "path": "catalogues/names/names.csv",
+    "sha256": "ec87a9571eb76cce202348d147697dad6a1d7d4794751fe00ab2a44a2a18a1f2",
+    "bytes": 4295
+  },
+  {
+    "path": "catalogues/names/names.txt",
+    "sha256": "f5248247d30906a927491dc505b752cbc4c374e8383714af26a0639b6f0b78de",
+    "bytes": 1140
+  },
+  {
+    "path": "live-model/01_MAGIC.md",
+    "sha256": "38f0444b7492763d2f34744ab90e3ba552f3d615249a236b3fb4fd2f62f4e315",
+    "bytes": 3400
+  },
+  {
+    "path": "live-model/02_WORLD.md",
+    "sha256": "6e5d097b964c60fca653deeece46507fd89309e7db3ea67e436f478e3cf75549",
+    "bytes": 6931
+  },
+  {
+    "path": "live-model/03_KIRA.md",
+    "sha256": "3a29e8f03ff0ee302df064ede1e81762c7860211544a1786ff357cc388a12c81",
+    "bytes": 8943
+  },
+  {
+    "path": "live-model/04_CATALOGUE.md",
+    "sha256": "294c69f94666f0d17657f3c441bc87b23923072ec1d2fc22c68f999fcc6ff391",
+    "bytes": 1102
+  },
+  {
+    "path": "live-model/05_PROVENANCE.md",
+    "sha256": "73c659bef9e326133716a6a3ade6403212ab86d5e26ecd13075f8c96d98c618c",
+    "bytes": 2355
+  },
+  {
+    "path": "live-model/06_STORY_AND_SAGA.md",
+    "sha256": "79e5bfa23ae6f6ff89a6076d3e39ba80d58f508191772294ca34f348ddf82a7f",
+    "bytes": 9686
+  },
+  {
+    "path": "live-model/07_BLACK_CARDS.md",
+    "sha256": "1f98a09d7a2dc3e8c925664417e6340ef837cdbd8f74e82c673f51f1f6353fb4",
+    "bytes": 4678
+  },
+  {
+    "path": "live-model/08_EDUCATION_PROFESSIONS.md",
+    "sha256": "e99e62b4682faffa478ed7c564e0f6adfd89d603ac030860ab878bbb59536236",
+    "bytes": 6576
+  },
+  {
+    "path": "live-model/09_ARC_ONE.md",
+    "sha256": "765aea890f5a81970f3e56080aab0a93f15270074104d262328f3878c8fcd904",
+    "bytes": 8093
+  },
+  {
+    "path": "live-model/10_SETTLEMENT.md",
+    "sha256": "d9e4deb17598d52991bd4d58461b35339a2912364256a0d6c0dcc717749ffaad",
+    "bytes": 5304
+  },
+  {
+    "path": "live-model/11_DECISION_LEDGER.md",
+    "sha256": "e735ea068a816643daebb14ee56ba0aa267d8298d23566b506777bb1fe9766ee",
+    "bytes": 15372
+  },
+  {
+    "path": "live-model/12_BOOK_RED_SIX_ARCS.md",
+    "sha256": "7c956b54e49d0aac43710567ff2dfc109b5407b501184cae605d98f821dc5e5b",
+    "bytes": 7112
+  },
+  {
+    "path": "live-model/13_DIMENSIONAL_RING_AND_TOURNAMENT.md",
+    "sha256": "01f8bfbc4d76c0b61a3a5a3ed6c3f9dd4d1782a8e9cad6c3c5c55b338340645f",
+    "bytes": 5227
+  },
+  {
+    "path": "live-model/14_SPATIAL_EVENT_ENGINE.md",
+    "sha256": "4e09b24d37eef1c02af4ff2421612beb1da2c982e2ff7500fe8b158dcca56ca2",
+    "bytes": 4222
+  },
+  {
+    "path": "live-model/15_NAMING_AND_WORKSHOP.md",
+    "sha256": "cb7a5a5d910e5b6bdce197be9b562fb4a944a7cd607779cb7499b7687e546fcd",
+    "bytes": 3104
+  },
+  {
+    "path": "live-model/16_NEXT_THREAD_HANDOFF.md",
+    "sha256": "1c1ec484936f90fdf8d4adfb1175004b3d441e921cb4180fbff978cfa50d13b3",
+    "bytes": 9290
+  },
+  {
+    "path": "live-model/17_MATERIAL_MANIPULATION.md",
+    "sha256": "424a1c20549502647f1f36d9d0fbd280a867a5c30e627e4a78b81f31af5862e8",
+    "bytes": 4666
+  },
+  {
+    "path": "live-model/18_CARDSMITHING_WORKSPACE.md",
+    "sha256": "42083bccb6e518e4c1b6e1fc57e3f9c24654acad62b126029c7d10e42e4bf8f9",
+    "bytes": 6660
+  },
+  {
+    "path": "live-model/19_ANTAGONISTS.md",
+    "sha256": "7131bfacee3157e98f790b58fd490dbe7de7170d72b560443c92ca2754c02729",
+    "bytes": 8010
+  },
+  {
+    "path": "live-model/20_REALMS_AND_STARSCAPE.md",
+    "sha256": "0ae8dc59a045b0e10556159265ece8a00a272987d5c1efc7c51c5ead0a0feb63",
+    "bytes": 6614
+  },
+  {
+    "path": "live-model/21_M04_BOOK_RED_EXPANSION.md",
+    "sha256": "25886edc263cf0c89ceff77f2a0a9ac78e8a9ed63561d9c1928043bc9068b229",
+    "bytes": 10350
+  },
+  {
+    "path": "live-model/22_CIVILIZATION_AND_WILDS.md",
+    "sha256": "847018ca9bf8421c4425ddcbce641ad534d17a9e705253a6f6c3c6c093ca113b",
+    "bytes": 6614
+  },
+  {
+    "path": "live-model/23_CORRIDORS_AND_PROFESSIONS.md",
+    "sha256": "ca3679710c2a2e4526a81e856bb892a5d52c8ab1612762bbe47c60811a28e1f3",
+    "bytes": 5825
+  },
+  {
+    "path": "live-model/24_CARTOGRAPHIC_PROVENANCE.md",
+    "sha256": "6b85fe4401787c9dc4d7cc26c0f2152bf9771aa2edbf218280203e8f848ca658",
+    "bytes": 6368
+  },
+  {
+    "path": "live-model/25_CONTINENTAL_POLITIES_AND_TRADE.md",
+    "sha256": "1874be6ce856fe42042588210c6a8f88bd397c59f20d8eaee5828c19174d4f98",
+    "bytes": 9724
+  },
+  {
+    "path": "live-model/26_CHAPTER_ONE_EVENT_SEEDS.md",
+    "sha256": "50af8b1a1c8ca1c24b7cbbcddc705f7bfc9e9463bd02f01f252d61543bf965f8",
+    "bytes": 5848
+  },
+  {
+    "path": "live-model/INDEX.md",
+    "sha256": "d1ce0f92ddade605ff05923b6bd9b3e9a04c1448bea288741cdf2a516ded9815",
+    "bytes": 7081
+  },
+  {
+    "path": "provenance/MILESTONE_03_DECISION_LEDGER.md",
+    "sha256": "3481a8e8d80edd910c236db78127feadfa9234c6260b2f8ab4cae9e650d46d1b",
+    "bytes": 2723
+  },
+  {
+    "path": "provenance/MILESTONE_03_REVERSE_SEMANTIC_AUDIT.md",
+    "sha256": "63727348b0e41922c6a00b7f60d28df9405fdde8a8cffea48b5c4ffe28dd87e0",
+    "bytes": 14100
+  },
+  {
+    "path": "provenance/MILESTONE_04_DECISION_LEDGER.md",
+    "sha256": "99e0995f87e95662a0077e3981df95d092d4e75c84bbe61364dbca1656308d60",
+    "bytes": 17533
+  },
+  {
+    "path": "provenance/MILESTONE_04_REVERSE_SEMANTIC_AUDIT.md",
+    "sha256": "a2631c42051b9f23e95331b75a506b838e68bd904283472d82279eb8d120027f",
+    "bytes": 19307
+  },
+  {
+    "path": "provenance/MILESTONE_05_DECISION_LEDGER.md",
+    "sha256": "cc23c6aa6de2d44305f93e0beffca74b4a94780e39da40aab36eb71c920d9f71",
+    "bytes": 17194
+  },
+  {
+    "path": "provenance/MILESTONE_05_REVERSE_SEMANTIC_AUDIT.md",
+    "sha256": "7f7dc444d69ffcbf887b560032b38098a049bd8819b375b93eea7bb6f3aa2c8a",
+    "bytes": 23556
+  },
+  {
+    "path": "provenance/MILESTONE_05_SOURCE_REGISTER.md",
+    "sha256": "4453918a1fa430a9d22b3268c1d566f2a77ef5ecf3dcaef0c5a45df27fffb48d",
+    "bytes": 7173
+  },
+  {
+    "path": "provenance/MILESTONE_06_DECISION_LEDGER.md",
+    "sha256": "7be81a9b000ddc4b35534e17817012f27d3ddc08ddc2e8e4a7307e8957a9bddf",
+    "bytes": 21478
+  },
+  {
+    "path": "provenance/MILESTONE_06_REVERSE_SEMANTIC_AUDIT.md",
+    "sha256": "102a4a5a28e2dab10b3baf991022f73f662cb46d73e02cec19385875c4921b08",
+    "bytes": 29863
+  },
+  {
+    "path": "provenance/MILESTONE_06_SOURCE_REGISTER.md",
+    "sha256": "e8b6421768a68731ce660266f723fcbb7784c0436715560391697499d32bb780",
+    "bytes": 9566
+  },
+  {
+    "path": "provenance/SHA256_MANIFEST.json",
+    "sha256": "43c300f24d7eec9152459d56cfee9cb7d571fda7818a6931f5d2dd52cbdb3ded",
+    "bytes": 2448
+  },
+  {
+    "path": "provenance/milestone-03/EXECUTABLE.md",
+    "sha256": "be6c6375e9ea074066180dd0203c5d51fd37dd5d18897db3d0651a4e82735e8a",
+    "bytes": 4308
+  },
+  {
+    "path": "provenance/milestone-04/EXECUTABLE.md",
+    "sha256": "0d9adfc2002b30454b9e01c829295bff34166a67d307f2895d91807a4e8deed7",
+    "bytes": 3612
+  },
+  {
+    "path": "provenance/milestone-04/PRESERVATION_BASELINE.json",
+    "sha256": "eba6c276f55f5fff4320fdd1de914df9cf8d2e280d054d8838b9a5850dd1c648",
+    "bytes": 7499
+  },
+  {
+    "path": "provenance/milestone-04/SHA256_MANIFEST.json",
+    "sha256": "1927e7dee5e4a2ac3b9f20049b6cbb6c26187ce0f336a88fffa296649186674e",
+    "bytes": 2222
+  },
+  {
+    "path": "provenance/milestone-04/SOURCE_REGISTER.json",
+    "sha256": "854ff3d5092f5d8266779657c1f9374d7404688d294eae308eb134a3aed3b481",
+    "bytes": 2254
+  },
+  {
+    "path": "provenance/milestone-04/audit/BASELINE.md",
+    "sha256": "07845f5e403b52e0b24de94ab800c9517327487e84e3a5291b3ca405f5bc8702",
+    "bytes": 2603
+  },
+  {
+    "path": "provenance/milestone-04/decisions/01_BOOK_RED.md",
+    "sha256": "753111b3c77fa645fd94a2c59df397a608d088c5f7dbb5a75b9cec76d2c5b711",
+    "bytes": 4125
+  },
+  {
+    "path": "provenance/milestone-04/decisions/02_MATERIAL_MANIPULATION.md",
+    "sha256": "bb6807b9f2bd017323b364facc45361fd45061557bb40495dff2bfccd9ea0e93",
+    "bytes": 3015
+  },
+  {
+    "path": "provenance/milestone-04/decisions/03_CARDSMITHING_VAEN.md",
+    "sha256": "b6c16d72a12899837bd8572b138fda5d601ca75865649daba4f8b9478158e235",
+    "bytes": 2951
+  },
+  {
+    "path": "provenance/milestone-04/decisions/04_ANTAGONISTS.md",
+    "sha256": "0c094f9b34f94e64abbc21f55ec030f1b9694e8764de3bd4f01713c2b0de1c1d",
+    "bytes": 3110
+  },
+  {
+    "path": "provenance/milestone-04/decisions/05_REALMS.md",
+    "sha256": "fa92cdf2d440d1831547c0ba50a72d10b7f16ef1c589b1f5f62626ef024f911d",
+    "bytes": 2610
+  },
+  {
+    "path": "provenance/milestone-04/decisions/06_OPEN_AND_GUARDRAILS.md",
+    "sha256": "b6aa0983904287639f973d789ad68733510cdb512f4fa0006c408618e5901719",
+    "bytes": 2058
+  },
+  {
+    "path": "provenance/milestone-04/validate.py",
+    "sha256": "561421de5c40d85cab5bcf073ca3d8873e9fb4144dc8c149be69602794ed5e06",
+    "bytes": 9247
+  },
+  {
+    "path": "provenance/milestone-05/EXECUTABLE.md",
+    "sha256": "dd753686e77f2ad52de3dff206ce9e69ae3415e8b6ef042c8dadac8f50fb0ac8",
+    "bytes": 3017
+  },
+  {
+    "path": "provenance/milestone-05/PRESERVATION_BASELINE.json",
+    "sha256": "df09ca283dba4b9a98549fc7b2c324ffbade012fa695be91db8fb342ac0f4ab9",
+    "bytes": 12441
+  },
+  {
+    "path": "provenance/milestone-05/SHA256_MANIFEST.json",
+    "sha256": "3f09b4fdcf9de4171d93c6e9935ad27b5aaf35a0e8b59d11766535a8f37ca2de",
+    "bytes": 855
+  },
+  {
+    "path": "provenance/milestone-05/decisions/01_HOLLOWMERE.md",
+    "sha256": "b58966ffe1013a47260da495e86e41d7aa56fefe5dc62123dfe8b12b5e40d0b8",
+    "bytes": 1841
+  },
+  {
+    "path": "provenance/milestone-05/decisions/02_CIVILIZATION.md",
+    "sha256": "0b78171cae6a2e5da8d4b87ac6d2ddf8d7e830ea01d7d7c780d527c4556eac0e",
+    "bytes": 2661
+  },
+  {
+    "path": "provenance/milestone-05/decisions/03_CORRIDORS.md",
+    "sha256": "c4861dd658483f12c1c0b52d7ac560953a141854bec91dac79696736efd122bb",
+    "bytes": 2238
+  },
+  {
+    "path": "provenance/milestone-05/decisions/04_MAP_AND_UNDERWORLD.md",
+    "sha256": "9ef26d4ee62f7e61c1fa1201abe2db3d477b2673b6100651a09872b77b44fa94",
+    "bytes": 1897
+  },
+  {
+    "path": "provenance/milestone-05/validate.py",
+    "sha256": "575e651cc6cf9315447a76bcdd2989aca742af4a2273cbe00843dcfab7c92b98",
+    "bytes": 12484
+  },
+  {
+    "path": "provenance/milestone-06/EXECUTABLE.md",
+    "sha256": "313b44f2de7b30578ac5b9e8641bbe460e26a0d84c6b7d2f4311e457c8014fd4",
+    "bytes": 2910
+  },
+  {
+    "path": "provenance/milestone-06/PRESERVATION_BASELINE.json",
+    "sha256": "ecbe792f9e7ddb55b2717cce4bd4180c5ac2ea23bd15e72c896b9fdd36b062e4",
+    "bytes": 14895
+  },
+  {
+    "path": "provenance/milestone-06/SHA256_MANIFEST.json",
+    "sha256": "42598c78e11a3da29009e95f6ef5bedb6c26ee627630ea854a2c1252b2187600",
+    "bytes": 853
+  },
+  {
+    "path": "provenance/milestone-06/SOURCE_REGISTER.json",
+    "sha256": "2ad55c6f38154d32ad83fb889dd1fdd78f736c1a3857b39866cf07b44efccba0",
+    "bytes": 17901
+  },
+  {
+    "path": "provenance/milestone-06/decisions/M06_WORKSHOP.md",
+    "sha256": "a6f73122b6f6c4ece7f0c1e26414a23bd73d56b70df7ee5ccc1344201a90d937",
+    "bytes": 8277
+  },
+  {
+    "path": "provenance/milestone-06/validate.py",
+    "sha256": "03a4ff590d684af8dc9884ab0907009834ad923542873fbfe3f4e7b644689823",
+    "bytes": 17228
+  },
+  {
+    "path": "references/MK117/MK117_Book1_Arc_Outline.pdf",
+    "sha256": "4fefd9bdba03a79d537f713665698699bbf60176099a983dde5490ebf3e45fad",
+    "bytes": 14176
+  },
+  {
+    "path": "references/MK117/MK117_Chapters_1_5_Master_Workup.pdf",
+    "sha256": "f7897d1cd08b81d8a1c663cfd5516578b364dcb75a4fe2e64948f8ec85bcf547",
+    "bytes": 11572
+  },
+  {
+    "path": "references/agriculture/36 Agricultural Slices.pdf",
+    "sha256": "4cff8803841bafd0c03b6b129bf5ee020dcc620a0b7930f3d3f7437bec9c1d4d",
+    "bytes": 60246
+  },
+  {
+    "path": "references/genesis-point-antagonists/43 Bandits.pdf",
+    "sha256": "37646717e91963bfb7143fae83ea4aaf06615d837bb41454c05131e7fed87588",
+    "bytes": 37089
+  },
+  {
+    "path": "references/genesis-point-antagonists/44 Cartels.pdf",
+    "sha256": "67f3d1b6d1134eb987c90d2551ce469154eb6452d73d1cddf51ff9b75549cd8f",
+    "bytes": 40236
+  },
+  {
+    "path": "references/genesis-point-antagonists/45 Cabal of Ash and Crown.pdf",
+    "sha256": "65161e5c546e48b8ae65ec078467241567461dac060b6b2d68f9b5b259ede8f7",
+    "bytes": 29230
+  },
+  {
+    "path": "references/genesis-point-antagonists/46 Evil Organizations.pdf",
+    "sha256": "3886c0630650fb8b1232cb696e6405ae548222e64a7e1451914dc29968ae9ece",
+    "bytes": 83251
+  },
+  {
+    "path": "references/genesis-point-antagonists/README.md",
+    "sha256": "4bce088b57866420d8da6eb2ac1b4f26b5ec9d5bbdc739cc5a04f607bf2ccf6e",
+    "bytes": 2357
+  },
+  {
+    "path": "references/m04-visuals/7CD307F0-1392-45F2-B861-235170ACF4E7.jpeg",
+    "sha256": "5edc9a19679c355101dd5e05af9ef7e29e2fb7b8fbb0f2d58ff292e9140a7862",
+    "bytes": 809047
+  },
+  {
+    "path": "references/m04-visuals/IMG_6926.jpeg",
+    "sha256": "3fe046e4ddbbfac9c6e9dbd57d99d6c1e1123fd0810e0b088778b07fac87a885",
+    "bytes": 262595
+  },
+  {
+    "path": "references/m04-visuals/IMG_6964.jpeg",
+    "sha256": "b8c18c90390f945114d86cec3f57b9ca382f5c0cc45258bd9292c2bcb43dabf3",
+    "bytes": 290942
+  },
+  {
+    "path": "references/m04-visuals/README.md",
+    "sha256": "451d2dd1271099faf708daff34b976828391b48be5613695990306f11d2b2d01",
+    "bytes": 1870
+  },
+  {
+    "path": "references/m06-cartography/README.md",
+    "sha256": "8615c24a2ba3273f13c204e65f422d2dd1f7da71af6c609756085d6b2efd8808",
+    "bytes": 2551
+  },
+  {
+    "path": "references/m06-cartography/SOURCE_README.md",
+    "sha256": "17d3847854229a7a36c96beac6f1473da81476801a4115d69e7e4336f68d1569",
+    "bytes": 738
+  },
+  {
+    "path": "references/m06-cartography/atlas_seven_merchant_city_markers.jpeg",
+    "sha256": "63a84686546712670192cbe221186dee015852bc6abe94372da8de91e4fd2311",
+    "bytes": 209107
+  },
+  {
+    "path": "references/m06-cartography/atlas_three_kingdom_boundaries.jpeg",
+    "sha256": "af8b02ffdab95338811899607b334d9adc80591467aa66538a418dc8b89e38fb",
+    "bytes": 311033
+  },
+  {
+    "path": "references/m06-cartography/atlas_unmarked.jpeg",
+    "sha256": "fb56845d229153d84fb295bf416336c9cc550227cb764020d3cc8362704ab53b",
+    "bytes": 641330
+  },
+  {
+    "path": "references/village-hub/legend_1.jpeg",
+    "sha256": "c454c5158813e8d15716012fa553c028fe7ee87c1a833ce6f3fdc76b4bcba5c1",
+    "bytes": 180447
+  },
+  {
+    "path": "references/village-hub/legend_2.jpeg",
+    "sha256": "31ff78f1d15c1afc8451e783ea01915bb344f4c238b4e4fd4a02b3a396142323",
+    "bytes": 178275
+  },
+  {
+    "path": "references/village-hub/legend_3.jpeg",
+    "sha256": "f8a0bd8481d649d5c3bb7201f1f18e8fed4a5814ff690bea97f9c1ae479a4874",
+    "bytes": 156010
+  },
+  {
+    "path": "references/village-hub/village_hub_master.JPG",
+    "sha256": "a5e2e9b7fcfa69af7b75b21eb29a32a5e7f11745e7c4cdb81c1f9afb43641d63",
+    "bytes": 1688276
+  }
+]

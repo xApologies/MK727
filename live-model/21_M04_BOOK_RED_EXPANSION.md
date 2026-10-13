@@ -1,3 +1,5 @@
+> **Current M07 opening:** [Arc II apartment seed](#milestone-07-arc-ii-apartment-opening) adds the starting situation and its social limits. All compatible earlier arc decisions remain effective.
+
 > **Current M06 update:** [Milestone 06 opening and trade checkpoint](#milestone-06-opening-and-trade-checkpoint) governs these scoped additions and supersessions; compatible earlier decisions remain effective.
 
 > **Current M05 update:** [Milestone 05 cumulative continuity](#milestone-05-cumulative-continuity) governs the scoped corrections; earlier milestone decisions remain effective where not superseded.
@@ -69,3 +71,19 @@ Red is the first continuous volume of seven with a satisfying identity-formation
 [Chapter One salve/collision seeds](26_CHAPTER_ONE_EVENT_SEEDS.md) fill the existing opening slot without replacing the five-chapter Arc I sequence or its collapse/restoration pipeline. The apothecary's husband is a subordinate smith, not a new delivery apprentice. The recurring noble-son rival is established; his proposed name Vael remains unratified. The tournament exists early, but Kaira's first Hollowmere delve and competition stay Arc VI; occasional deliveries do not make her socially integrated beforehand.
 
 Current spelling is **abecca**, with botany/trade in [25](25_CONTINENTAL_POLITIES_AND_TRADE.md#abecca-and-commodity-exchange). M06 supplies the previously absent atlas and two annotations; separate original source maps/Crown overlay remain unavailable. Arc V original blank-glass Armor/mushroom consumption, Arc VI Yellow/fourth, post-competition high-end ring/money and all other M04 beats remain. The rival's existence is established; proposed names, exact dialogue/routes/timing and specific later encounters remain OPEN.
+
+## Milestone 07 Arc II apartment opening
+
+Source: [M07 Arc II decisions](../provenance/milestone-07/decisions/M07_BOOK_CONTINUITY.md#arc-ii-opening--established). **ESTABLISHED narrative direction**, with the offer ILLUSTRATIVE and detailed prose OPEN.
+
+Arc I ends on Kaira walking through the city gates toward a new life within its existing five-chapter WORKING scaffold. Arc II, **Orange District**, begins **in medias res with Kaira haggling over her first apartment**. It does not replay the gate arrival, impose a new chapter number or establish how long she has been in the city.
+
+Kaira is physically restored yet still visibly white-skinned and **perceived as Afflicted**. Her health has changed; public perception and class standing have not improved. The move is **socially sideways, not upward**. Afflicted people remain beneath the conventional noble/commoner/peasant hierarchy, with restricted housing, employment, pricing and social opportunities. The city is not a social refuge or equal-opportunity environment. This qualifies older departure/independence language without reversing restoration.
+
+The Village Hub is close-knit, rumor-driven and overtly superstitious, including **Eternal Ladder gestures and direct harassment**. The urban population is generally more educated that Affliction is a **noncontagious genetic condition**, but taboo persists. Common urban treatment shifts toward indifference, dismissal, exclusion and commercial inflexibility. These are social tendencies; not all individuals behave alike.
+
+A **landlord/agent absorbed in a book and unwilling to negotiate** illustrates that indifference. An offer of **500 versus comparable 370 is ILLUSTRATIVE**, not a locked rental price, currency, surcharge or market rule. Exact terms, landlord identity, residence, signing outcome and dialogue remain **OPEN**. The numbers do not establish a formula or an agreed contract.
+
+Her limited savings, craft expertise, lack of social opportunity and independent agency coexist. This opening grants neither instant business success nor bargaining mastery. The earlier [Arc II craft path](#arc-ii--orange-district) is preserved: prepared chainmail rings from a local smith, proposed three-basin General Metal Manipulation, novice card control and practice, and eventual robe development/business. Later commissions and income are not moved into the apartment negotiation.
+
+Apartment type/location, price/currency/terms, outcome, landlord, dialogue, scene chronology and exact city identity remain OPEN. [The architecture standard](22_CIVILIZATION_AND_WILDS.md#milestone-07-ordinary-city-architecture) supplies descriptive continuity only; no image establishes this residence or a scene route. Chapter One seeds, M06 trade, six arcs and all later Armor/Hollowmere/tournament/ring locks remain unchanged.

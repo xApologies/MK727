@@ -1,0 +1,2 @@
+# M07 architectural reference assets
+These six images were supplied by the author to convey the consistent look of MK727 cities: pale phase-grown stone, orthogonal flat-roofed buildings, 2–4 occupied stories, plazas, fountains and greenery. They are not maps, not spatial authority, not chapter scenes, and not generated city layout proposals. Original pixels preserved. If identical image bytes already exist in Git, avoid duplicate blobs.

@@ -1,3 +1,5 @@
+> **Current M07 opening:** [Arc boundary and apartment seed](#milestone-07-arc-boundary-and-opening) supplements the current six-arc spine. Arc count, later event timing and equipment locks are unchanged.
+
 > **Current M06 update:** [Milestone 06 opening seeds within six arcs](#milestone-06-opening-seeds-within-six-arcs) governs these scoped additions and supersessions; compatible earlier decisions remain effective.
 
 > **Current M05 update:** [Milestone 05 Hollowmere continuity](#milestone-05-hollowmere-continuity) governs the scoped corrections; earlier milestone decisions remain effective where not superseded.
@@ -49,3 +51,9 @@ Six arcs and Arc I's five-chapter WORKING sequence remain. Exact Hollowmere race
 ## Milestone 06 opening seeds within six arcs
 
 The [salve errand and noble-son collision](26_CHAPTER_ONE_EVENT_SEEDS.md) develop the existing Chapter One/Arc I slot. Early tournament qualification/familiarization for the visiting noble is distinct from Kaira's Arc VI competition and first Hollowmere delve. No new arc or chapter is added. The current six-row table remains unchanged, including first-third/half Arc V original blank-glass Armor/mushroom consumption, team Yellow/fourth and high-end ring/cash after competition. The seven-book rivalry does not impose a fixed scene in every book or standalone closure.
+
+## Milestone 07 arc boundary and opening
+
+Arc I's five-chapter WORKING scaffold now has its established final dramatic transition: **Kaira walking through city gates toward a new life**. Arc II, **Orange District**, opens **in medias res with her first-apartment negotiation**, without replaying arrival or fixing a new chapter number. [The detailed opening](21_M04_BOOK_RED_EXPANSION.md#milestone-07-arc-ii-apartment-opening) preserves limited savings, continued Afflicted stigma, manual expertise and novice card control. The city does not improve her class standing; eventual robe development is not instant success in this opening.
+
+The current six-row M04 table remains the sequence authority: I Village Hub, II Orange District, III Chainmail Robe Movement, IV Blackstone education, V Aithren Community, VI King's Tournament. Original blank-maege-glass Armor consumes the living black mushroom in the first third to half of V, not during restoration. VI retains Yellow/fourth, first Hollowmere entry and high-end ring/money after competition; no earlier ring. These are preserved locks, not new M07 events. Apartment type/location/terms, landlord, outcome, dialogue, chronology and exact city identity remain OPEN.
